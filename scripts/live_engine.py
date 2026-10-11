@@ -396,7 +396,7 @@ def fetch_ondemand_matches() -> list:
             # Server 1 HD
             enc_primary = encrypt_match_id(mid, WORKER_AUTH_KEY)
             p_url = f"{WORKER_BASE}/live/{enc_primary}.m3u8"
-            servers.append({'name': 'Server 1 (Worker HLS)', 'url': p_url, 'referer': ONDEMAND_REFERER})
+            servers.append({'name': 'Server 1 (Worker HLS)', 'url': p_url, 'referer': ONDEMAND_REFERER, 'source': 'ondemand'})
             seen_urls.add(p_url)
 
             # Substreams
@@ -410,7 +410,7 @@ def fetch_ondemand_matches() -> list:
                     if s_url not in seen_urls:
                         seen_urls.add(s_url)
                         label = f"Server {len(servers) + 1} ({sub_name} {sub_loc})".strip()
-                        servers.append({'name': label, 'url': s_url, 'referer': ONDEMAND_REFERER})
+                        servers.append({'name': label, 'url': s_url, 'referer': ONDEMAND_REFERER, 'source': 'ondemand'})
 
             # TV Channels
             for tv in (m.get('tvChannels') or []):
@@ -422,7 +422,7 @@ def fetch_ondemand_matches() -> list:
                     if t_url not in seen_urls:
                         seen_urls.add(t_url)
                         label = f"Server {len(servers) + 1} ({tv_name})"
-                        servers.append({'name': label, 'url': t_url, 'referer': ONDEMAND_REFERER})
+                        servers.append({'name': label, 'url': t_url, 'referer': ONDEMAND_REFERER, 'source': 'ondemand'})
 
         is_hot = bool(m.get('popular') or m.get('trending') or (m.get('viewers', 0) or 0) >= 10) or any(pl in league.lower() for pl in PREMIUM_LEAGUES)
 
@@ -755,7 +755,7 @@ def fetch_kltra_matches() -> list:
             else:
                 ref = None
 
-            srv_dict = {'name': f"Kltra - {label}", 'url': resolved_u, 'referer': ref}
+            srv_dict = {'name': f"Kltra - {label}", 'url': resolved_u, 'referer': ref, 'source': 'kltra'}
             if clearkey:
                 srv_dict['clearkey'] = clearkey
             if playback_token:
@@ -910,7 +910,8 @@ def fetch_beesport_matches() -> list:
             bs_servers.append({
                 'name': srv_label,
                 'url': stream_u,
-                'referer': LIVEEVENT_REF_URL or 'https://new-player.greenvora.net/'
+                'referer': LIVEEVENT_REF_URL or 'https://new-player.greenvora.net/',
+                'source': 'beesport'
             })
 
         is_hot = bool(bm.get('is_hot')) or any(pl in league.lower() for pl in PREMIUM_LEAGUES)
@@ -1041,44 +1042,86 @@ def filter_and_rank_servers(matches_list: list, linear_channels: list, max_serve
         has_multi_court = any(('court' in (s.get('name') or '').lower() or 'table' in (s.get('name') or '').lower()) for s in servers)
         match_max_servers = max(max_servers, len(servers)) if has_multi_court else max_servers
 
-        # Utamakan server yang terbukti aktif. Jika probe gagal (false negative akibat proteksi CDN / timeout),
-        # JANGAN buang match dari playlist, melainkan fallback ke server prioritas terbaik.
-        active_only = [x for x in scored_servers if x[1]]
-        if has_multi_court:
-            def court_key(item):
-                name = (item[0].get('name') or '').lower()
-                is_sd = 1 if 'sd' in name else 0
-                m_c = re.search(r'(?:court|table)\s*(\d+)', name)
-                c_num = int(m_c.group(1)) if m_c else 99
-                return (is_sd, c_num, -item[3])
+        def detect_source(srv):
+            src = srv.get('source')
+            if src:
+                return src.lower()
+            u = srv.get('url', '')
+            n = (srv.get('name') or '').lower()
+            if is_worker_stream(u) or 'worker' in n or 'ondemand' in n:
+                return 'ondemand'
+            elif 'kltra' in n or 'online909' in str(srv) or 'kltratv' in str(srv):
+                return 'kltra'
+            elif 'beesport' in n or 'twinspeed' in str(srv) or 'greenvora' in str(srv):
+                return 'beesport'
+            return 'other'
 
-            if active_only:
-                active_only.sort(key=court_key)
-                chosen = [x[0] for x in active_only[:match_max_servers]]
-            else:
-                scored_servers.sort(key=court_key)
-                chosen = [x[0] for x in scored_servers[:min(len(scored_servers), match_max_servers)]]
-        else:
-            if active_only:
-                active_only.sort(key=lambda x: x[3], reverse=True)
-                chosen = [x[0] for x in active_only[:match_max_servers]]
-            else:
-                scored_servers.sort(key=lambda x: x[3], reverse=True)
-                chosen = [x[0] for x in scored_servers[:min(len(scored_servers), match_max_servers)]]
+        # Aturan User:
+        # - 3 Sumber: OnDemand (Worker HLS), Kltra, Beesport
+        # - 1 Web = Maksimal 2 server terbaik yang BENAR-BENAR NYALA (alive == True)
+        # - Total maksimal 6 server jika semua ada. Jika salah satu web tidak ada/mati, tetap ambil yang ada saja (< 6)
+        grouped_by_src = {
+            'ondemand': [],
+            'kltra': [],
+            'beesport': [],
+            'other': []
+        }
+
+        for item in scored_servers:
+            s_obj = item[0]
+            src = detect_source(s_obj)
+            if src not in grouped_by_src:
+                grouped_by_src[src] = []
+            grouped_by_src[src].append(item)
+
+        chosen_candidates = []
+        for src_key in ['ondemand', 'kltra', 'beesport', 'other']:
+            bucket = grouped_by_src[src_key]
+            # Utamakan server yang terbukti aktif & nyala (alive == True)
+            alive_in_bucket = [x for x in bucket if x[1]]
+            if alive_in_bucket:
+                alive_in_bucket.sort(key=lambda x: x[3], reverse=True)
+                chosen_candidates.extend(alive_in_bucket[:2])
+            elif not is_live:
+                # Untuk upcoming (belum live), ambil max 2 server prioritas tertinggi agar siap saat kick-off
+                bucket.sort(key=lambda x: x[3], reverse=True)
+                chosen_candidates.extend(bucket[:2])
+
+        # Urutkan server: OnDemand (Worker HLS) terdepan (paling stabil), disusul Kltra, lalu Beesport
+        def server_priority_key(item):
+            s_obj = item[0]
+            src = detect_source(s_obj)
+            prio = {'ondemand': 0, 'kltra': 1, 'beesport': 2, 'other': 3}.get(src, 9)
+            return (prio, -item[3])
+
+        chosen_candidates.sort(key=server_priority_key)
+        chosen = [x[0] for x in chosen_candidates[:6]] # Maksimal 6 server total
 
         renamed_servers = []
         for idx, s in enumerate(chosen):
             clean_s = dict(s)
             orig_name = s.get('name') or ''
+            src = detect_source(s)
+            
+            src_tag = {
+                'ondemand': 'Worker HLS',
+                'kltra': 'Kltra',
+                'beesport': 'Beesport',
+                'other': 'Alt'
+            }.get(src, 'Server')
+            
             clean_label = orig_name
-            for prefix in ('Kltra - ', 'OnDemand - ', 'Beesport - '):
+            for prefix in ('Kltra - ', 'OnDemand - ', 'Beesport - ', 'Worker '):
                 if clean_label.startswith(prefix):
                     clean_label = clean_label[len(prefix):]
-            clean_label = clean_label.replace('Server 1', '').replace('Server 2', '').replace('Server 3', '').replace('Server 4', '').strip(' -()')
+            clean_label = clean_label.replace('Server 1', '').replace('Server 2', '').replace('Server 3', '').replace('Server 4', '').replace('Worker HLS', '').strip(' -()')
+            
             if clean_label:
-                clean_s['name'] = f"Server {idx + 1} ({clean_label})"
+                clean_s['name'] = f"Server {idx + 1} ({src_tag} - {clean_label})"
             else:
-                clean_s['name'] = f"Server {idx + 1} (HD)"
+                clean_s['name'] = f"Server {idx + 1} ({src_tag})"
+                
+            clean_s['source_tag'] = src_tag
             renamed_servers.append(clean_s)
 
         m['servers'] = renamed_servers
@@ -1298,7 +1341,8 @@ def render_m3u_entry(grp_title: str, match: dict, server_idx: int, server: dict)
     else:
         match_display = title
 
-    full_title = f"{prefix}{match_display} - {s_name}{time_str}".strip()
+    server_prefix = "" if match.get('is_linear') else f"[S{server_idx}] "
+    full_title = f"{server_prefix}{prefix}{match_display} - {s_name}{time_str}".strip()
 
     extinf = f'#EXTINF:-1 tvg-id="{match.get("id", "")}" tvg-name="{full_title}" tvg-logo="{match.get("logo", "")}" group-title="{grp_title}",{full_title}'
     lines = [extinf]
