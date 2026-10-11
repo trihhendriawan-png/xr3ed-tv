@@ -373,8 +373,32 @@ def parse_detail_streams(data: bytes) -> list:
                 break
     return streams
 
+FOREIGN_LEAGUE_KEYWORDS = [
+    'thai', 'thailand', 'bundesliga', 'jerman', 'germany', 'malaysia', 'vietnam',
+    'singapore', 'singapura', 'japan', 'jepang', 'korea', 'china', 'chinese', 'india',
+    'spain', 'spanyol', 'italy', 'italia', 'england', 'inggris', 'france', 'prancis',
+    'belanda', 'netherlands', 'portugal', 'portugis', 'russia', 'rusia', 'turkey', 'turki',
+    'greece', 'yunani', 'saudi', 'emirates', 'qatar', 'iran', 'australia'
+]
+
 def is_indonesia_match(title: str, league: str, home: str, away: str) -> bool:
-    combined = f"{title} {league} {home} {away}".lower()
+    t = (title or '').lower().strip()
+    l = (league or '').lower().strip()
+    t1 = (home or '').lower().strip()
+    t2 = (away or '').lower().strip()
+
+    if any(k in l for k in FOREIGN_LEAGUE_KEYWORDS):
+        return False
+
+    if (
+        'indonesia' in l or 'pegadaian' in l or 'penggadaian' in l
+        or 'bri liga 1' in l or 'liga 1indo' in l or 'liga 1 indo' in l
+        or l in ('liga 1', 'liga 2', 'liga 2indonesia', 'liga 2 indonesia', 'liga 3', 'liga 3indonesia', 'liga 3 indonesia')
+        or 'piala presiden' in l or 'piala aff' in l or 'aff cup' in l or 'piala indonesia' in l
+    ):
+        return True
+
+    combined = f"{t} {t1} {t2}"
     return any(kw in combined for kw in INDONESIA_KEYWORDS)
 
 def get_sport_max_duration_ms(sport_id: int) -> int:
