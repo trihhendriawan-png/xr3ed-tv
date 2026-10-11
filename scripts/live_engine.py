@@ -507,6 +507,42 @@ def resolve_kltra_channel_stream(url: str, hd_map: dict) -> tuple:
     except Exception:
         return url, None
 
+def resolve_kltra_hybrid_stream(url: str, ttl: int = 86400) -> tuple:
+    if not url or ('kltratvplay' not in url and '/player/hybrid-' not in url and 'green-bush' not in url):
+        return url, None
+    try:
+        player_url = url
+        if 'green-bush' in url and '/stream/hybrid-' in url:
+            m = re.search(r'/stream/(hybrid-[^/]+)', url)
+            route_id = m.group(1) if m else 'hybrid'
+            player_url = f"https://kltratvplay.elutuna.workers.dev/player/{route_id}?src={urllib.parse.quote(url)}&ttl={ttl}"
+        elif 'ttl=' in player_url:
+            player_url = re.sub(r'ttl=\d+', f'ttl={ttl}', player_url)
+        elif '?' in player_url:
+            player_url += f"&ttl={ttl}"
+        else:
+            player_url += f"?ttl={ttl}"
+
+        req = urllib.request.Request(
+            player_url,
+            headers={
+                'User-Agent': DESKTOP_UA,
+                'Referer': 'https://playerkltratv.pages.dev/'
+            }
+        )
+        with urllib.request.urlopen(req, timeout=5) as res:
+            html = res.read().decode('utf-8', errors='ignore')
+            m_boot = re.search(r'const\s+BOOT\s*=\s*(\{.*?\});', html, re.DOTALL)
+            if m_boot:
+                boot = json.loads(m_boot.group(1))
+                src = boot.get('sourceUrl')
+                tok = boot.get('token')
+                if src:
+                    return src, tok
+    except Exception:
+        pass
+    return url, None
+
 def fetch_kltra_matches() -> list:
     if not API_BASE:
         return []
@@ -685,7 +721,13 @@ def fetch_kltra_matches() -> list:
                 except Exception:
                     pass
 
-            if 'src=' in resolved_u:
+            playback_token = None
+            if 'kltratvplay' in resolved_u or '/player/hybrid-' in resolved_u or 'green-bush' in resolved_u:
+                direct_src, tok = resolve_kltra_hybrid_stream(resolved_u)
+                if direct_src:
+                    resolved_u = direct_src
+                    playback_token = tok
+            elif 'src=' in resolved_u:
                 try:
                     parsed_src = urllib.parse.urlparse(resolved_u)
                     qs_src = urllib.parse.parse_qs(parsed_src.query)
@@ -708,12 +750,16 @@ def fetch_kltra_matches() -> list:
             was_online909 = 'online909.com' in u or 'online909.com' in resolved_u
             if was_online909:
                 ref = 'https://player.online909.com/'
+            elif playback_token:
+                ref = 'https://kltratvplay.elutuna.workers.dev/'
             else:
                 ref = None
 
             srv_dict = {'name': f"Kltra - {label}", 'url': resolved_u, 'referer': ref}
             if clearkey:
                 srv_dict['clearkey'] = clearkey
+            if playback_token:
+                srv_dict['playback_token'] = playback_token
             k_servers.append(srv_dict)
 
         results.append({
@@ -892,13 +938,17 @@ def fetch_beesport_matches() -> list:
 MAX_SERVERS_PER_MATCH = int(clean_env(os.environ.get('MAX_SERVERS_PER_MATCH', '5')) or 5)
 
 def probe_single_stream(target: tuple) -> tuple:
-    url, ref = target
+    url = target[0]
+    ref = target[1] if len(target) > 1 else None
+    token = target[2] if len(target) > 2 else None
     t0 = time.time()
     headers = {
         'User-Agent': DESKTOP_UA,
     }
     if ref:
         headers['Referer'] = ref
+    if token:
+        headers['X-KLTRA-Playback'] = token
 
     req = urllib.request.Request(url, headers=headers)
     try:
@@ -937,7 +987,7 @@ def filter_and_rank_servers(matches_list: list, linear_channels: list, max_serve
             if u and u.startswith('http'):
                 if is_worker_stream(u):
                     continue
-                targets.add((u, s.get('referer')))
+                targets.add((u, s.get('referer'), s.get('playback_token')))
 
     log(f"Memvalidasi kesehatan {len(targets)} server stream secara paralel (timeout 2.0s, Worker HLS di-bypass)...")
     probe_map = {}
@@ -1260,6 +1310,10 @@ def render_m3u_entry(grp_title: str, match: dict, server_idx: int, server: dict)
     headers_json = {"User-Agent": DESKTOP_UA}
     if ref:
         headers_json["Referer"] = ref
+    playback_token = server.get('playback_token')
+    if playback_token:
+        headers_json["X-KLTRA-Playback"] = playback_token
+        lines.append(f'#EXTVLCOPT:http-header=X-KLTRA-Playback: {playback_token}')
     lines.append(f'#EXTHTTP:{json.dumps(headers_json)}')
     if '.mpd' in server.get('url', '') or server.get('clearkey'):
         lines.append('#KODIPROP:inputstream.adaptive.manifest_type=mpd')

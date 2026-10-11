@@ -95,8 +95,14 @@ ONGOING_STATUSES = {
 }
 
 INDONESIA_KEYWORDS = [
-    'indonesia', 'piala presiden', 'piala aff', 'aff cup',
-    'persija', 'persib', 'persebaya', 'bali united', 'timnas'
+    'indonesia', 'timnas', 'piala presiden', 'piala aff', 'aff cup', 'piala indonesia',
+    'pegadaian', 'penggadaian', 'liga 1', 'liga 2', 'liga 3', 'bri liga 1', 'super league',
+    'persija', 'persib', 'persebaya', 'bali united', 'arema', 'psm', 'psis',
+    'madura united', 'borneo', 'barito', 'dewa united', 'semen padang', 'malut united',
+    'psbs', 'persik', 'persita', 'pss sleman',
+    'persela', 'persis solo', 'persis', 'deltras', 'dejan', 'sriwijaya', 'psms',
+    'psim', 'persijap', 'persipura', 'persiraja', 'bhayangkara', 'gresik united',
+    'bekasi city', 'persekat', 'persiku', 'persibo', 'persikota', 'nusantara united', 'adhyaksa'
 ]
 
 def log(msg):
