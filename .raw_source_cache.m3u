@@ -58,12 +58,6 @@ https://vidsemar.pages.dev/terraluna3/205.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://vidsemar.pages.dev/terraluna3/204.mpd
 
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://i.imgur.com/4fsGqhZ.png" group-title="Saluran Nasional",SCTV
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vidsemar.pages.dev/terraluna3/204.mpd
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinwHIgyDA_RAwI8FPB27bmB4LCzEd1MMIlF-cMs6a_eSRz_Ycx0gCmiO6v5YlVg4goOgUGMv4_0gwKqxbVjMn7aucp8d4Rhy2ZQE_37xXf_a0HYxAqGoNKro5QMHSaKVQKiz2R7qqU2Ol8v7gpfhMJb3mvRWXOLBfPWA_gYt8QS7G4VZcjVl8h33EP/s720/moji.png" group-title="🇮🇩 NASIONAL 1",MOJI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-densxvisionhd-1.dens.tv/h/h207/02.m3u8
@@ -116,12 +110,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-flashcon-digdayasd-1.dens.tv/h/h215/S1/mnf.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
-#EXTINF:-1 tvg-id="CNN Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://1.bp.blogspot.com/-rmop7PtgLvw/YJdUpLQsggI/AAAAAAAAE8w/VAD8GD_541cGj7lXjfuNNf2GFQqlML-aQCLcBGAsYHQ/s720/cnn-p.png" group-title="🇮🇩 NASIONAL 1",CNN Indonesia (ChannelFeed)
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
+
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -133,10 +122,6 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w942100365_b1128000_s
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#KODIPROP:inputstream.adaptive.assured_buffer_length=30
-#KODIPROP:inputstream.adaptive.max_buffer_length=60
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 1" tvg-id="SindoNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEholD70mtLDL6wLTw9aksefL7JkdZPKp5BhyphenhyphenTlRrVszIpP45l27atFLYIeRxh6mS_EnqFphEPDf95VA1JZ3o7GQP5KFt6t_5y99rmf0C_M9SlBB0wvLWtcDH6rM5RHBmvzw0NQIY9LVIIZqcmQ3-yEqmypNOZQ94GkVXelXHi7UHi9bTbrGR9zLJYrcn0o/s720/teveMobile.png",SindoNews
-https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -154,12 +139,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="🇮🇩 NASIONAL 1" tvg-id="bnchannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png",BN Channel (ChannelFeed)
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-
-#EXTINF:-1 tvg-name="SIN PO TV" tvg-logo="https://super.inisemar.my.id/sinpotv.jpg" group-title="🇮🇩 NASIONAL 1",SIN PO TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vidsemar.pages.dev/terraluna/19046.mpd
 
 #EXTINF:-1 tvg-name="TVRI Nasional" tvg-logo="https://i.imgur.com/Lk0f0G4.png" group-title="🇮🇩 NASIONAL 1",TVRI Nasional
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1

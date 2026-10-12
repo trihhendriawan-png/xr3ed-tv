@@ -73,8 +73,6 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 #EXTINF:-1 tvg-id="SindoNews TV" tvg-name="SindoNews TV - Server 3" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-l.png" group-title="🇮🇩 NASIONAL",SindoNews TV - Server 3
 https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
-#EXTINF:-1 tvg-id="SindoNews TV" tvg-name="SindoNews TV - Server 4" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-l.png" group-title="🇮🇩 NASIONAL",SindoNews TV - Server 4
-https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV - Server 1" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-l.png" group-title="🇮🇩 NASIONAL",SCTV - Server 1
 https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV - Server 2" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-l.png" group-title="🇮🇩 NASIONAL",SCTV - Server 2
@@ -265,14 +263,12 @@ http://013tv.com:8080/F33848/cbd9779b/264748
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="Cnn Indonesia Channelfeed" tvg-name="Cnn Indonesia Channelfeed - Server 1" tvg-logo="https://1.bp.blogspot.com/-rmop7PtgLvw/YJdUpLQsggI/AAAAAAAAE8w/VAD8GD_541cGj7lXjfuNNf2GFQqlML-aQCLcBGAsYHQ/s720/cnn-p.png" group-title="🇮🇩 NASIONAL",Cnn Indonesia Channelfeed - Server 1
+#EXTINF:-1 tvg-id="Cnn Indonesia Channelfeed" tvg-name="Cnn Indonesia Channelfeed - Server 1" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="🇮🇩 NASIONAL",Cnn Indonesia Channelfeed - Server 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://video.detik.com/
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="Cnn Indonesia Channelfeed" tvg-name="Cnn Indonesia Channelfeed - Server 2" tvg-logo="https://1.bp.blogspot.com/-rmop7PtgLvw/YJdUpLQsggI/AAAAAAAAE8w/VAD8GD_541cGj7lXjfuNNf2GFQqlML-aQCLcBGAsYHQ/s720/cnn-p.png" group-title="🇮🇩 NASIONAL",Cnn Indonesia Channelfeed - Server 2
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="Daai Tv Dens" tvg-name="Daai Tv Dens - Server 1" tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png" group-title="🇮🇩 NASIONAL",Daai Tv Dens - Server 1
 https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="Dhamma Tv" tvg-name="Dhamma Tv - Server 1" tvg-logo="https://iili.io/JbtnPvR.png" group-title="🇮🇩 NASIONAL",Dhamma Tv - Server 1
@@ -453,15 +449,10 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
-#EXTINF:-1 tvg-id="Sin Po Tv" tvg-name="Sin Po Tv - Server 1" tvg-logo="https://super.inisemar.my.id/sinpotv.jpg" group-title="🇮🇩 NASIONAL",Sin Po Tv - Server 1
+#EXTINF:-1 tvg-id="Sin Po Tv" tvg-name="Sin Po Tv - Server 1" tvg-logo="https://thumbor.prod.vidiocdn.com/wZs8Xxf9gMUStqOa3fM3rznnDWM=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/187019218/ProfileBannerSinPoTV-a703fecf7ac03ff6.png" group-title="🇮🇩 NASIONAL",Sin Po Tv - Server 1
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="Sin Po Tv" tvg-name="Sin Po Tv - Server 2" tvg-logo="https://super.inisemar.my.id/sinpotv.jpg" group-title="🇮🇩 NASIONAL",Sin Po Tv - Server 2
+#EXTINF:-1 tvg-id="Sin Po Tv" tvg-name="Sin Po Tv - Server 2" tvg-logo="https://thumbor.prod.vidiocdn.com/wZs8Xxf9gMUStqOa3fM3rznnDWM=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/187019218/ProfileBannerSinPoTV-a703fecf7ac03ff6.png" group-title="🇮🇩 NASIONAL",Sin Po Tv - Server 2
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
-#EXTINF:-1 tvg-id="Sin Po Tv" tvg-name="Sin Po Tv - Server 3" tvg-logo="https://super.inisemar.my.id/sinpotv.jpg" group-title="🇮🇩 NASIONAL",Sin Po Tv - Server 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vidsemar.pages.dev/terraluna/19046.mpd
 #EXTINF:-1 tvg-id="Smtv Sumedang" tvg-name="Smtv Sumedang - Server 1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" group-title="🇮🇩 NASIONAL",Smtv Sumedang - Server 1
 http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Staratv Cianjur" tvg-name="Staratv Cianjur - Server 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="🇮🇩 NASIONAL",Staratv Cianjur - Server 1
