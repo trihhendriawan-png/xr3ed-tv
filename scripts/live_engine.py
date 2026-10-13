@@ -25,6 +25,7 @@ import urllib.error
 import http.cookiejar
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone, timedelta
+import subprocess
 
 # Ensure UTF-8 output on Windows
 try:
@@ -124,7 +125,30 @@ def encrypt_match_id(match_id: str, secret: str) -> str:
     return base64.urlsafe_b64encode(iv + encrypted_with_tag).decode('utf-8').rstrip('=')
 
 def get_dynamic_xor_key_bytes() -> bytes:
-    """Dynamically generates client XOR key directly from testa.js matching modern web app."""
+    """Dynamically generates client XOR key directly from config.js or testa.js matching modern web app."""
+    try:
+        node_script = '''
+        const https = require('https');
+        https.get('https://kltraid.pages.dev/js/config.js', { headers: { 'User-Agent': 'Mozilla/5.0' } }, res => {
+            let data = '';
+            res.on('data', chunk => data += chunk);
+            res.on('end', () => {
+                const window = {};
+                const document = { createElement: () => ({}), head: { appendChild: () => {} } };
+                const location = { pathname: '/' };
+                eval(data);
+                if (window.KLTRA_CONFIG && window.KLTRA_CONFIG.FEED_MATERIAL_V2) {
+                    process.stdout.write(window.KLTRA_CONFIG.FEED_MATERIAL_V2);
+                }
+            });
+        });
+        '''
+        proc = subprocess.run(['node', '-e', node_script], capture_output=True, text=True, timeout=8)
+        if proc.returncode == 0 and proc.stdout.strip():
+            return proc.stdout.strip().encode('utf-8')
+    except Exception:
+        pass
+
     try:
         url = "https://kltraid.pages.dev/js/testa.js"
         content = fetch_url(url, timeout=8).decode('utf-8', errors='ignore')
@@ -152,6 +176,32 @@ def get_dynamic_xor_key_bytes() -> bytes:
     if XOR_KEY:
         return XOR_KEY.encode('utf-8')
     return b""
+
+def get_dynamic_kltra_api_base() -> str:
+    """Dynamically fetches current active API_ORIGIN from config.js."""
+    try:
+        node_script = '''
+        const https = require('https');
+        https.get('https://kltraid.pages.dev/js/config.js', { headers: { 'User-Agent': 'Mozilla/5.0' } }, res => {
+            let data = '';
+            res.on('data', chunk => data += chunk);
+            res.on('end', () => {
+                const window = {};
+                const document = { createElement: () => ({}), head: { appendChild: () => {} } };
+                const location = { pathname: '/' };
+                eval(data);
+                if (window.KLTRA_CONFIG && window.KLTRA_CONFIG.API_ORIGIN) {
+                    process.stdout.write(window.KLTRA_CONFIG.API_ORIGIN);
+                }
+            });
+        });
+        '''
+        proc = subprocess.run(['node', '-e', node_script], capture_output=True, text=True, timeout=8)
+        if proc.returncode == 0 and proc.stdout.strip():
+            return proc.stdout.strip().rstrip('/')
+    except Exception:
+        pass
+    return API_BASE
 
 def xor_decrypt(encrypted_b64: str, key_bytes: bytes) -> list:
     if not encrypted_b64 or not key_bytes:
@@ -544,7 +594,8 @@ def resolve_kltra_hybrid_stream(url: str, ttl: int = 86400) -> tuple:
     return url, None
 
 def fetch_kltra_matches() -> list:
-    if not API_BASE:
+    active_api_base = get_dynamic_kltra_api_base() or API_BASE
+    if not active_api_base:
         return []
     ts = int(time.time() * 1000)
     key_bytes = get_dynamic_xor_key_bytes()
@@ -553,10 +604,10 @@ def fetch_kltra_matches() -> list:
 
     events_data = []
     players_data = []
-    # Try modern /jos/ endpoints first, fallback to /vip/
-    for ep in ["/jos/luffy.json", "/vip/eventweb.json"]:
+    # Try modern /bro/ and /jos/ endpoints first, fallback to /vip/
+    for ep in ["/bro/luffy.json", "/jos/luffy.json", "/vip/eventweb.json"]:
         try:
-            raw = fetch_url(f"{API_BASE}{ep}?v={ts}", timeout=10).decode('utf-8', errors='ignore').strip()
+            raw = fetch_url(f"{active_api_base}{ep}?v={ts}", timeout=10).decode('utf-8', errors='ignore').strip()
             if raw.startswith("[") or raw.startswith("{"):
                 events_data = json.loads(raw)
             else:
@@ -566,9 +617,9 @@ def fetch_kltra_matches() -> list:
         except Exception:
             pass
 
-    for ep in ["/jos/zoro.json", "/vip/sdplayer.json"]:
+    for ep in ["/bro/zoro.json", "/jos/zoro.json", "/vip/sdplayer.json"]:
         try:
-            raw = fetch_url(f"{API_BASE}{ep}?v={ts}", timeout=10).decode('utf-8', errors='ignore').strip()
+            raw = fetch_url(f"{active_api_base}{ep}?v={ts}", timeout=10).decode('utf-8', errors='ignore').strip()
             if raw.startswith("[") or raw.startswith("{"):
                 players_data = json.loads(raw)
             else:
@@ -584,11 +635,11 @@ def fetch_kltra_matches() -> list:
         if r_val:
             player_map[r_val] = p.get('servers', [])
 
-    # Load Kltra HD channel and ClearKey map from /jos/usop.json and /jos/sanji.json
+    # Load Kltra HD channel and ClearKey map from /bro/usop.json and /bro/sanji.json
     kltra_hd_map = {}
-    for ep in ["/jos/usop.json", "/vip/liveweb.json"]:
+    for ep in ["/bro/usop.json", "/jos/usop.json", "/vip/liveweb.json"]:
         try:
-            raw = fetch_url(f"{API_BASE}{ep}?v={ts}", timeout=10).decode('utf-8', errors='ignore').strip()
+            raw = fetch_url(f"{active_api_base}{ep}?v={ts}", timeout=10).decode('utf-8', errors='ignore').strip()
             if raw.startswith("[") or raw.startswith("{"):
                 u_data = json.loads(raw)
             else:
@@ -599,9 +650,9 @@ def fetch_kltra_matches() -> list:
         except Exception:
             pass
 
-    for ep in ["/jos/sanji.json"]:
+    for ep in ["/bro/sanji.json", "/jos/sanji.json"]:
         try:
-            raw = fetch_url(f"{API_BASE}{ep}?v={ts}", timeout=10).decode('utf-8', errors='ignore').strip()
+            raw = fetch_url(f"{active_api_base}{ep}?v={ts}", timeout=10).decode('utf-8', errors='ignore').strip()
             if raw.startswith("[") or raw.startswith("{"):
                 s_data = json.loads(raw)
             else:
