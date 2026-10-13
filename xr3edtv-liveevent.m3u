@@ -1,5 +1,5 @@
 #EXTM3U
-# XR3ED LIVE SPORTS PLAYLIST — Updated: 2026-10-14 00:36 WIB
+# XR3ED LIVE SPORTS PLAYLIST — Updated: 2026-10-14 00:42 WIB
 # Categories: 📢 INFO | 🔥 Hot Event | 🔴 Live Event | ⏳ Upcoming Event | ⚽ 24/7 Sports Channels
 
 #EXTINF:-1 tvg-id="xr3ed-telegram" tvg-name="📢 Gabung Telegram: t.me/CloudstreamXR" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/telegram.png" group-title="📢 INFO",📢 Gabung Telegram: t.me/CloudstreamXR
@@ -8,37 +8,43 @@ https://t.me/CloudstreamXR
 #EXTINF:-1 tvg-id="xr3ed-coffee" tvg-name="☕ Traktir Kopi: lynk.id/xr3ed" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/coffee.png" group-title="📢 INFO",☕ Traktir Kopi: lynk.id/xr3ed
 https://lynk.id/xr3ed
 
-#EXTINF:-1 tvg-id="kltra_eda3dcfe-af51-49fe-b70c-5695341" tvg-name="[S1] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 1 (Kltra - HD J [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/b47f7d41445caf50570cdae4e8aae85e.png" group-title="🔥 Hot Event",[S1] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 1 (Kltra - HD J [IOS]) • LIVE 00:00
+#EXTINF:-1 tvg-id="od_sd-hotel~the-golazo-show-uefa-champions-league-1791912600" tvg-name="[S1] [football] The Golazo Show - Server 1 (Worker HLS) • LIVE 00:30" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/bm024r1779317994.png" group-title="🔥 Hot Event",[S1] [football] The Golazo Show - Server 1 (Worker HLS) • LIVE 00:30
+#EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live1.dyrur1.com/live/14278083_98454dc6ceb1299bdcb3dc5df9ad3ace_1080p.m3u8?auth_key=1791925458-0-0-ae51cc366f8fb794057d0aee426292df
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/jXSF2MtR3neQMtuQyq7MrBAFDqyJa88xBIxzn8MvcKtz0J7OOgKUmXMs9u_94QRDTN-bevrqLNaJjNg9i3zY7YWIKcuLmGkTczpU_d-Y1D90xeVmOQ.m3u8
 
-#EXTINF:-1 tvg-id="kltra_eda3dcfe-af51-49fe-b70c-5695341" tvg-name="[S2] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 2 (Kltra - SD W [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/b47f7d41445caf50570cdae4e8aae85e.png" group-title="🔥 Hot Event",[S2] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 2 (Kltra - SD W [IOS]) • LIVE 00:00
+#EXTINF:-1 tvg-id="kltra_eda3dcfe-af51-49fe-b70c-5695341" tvg-name="[S1] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 1 (Kltra - SD W [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/b47f7d41445caf50570cdae4e8aae85e.png" group-title="🔥 Hot Event",[S1] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 1 (Kltra - SD W [IOS]) • LIVE 00:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6MxiKay2Np7LhUw1Fx_autosp.m3u8?txSecret=38af3c3280815977b20251505e07edf3&txTime=6ACFB510
 
-#EXTINF:-1 tvg-id="kltra_f4109457-749c-470f-ac84-5695342" tvg-name="[S1] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 1 (Kltra - SD W [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/f4f76610345aff9154bcd6a7afbec7.png" group-title="🔥 Hot Event",[S1] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 1 (Kltra - SD W [IOS]) • LIVE 00:00
+#EXTINF:-1 tvg-id="kltra_eda3dcfe-af51-49fe-b70c-5695341" tvg-name="[S2] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 2 (Kltra - HD J [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/b47f7d41445caf50570cdae4e8aae85e.png" group-title="🔥 Hot Event",[S2] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 2 (Kltra - HD J [IOS]) • LIVE 00:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6MxiKay2Nmurq17674_autosp.m3u8?txSecret=2e70451f9109816fc68be064c384af49&txTime=6ACFB510
+https://live1.dyrur1.com/live/14278083_98454dc6ceb1299bdcb3dc5df9ad3ace_1080p.m3u8?auth_key=1791925458-0-0-ae51cc366f8fb794057d0aee426292df
 
-#EXTINF:-1 tvg-id="kltra_f4109457-749c-470f-ac84-5695342" tvg-name="[S2] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 2 (Kltra - HD J [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/f4f76610345aff9154bcd6a7afbec7.png" group-title="🔥 Hot Event",[S2] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 2 (Kltra - HD J [IOS]) • LIVE 00:00
+#EXTINF:-1 tvg-id="kltra_f4109457-749c-470f-ac84-5695342" tvg-name="[S1] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 1 (Kltra - HD J [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/f4f76610345aff9154bcd6a7afbec7.png" group-title="🔥 Hot Event",[S1] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 1 (Kltra - HD J [IOS]) • LIVE 00:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://live.dyrur1.com/live/14278084_873d1ea11f299646a3b0a1c33347acfe_1080p.m3u8?auth_key=1791925458-0-0-93b7cc344a4c68ac59b1e8999bba18d2
+
+#EXTINF:-1 tvg-id="kltra_f4109457-749c-470f-ac84-5695342" tvg-name="[S2] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 2 (Kltra - SD W [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/f4f76610345aff9154bcd6a7afbec7.png" group-title="🔥 Hot Event",[S2] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 2 (Kltra - SD W [IOS]) • LIVE 00:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6MxiKay2Nmurq17674_autosp.m3u8?txSecret=2e70451f9109816fc68be064c384af49&txTime=6ACFB510
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/rcl-scp" tvg-name="[S1] [Champions League] Lens vs Sporting CP - Server 1 (Worker HLS) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bwy2pi1787915601.jpg" group-title="🔥 Hot Event",[S1] [Champions League] Lens vs Sporting CP - Server 1 (Worker HLS) • LIVE 23:45
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/KVaNYUczlpE9DHsqiZNl_tA72YHozUFhs2ZgFScqGdOH4dusu5bSF-bFKEU3FBPuLn4.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/ZizJRNbsOJ7SmNnGoUJVpM39Wj7kvpqY69zGMBZD1HYWBoivLrUDyXl2WlFgsEEpbQg.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/rcl-scp" tvg-name="[S2] [Champions League] Lens vs Sporting CP - Server 2 (Worker HLS - 0 (Sport TV5 Portugal) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bwy2pi1787915601.jpg" group-title="🔥 Hot Event",[S2] [Champions League] Lens vs Sporting CP - Server 2 (Worker HLS - 0 (Sport TV5 Portugal) • LIVE 23:45
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/8i6EfJggNg5O63BXIjkZ1CFoNPGcBHWxL1TS6rMJPw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/CGwv-IxHToT90QxYjm1PLu6bbHwM_wEO3tkckNNeQQ.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/rcl-scp" tvg-name="[S3] [Champions League] Lens vs Sporting CP - Server 3 (Kltra - SD W [IOS]) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bwy2pi1787915601.jpg" group-title="🔥 Hot Event",[S3] [Champions League] Lens vs Sporting CP - Server 3 (Kltra - SD W [IOS]) • LIVE 23:45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -60,25 +66,25 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/TNT-Sports-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/TNT-Sports-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
-#EXTINF:-1 tvg-id="od_ucl/2026-10-13/rcl-scp" tvg-name="[S6] [Champions League] Lens vs Sporting CP - Server 6 (Beesport - TNT Sport 2 SD) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bwy2pi1787915601.jpg" group-title="🔥 Hot Event",[S6] [Champions League] Lens vs Sporting CP - Server 6 (Beesport - TNT Sport 2 SD) • LIVE 23:45
+#EXTINF:-1 tvg-id="od_ucl/2026-10-13/rcl-scp" tvg-name="[S6] [Champions League] Lens vs Sporting CP - Server 6 (Beesport - TNT Sports 2 BU) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bwy2pi1787915601.jpg" group-title="🔥 Hot Event",[S6] [Champions League] Lens vs Sporting CP - Server 6 (Beesport - TNT Sports 2 BU) • LIVE 23:45
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/TNT-Sport-2-SD/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/TNT-Sports-2-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/sab-slp" tvg-name="[S1] [Champions League] Sabah FK vs Slavia Prague - Server 1 (Worker HLS) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ytlqj1787915701.jpg" group-title="🔥 Hot Event",[S1] [Champions League] Sabah FK vs Slavia Prague - Server 1 (Worker HLS) • LIVE 23:45
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/h8l1BHo7R3L0awuBLUlF_QCCOYaDCHUmzizOF7AVgX3TlNFNFn37nB22Vt8QB2XbgZw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/l8wLg0zB5dc1zcW-Z7F2YCxiRkUqux3JXJFi3_Yi0tUZC62TKk7nhW2EzmVT1StU-Qs.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/sab-slp" tvg-name="[S2] [Champions League] Sabah FK vs Slavia Prague - Server 2 (Worker HLS - 0 (Canal+ Sport France) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ytlqj1787915701.jpg" group-title="🔥 Hot Event",[S2] [Champions League] Sabah FK vs Slavia Prague - Server 2 (Worker HLS - 0 (Canal+ Sport France) • LIVE 23:45
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/1KdIcR_Mo4RZxFv8U5TDNI3xYnww9J65D8kAcA0ZWg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/dXEFwROjSKXM4fFZqgv0q9MtmrftU-tg3uiA2jM8HQ.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/sab-slp" tvg-name="[S3] [Champions League] Sabah FK vs Slavia Prague - Server 3 (Kltra - HD J [IOS]) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ytlqj1787915701.jpg" group-title="🔥 Hot Event",[S3] [Champions League] Sabah FK vs Slavia Prague - Server 3 (Kltra - HD J [IOS]) • LIVE 23:45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -90,58 +96,64 @@ https://live1.dyrur1.com/live/14387793_197b0be7790a33cd1c2e2338bb4ca77f_1080p.m3
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6Mxj4xXQqQ9LiR9UBL_autosp.m3u8?txSecret=ef9e17bcd4a98a9b8dab6d4c88bb5dfe&txTime=6ACFB18C
 
-#EXTINF:-1 tvg-id="od_ucl/2026-10-13/sab-slp" tvg-name="[S5] [Champions League] Sabah FK vs Slavia Prague - Server 5 (Beesport - TNT Sports 4 BU) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ytlqj1787915701.jpg" group-title="🔥 Hot Event",[S5] [Champions League] Sabah FK vs Slavia Prague - Server 5 (Beesport - TNT Sports 4 BU) • LIVE 23:45
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/TNT-Sports-4-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
-
-#EXTINF:-1 tvg-id="od_ucl/2026-10-13/sab-slp" tvg-name="[S6] [Champions League] Sabah FK vs Slavia Prague - Server 6 (Beesport - TNT Sports 4) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ytlqj1787915701.jpg" group-title="🔥 Hot Event",[S6] [Champions League] Sabah FK vs Slavia Prague - Server 6 (Beesport - TNT Sports 4) • LIVE 23:45
+#EXTINF:-1 tvg-id="od_ucl/2026-10-13/sab-slp" tvg-name="[S5] [Champions League] Sabah FK vs Slavia Prague - Server 5 (Beesport - TNT Sports 4) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ytlqj1787915701.jpg" group-title="🔥 Hot Event",[S5] [Champions League] Sabah FK vs Slavia Prague - Server 5 (Beesport - TNT Sports 4) • LIVE 23:45
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
 https://enewl.greenvora.net/TNT-Sports-4/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
-#EXTINF:-1 tvg-id="kltra_85cecb11-a348-43e5-add8-2364f58b51fa" tvg-name="[S1] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 1 (Kltra - HD J [IOS]) • LIVE 23:00" tvg-logo="https://tmssl.akamaized.net/images/wappen/head/656.png?lm=1686904390" group-title="🔥 Hot Event",[S1] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 1 (Kltra - HD J [IOS]) • LIVE 23:00
+#EXTINF:-1 tvg-id="od_ucl/2026-10-13/sab-slp" tvg-name="[S6] [Champions League] Sabah FK vs Slavia Prague - Server 6 (Beesport - TNT Sports 4 BU) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ytlqj1787915701.jpg" group-title="🔥 Hot Event",[S6] [Champions League] Sabah FK vs Slavia Prague - Server 6 (Beesport - TNT Sports 4 BU) • LIVE 23:45
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live.dyrur1.com/live/14338689_bf1399770a8291a0c9d5f82fcf94f2b5_1080p.m3u8?auth_key=1791921636-0-0-348a86c08f28374c41dd80d8bb529c65
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/TNT-Sports-4-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
-#EXTINF:-1 tvg-id="kltra_85cecb11-a348-43e5-add8-2364f58b51fa" tvg-name="[S2] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 2 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://tmssl.akamaized.net/images/wappen/head/656.png?lm=1686904390" group-title="🔥 Hot Event",[S2] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 2 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTINF:-1 tvg-id="kltra_85cecb11-a348-43e5-add8-2364f58b51fa" tvg-name="[S1] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://tmssl.akamaized.net/images/wappen/head/656.png?lm=1686904390" group-title="🔥 Hot Event",[S1] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6Mxj4TCUxYcWhb11iS_autosp.m3u8?txSecret=fb6f6875308d4961ce1cc2ad141e96db&txTime=6ACFA700
+
+#EXTINF:-1 tvg-id="kltra_85cecb11-a348-43e5-add8-2364f58b51fa" tvg-name="[S2] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 2 (Kltra - HD J [IOS]) • LIVE 23:00" tvg-logo="https://tmssl.akamaized.net/images/wappen/head/656.png?lm=1686904390" group-title="🔥 Hot Event",[S2] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 2 (Kltra - HD J [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://live.dyrur1.com/live/14338689_bf1399770a8291a0c9d5f82fcf94f2b5_1080p.m3u8?auth_key=1791921636-0-0-348a86c08f28374c41dd80d8bb529c65
 
 #EXTINF:-1 tvg-id="kltra_85cecb11-a348-43e5-add8-2364f58b51fa" tvg-name="[S3] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 3 (Beesport - NL ESPN 2) • LIVE 23:00" tvg-logo="https://tmssl.akamaized.net/images/wappen/head/656.png?lm=1686904390" group-title="🔥 Hot Event",[S3] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 3 (Beesport - NL ESPN 2) • LIVE 23:00
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/NL-ESPN-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/NL-ESPN-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_459f0bf6-dbf2-4960-8de4-2d23376867fa" tvg-name="[S1] [AFC Champions League Two] Al Seeb vs Al Hussein - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://www.gstatic.com/onebox/sports/logos/crest_48dp.png" group-title="🔥 Hot Event",[S1] [AFC Champions League Two] Al Seeb vs Al Hussein - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6Mxj4TBj8dPTree7rS_autosp.m3u8?txSecret=ef4dc829bb0f18b83f4e72622f4ceb64&txTime=6ACFA700
 
-#EXTINF:-1 tvg-id="kltra_b5a8204b-6c14-491e-8b55-c79c53260369" tvg-name="[S1] [Denmark Open Badminton Championships] - Server 1 (Kltra - COURT 2) • LIVE 14:00" tvg-logo="https://kltraid.pages.dev/images/sportsicon/Main_Badminton.png" group-title="🔥 Hot Event",[S1] [Denmark Open Badminton Championships] - Server 1 (Kltra - COURT 2) • LIVE 14:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344738865957061_AiSD.m3u8?txSecret=d466e31d0642236d73030296aa0f5922&txTime=6ACEFE40
-
-#EXTINF:-1 tvg-id="kltra_b5a8204b-6c14-491e-8b55-c79c53260369" tvg-name="[S2] [Denmark Open Badminton Championships] - Server 2 (Kltra - COURT 1) • LIVE 14:00" tvg-logo="https://kltraid.pages.dev/images/sportsicon/Main_Badminton.png" group-title="🔥 Hot Event",[S2] [Denmark Open Badminton Championships] - Server 2 (Kltra - COURT 1) • LIVE 14:00
+#EXTINF:-1 tvg-id="kltra_b5a8204b-6c14-491e-8b55-c79c53260369" tvg-name="[S1] [Denmark Open Badminton Championships] - Server 1 (Kltra - COURT 1) • LIVE 14:00" tvg-logo="https://kltraid.pages.dev/images/sportsicon/Main_Badminton.png" group-title="🔥 Hot Event",[S1] [Denmark Open Badminton Championships] - Server 1 (Kltra - COURT 1) • LIVE 14:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4340379111148061_AiSD.m3u8?txSecret=4815513e0ca4f2bc6f554a9dc7fe3a2b&txTime=6ACEFE40
 
-#EXTINF:-1 tvg-id="kltra_eae8eded-990f-4ded-a498-5695350" tvg-name="[S1] [2027 Women's World Cup European Qualifiers - Playoffs] Iceland (W) vs Croatia (W) - Server 1 (Kltra - SD W [IOS]) • LIVE 00:30" tvg-logo="https://s.q5qo.com/data/b5d56d6cedc8001cb20a71c38540febc.png" group-title="🔴 Live Event",[S1] [2027 Women's World Cup European Qualifiers - Playoffs] Iceland (W) vs Croatia (W) - Server 1 (Kltra - SD W [IOS]) • LIVE 00:30
+#EXTINF:-1 tvg-id="kltra_b5a8204b-6c14-491e-8b55-c79c53260369" tvg-name="[S2] [Denmark Open Badminton Championships] - Server 2 (Kltra - COURT 2) • LIVE 14:00" tvg-logo="https://kltraid.pages.dev/images/sportsicon/Main_Badminton.png" group-title="🔥 Hot Event",[S2] [Denmark Open Badminton Championships] - Server 2 (Kltra - COURT 2) • LIVE 14:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6MxjJit7CwAAaQVJav_autosp.m3u8?txSecret=3204afb35849192fc443002285a7b57c&txTime=6ACFBC18
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344738865957061_AiSD.m3u8?txSecret=d466e31d0642236d73030296aa0f5922&txTime=6ACEFE40
 
-#EXTINF:-1 tvg-id="kltra_eae8eded-990f-4ded-a498-5695350" tvg-name="[S2] [2027 Women's World Cup European Qualifiers - Playoffs] Iceland (W) vs Croatia (W) - Server 2 (Kltra - HD J [IOS]) • LIVE 00:30" tvg-logo="https://s.q5qo.com/data/b5d56d6cedc8001cb20a71c38540febc.png" group-title="🔴 Live Event",[S2] [2027 Women's World Cup European Qualifiers - Playoffs] Iceland (W) vs Croatia (W) - Server 2 (Kltra - HD J [IOS]) • LIVE 00:30
+#EXTINF:-1 tvg-id="od_sd-hotel~the-golazo-show-uefa-champions-league-1791912600" tvg-name="[S1] [football] The Golazo Show - Server 1 (Worker HLS) • LIVE 00:30" tvg-logo="https://r2.thesportsdb.com/images/media/team/badge/bm024r1779317994.png" group-title="🔴 Live Event",[S1] [football] The Golazo Show - Server 1 (Worker HLS) • LIVE 00:30
+#EXTVLCOPT:http-referrer=https://damitv.st/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/jXSF2MtR3neQMtuQyq7MrBAFDqyJa88xBIxzn8MvcKtz0J7OOgKUmXMs9u_94QRDTN-bevrqLNaJjNg9i3zY7YWIKcuLmGkTczpU_d-Y1D90xeVmOQ.m3u8
+
+#EXTINF:-1 tvg-id="kltra_eae8eded-990f-4ded-a498-5695350" tvg-name="[S1] [2027 Women's World Cup European Qualifiers - Playoffs] Iceland (W) vs Croatia (W) - Server 1 (Kltra - HD J [IOS]) • LIVE 00:30" tvg-logo="https://s.q5qo.com/data/b5d56d6cedc8001cb20a71c38540febc.png" group-title="🔴 Live Event",[S1] [2027 Women's World Cup European Qualifiers - Playoffs] Iceland (W) vs Croatia (W) - Server 1 (Kltra - HD J [IOS]) • LIVE 00:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://live1.dyrur1.com/live/14036581_f99f5b3dc2426acfc968422bd28d6c28_1080p.m3u8?auth_key=1791926618-0-0-7a2b8845eb4707288f57e6335cede1bf
+
+#EXTINF:-1 tvg-id="kltra_eae8eded-990f-4ded-a498-5695350" tvg-name="[S2] [2027 Women's World Cup European Qualifiers - Playoffs] Iceland (W) vs Croatia (W) - Server 2 (Kltra - SD W [IOS]) • LIVE 00:30" tvg-logo="https://s.q5qo.com/data/b5d56d6cedc8001cb20a71c38540febc.png" group-title="🔴 Live Event",[S2] [2027 Women's World Cup European Qualifiers - Playoffs] Iceland (W) vs Croatia (W) - Server 2 (Kltra - SD W [IOS]) • LIVE 00:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6MxjJit7CwAAaQVJav_autosp.m3u8?txSecret=3204afb35849192fc443002285a7b57c&txTime=6ACFBC18
 
 #EXTINF:-1 tvg-id="kltra_76b8fb33-1fc4-4037-ae5b-5709545" tvg-name="[S1] [Swedish Basketball League] Jamtland Basket vs Boraas Basket - Server 1 (Kltra - SD W [IOS]) • LIVE 00:13" tvg-logo="https://s.q5qo.com/data/bf51172f3aaba971ba0242a0908596a8.png" group-title="🔴 Live Event",[S1] [Swedish Basketball League] Jamtland Basket vs Boraas Basket - Server 1 (Kltra - SD W [IOS]) • LIVE 00:13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -158,35 +170,35 @@ https://pull.streamviewk7x.click/livesp/sd-6wXro1CXDvMtHmh41Q_autosp.m3u8?txSecr
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6wXro4SmK7SPwBSQHY_autosp.m3u8?txSecret=e5ed4d4e06aad81d2d2161910a66bca5&txTime=6ACFB600
 
-#EXTINF:-1 tvg-id="kltra_6fe5d039-c783-493c-9495-5695313" tvg-name="[S1] [Swedish Superettan Award] IFK Norrkoping FK vs GIF Sundsvall - Server 1 (Kltra - SD W [IOS]) • LIVE 00:03" tvg-logo="https://s.q5qo.com/data/14049c5dd3316f7d8fa912bd38c10d7c.png" group-title="🔴 Live Event",[S1] [Swedish Superettan Award] IFK Norrkoping FK vs GIF Sundsvall - Server 1 (Kltra - SD W [IOS]) • LIVE 00:03
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6MvZ6ZxxFzWWdDAQMQ_autosp.m3u8?txSecret=30af0414fc421ee698811f06cef99d26&txTime=6ACFB510
-
-#EXTINF:-1 tvg-id="kltra_6fe5d039-c783-493c-9495-5695313" tvg-name="[S2] [Swedish Superettan Award] IFK Norrkoping FK vs GIF Sundsvall - Server 2 (Kltra - HD J [IOS]) • LIVE 00:03" tvg-logo="https://s.q5qo.com/data/14049c5dd3316f7d8fa912bd38c10d7c.png" group-title="🔴 Live Event",[S2] [Swedish Superettan Award] IFK Norrkoping FK vs GIF Sundsvall - Server 2 (Kltra - HD J [IOS]) • LIVE 00:03
+#EXTINF:-1 tvg-id="kltra_6fe5d039-c783-493c-9495-5695313" tvg-name="[S1] [Swedish Superettan Award] IFK Norrkoping FK vs GIF Sundsvall - Server 1 (Kltra - HD J [IOS]) • LIVE 00:03" tvg-logo="https://s.q5qo.com/data/14049c5dd3316f7d8fa912bd38c10d7c.png" group-title="🔴 Live Event",[S1] [Swedish Superettan Award] IFK Norrkoping FK vs GIF Sundsvall - Server 1 (Kltra - HD J [IOS]) • LIVE 00:03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://live3.dyrur1.com/live/14163713_f14a0e7c1c1435e005d8ef013986324e_1080p.m3u8?auth_key=1791925243-0-0-bee2c722965ebefb5987e7b99b033b14
 
-#EXTINF:-1 tvg-id="kltra_eda3dcfe-af51-49fe-b70c-5695341" tvg-name="[S1] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 1 (Kltra - HD J [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/b47f7d41445caf50570cdae4e8aae85e.png" group-title="🔴 Live Event",[S1] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 1 (Kltra - HD J [IOS]) • LIVE 00:00
+#EXTINF:-1 tvg-id="kltra_6fe5d039-c783-493c-9495-5695313" tvg-name="[S2] [Swedish Superettan Award] IFK Norrkoping FK vs GIF Sundsvall - Server 2 (Kltra - SD W [IOS]) • LIVE 00:03" tvg-logo="https://s.q5qo.com/data/14049c5dd3316f7d8fa912bd38c10d7c.png" group-title="🔴 Live Event",[S2] [Swedish Superettan Award] IFK Norrkoping FK vs GIF Sundsvall - Server 2 (Kltra - SD W [IOS]) • LIVE 00:03
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live1.dyrur1.com/live/14278083_98454dc6ceb1299bdcb3dc5df9ad3ace_1080p.m3u8?auth_key=1791925458-0-0-ae51cc366f8fb794057d0aee426292df
+https://pull.streamviewk7x.click/livesp/sd-6MvZ6ZxxFzWWdDAQMQ_autosp.m3u8?txSecret=30af0414fc421ee698811f06cef99d26&txTime=6ACFB510
 
-#EXTINF:-1 tvg-id="kltra_eda3dcfe-af51-49fe-b70c-5695341" tvg-name="[S2] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 2 (Kltra - SD W [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/b47f7d41445caf50570cdae4e8aae85e.png" group-title="🔴 Live Event",[S2] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 2 (Kltra - SD W [IOS]) • LIVE 00:00
+#EXTINF:-1 tvg-id="kltra_eda3dcfe-af51-49fe-b70c-5695341" tvg-name="[S1] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 1 (Kltra - SD W [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/b47f7d41445caf50570cdae4e8aae85e.png" group-title="🔴 Live Event",[S1] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 1 (Kltra - SD W [IOS]) • LIVE 00:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6MxiKay2Np7LhUw1Fx_autosp.m3u8?txSecret=38af3c3280815977b20251505e07edf3&txTime=6ACFB510
 
-#EXTINF:-1 tvg-id="kltra_f4109457-749c-470f-ac84-5695342" tvg-name="[S1] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 1 (Kltra - SD W [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/f4f76610345aff9154bcd6a7afbec7.png" group-title="🔴 Live Event",[S1] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 1 (Kltra - SD W [IOS]) • LIVE 00:00
+#EXTINF:-1 tvg-id="kltra_eda3dcfe-af51-49fe-b70c-5695341" tvg-name="[S2] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 2 (Kltra - HD J [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/b47f7d41445caf50570cdae4e8aae85e.png" group-title="🔴 Live Event",[S2] [Egyptian Premier League] Al Ittihad Alexandria vs El Gouna FC - Server 2 (Kltra - HD J [IOS]) • LIVE 00:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6MxiKay2Nmurq17674_autosp.m3u8?txSecret=2e70451f9109816fc68be064c384af49&txTime=6ACFB510
+https://live1.dyrur1.com/live/14278083_98454dc6ceb1299bdcb3dc5df9ad3ace_1080p.m3u8?auth_key=1791925458-0-0-ae51cc366f8fb794057d0aee426292df
 
-#EXTINF:-1 tvg-id="kltra_f4109457-749c-470f-ac84-5695342" tvg-name="[S2] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 2 (Kltra - HD J [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/f4f76610345aff9154bcd6a7afbec7.png" group-title="🔴 Live Event",[S2] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 2 (Kltra - HD J [IOS]) • LIVE 00:00
+#EXTINF:-1 tvg-id="kltra_f4109457-749c-470f-ac84-5695342" tvg-name="[S1] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 1 (Kltra - HD J [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/f4f76610345aff9154bcd6a7afbec7.png" group-title="🔴 Live Event",[S1] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 1 (Kltra - HD J [IOS]) • LIVE 00:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://live.dyrur1.com/live/14278084_873d1ea11f299646a3b0a1c33347acfe_1080p.m3u8?auth_key=1791925458-0-0-93b7cc344a4c68ac59b1e8999bba18d2
+
+#EXTINF:-1 tvg-id="kltra_f4109457-749c-470f-ac84-5695342" tvg-name="[S2] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 2 (Kltra - SD W [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/f4f76610345aff9154bcd6a7afbec7.png" group-title="🔴 Live Event",[S2] [Egyptian Premier League] Petrojet FC vs Wadi Degla SC - Server 2 (Kltra - SD W [IOS]) • LIVE 00:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6MxiKay2Nmurq17674_autosp.m3u8?txSecret=2e70451f9109816fc68be064c384af49&txTime=6ACFB510
 
 #EXTINF:-1 tvg-id="kltra_47ce4467-be8f-44da-ba60-5695340" tvg-name="[S1] [Turkish First Division] Pendikspor vs Van Spor FK - Server 1 (Kltra - SD W [IOS]) • LIVE 00:00" tvg-logo="https://s.q5qo.com/data/8bc8fcf1715bf1a41e447fa84d151996.png" group-title="🔴 Live Event",[S1] [Turkish First Division] Pendikspor vs Van Spor FK - Server 1 (Kltra - SD W [IOS]) • LIVE 00:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -232,13 +244,13 @@ https://pull.streamviewk7x.click/livesp/sd-6wXsHbtU4KXM5HNVsx_autosp.m3u8?txSecr
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/KVaNYUczlpE9DHsqiZNl_tA72YHozUFhs2ZgFScqGdOH4dusu5bSF-bFKEU3FBPuLn4.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/ZizJRNbsOJ7SmNnGoUJVpM39Wj7kvpqY69zGMBZD1HYWBoivLrUDyXl2WlFgsEEpbQg.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/rcl-scp" tvg-name="[S2] [Champions League] Lens vs Sporting CP - Server 2 (Worker HLS - 0 (Sport TV5 Portugal) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bwy2pi1787915601.jpg" group-title="🔴 Live Event",[S2] [Champions League] Lens vs Sporting CP - Server 2 (Worker HLS - 0 (Sport TV5 Portugal) • LIVE 23:45
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/8i6EfJggNg5O63BXIjkZ1CFoNPGcBHWxL1TS6rMJPw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/CGwv-IxHToT90QxYjm1PLu6bbHwM_wEO3tkckNNeQQ.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/rcl-scp" tvg-name="[S3] [Champions League] Lens vs Sporting CP - Server 3 (Kltra - SD W [IOS]) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bwy2pi1787915601.jpg" group-title="🔴 Live Event",[S3] [Champions League] Lens vs Sporting CP - Server 3 (Kltra - SD W [IOS]) • LIVE 23:45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -260,25 +272,25 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/TNT-Sports-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/TNT-Sports-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
-#EXTINF:-1 tvg-id="od_ucl/2026-10-13/rcl-scp" tvg-name="[S6] [Champions League] Lens vs Sporting CP - Server 6 (Beesport - TNT Sport 2 SD) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bwy2pi1787915601.jpg" group-title="🔴 Live Event",[S6] [Champions League] Lens vs Sporting CP - Server 6 (Beesport - TNT Sport 2 SD) • LIVE 23:45
+#EXTINF:-1 tvg-id="od_ucl/2026-10-13/rcl-scp" tvg-name="[S6] [Champions League] Lens vs Sporting CP - Server 6 (Beesport - TNT Sports 2 BU) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bwy2pi1787915601.jpg" group-title="🔴 Live Event",[S6] [Champions League] Lens vs Sporting CP - Server 6 (Beesport - TNT Sports 2 BU) • LIVE 23:45
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/TNT-Sport-2-SD/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/TNT-Sports-2-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/sab-slp" tvg-name="[S1] [Champions League] Sabah FK vs Slavia Prague - Server 1 (Worker HLS) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ytlqj1787915701.jpg" group-title="🔴 Live Event",[S1] [Champions League] Sabah FK vs Slavia Prague - Server 1 (Worker HLS) • LIVE 23:45
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/h8l1BHo7R3L0awuBLUlF_QCCOYaDCHUmzizOF7AVgX3TlNFNFn37nB22Vt8QB2XbgZw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/l8wLg0zB5dc1zcW-Z7F2YCxiRkUqux3JXJFi3_Yi0tUZC62TKk7nhW2EzmVT1StU-Qs.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/sab-slp" tvg-name="[S2] [Champions League] Sabah FK vs Slavia Prague - Server 2 (Worker HLS - 0 (Canal+ Sport France) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ytlqj1787915701.jpg" group-title="🔴 Live Event",[S2] [Champions League] Sabah FK vs Slavia Prague - Server 2 (Worker HLS - 0 (Canal+ Sport France) • LIVE 23:45
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/1KdIcR_Mo4RZxFv8U5TDNI3xYnww9J65D8kAcA0ZWg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/dXEFwROjSKXM4fFZqgv0q9MtmrftU-tg3uiA2jM8HQ.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/sab-slp" tvg-name="[S3] [Champions League] Sabah FK vs Slavia Prague - Server 3 (Kltra - HD J [IOS]) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ytlqj1787915701.jpg" group-title="🔴 Live Event",[S3] [Champions League] Sabah FK vs Slavia Prague - Server 3 (Kltra - HD J [IOS]) • LIVE 23:45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -290,17 +302,17 @@ https://live1.dyrur1.com/live/14387793_197b0be7790a33cd1c2e2338bb4ca77f_1080p.m3
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6Mxj4xXQqQ9LiR9UBL_autosp.m3u8?txSecret=ef9e17bcd4a98a9b8dab6d4c88bb5dfe&txTime=6ACFB18C
 
-#EXTINF:-1 tvg-id="od_ucl/2026-10-13/sab-slp" tvg-name="[S5] [Champions League] Sabah FK vs Slavia Prague - Server 5 (Beesport - TNT Sports 4 BU) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ytlqj1787915701.jpg" group-title="🔴 Live Event",[S5] [Champions League] Sabah FK vs Slavia Prague - Server 5 (Beesport - TNT Sports 4 BU) • LIVE 23:45
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/TNT-Sports-4-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
-
-#EXTINF:-1 tvg-id="od_ucl/2026-10-13/sab-slp" tvg-name="[S6] [Champions League] Sabah FK vs Slavia Prague - Server 6 (Beesport - TNT Sports 4) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ytlqj1787915701.jpg" group-title="🔴 Live Event",[S6] [Champions League] Sabah FK vs Slavia Prague - Server 6 (Beesport - TNT Sports 4) • LIVE 23:45
+#EXTINF:-1 tvg-id="od_ucl/2026-10-13/sab-slp" tvg-name="[S5] [Champions League] Sabah FK vs Slavia Prague - Server 5 (Beesport - TNT Sports 4) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ytlqj1787915701.jpg" group-title="🔴 Live Event",[S5] [Champions League] Sabah FK vs Slavia Prague - Server 5 (Beesport - TNT Sports 4) • LIVE 23:45
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
 https://enewl.greenvora.net/TNT-Sports-4/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="od_ucl/2026-10-13/sab-slp" tvg-name="[S6] [Champions League] Sabah FK vs Slavia Prague - Server 6 (Beesport - TNT Sports 4 BU) • LIVE 23:45" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3ytlqj1787915701.jpg" group-title="🔴 Live Event",[S6] [Champions League] Sabah FK vs Slavia Prague - Server 6 (Beesport - TNT Sports 4 BU) • LIVE 23:45
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/TNT-Sports-4-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
 #EXTINF:-1 tvg-id="kltra_e785bb76-36a5-4688-82b7-5695283" tvg-name="[S1] [European Basketball Cup] BC Neptunas Klaipeda vs JL Bourg - Server 1 (Kltra - HD J [IOS]) • LIVE 23:36" tvg-logo="https://s.q5qo.com/data/d4fb060a021b360d1dd6d3e1b57d8d3b.png" group-title="🔴 Live Event",[S1] [European Basketball Cup] BC Neptunas Klaipeda vs JL Bourg - Server 1 (Kltra - HD J [IOS]) • LIVE 23:36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -337,21 +349,21 @@ https://pull.streamviewk7x.click/livesp/sd-6MxjJit7ChyHMXXofY_autosp.m3u8?txSecr
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://live.dyrur1.com/live/14036579_266a4e16f4086a2e90e7ec1e17bef1ba_1080p.m3u8?auth_key=1791921654-0-0-3162b60eabaf0e3d8667897d9d58fa30
 
-#EXTINF:-1 tvg-id="kltra_85cecb11-a348-43e5-add8-2364f58b51fa" tvg-name="[S1] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 1 (Kltra - HD J [IOS]) • LIVE 23:00" tvg-logo="https://tmssl.akamaized.net/images/wappen/head/656.png?lm=1686904390" group-title="🔴 Live Event",[S1] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 1 (Kltra - HD J [IOS]) • LIVE 23:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live.dyrur1.com/live/14338689_bf1399770a8291a0c9d5f82fcf94f2b5_1080p.m3u8?auth_key=1791921636-0-0-348a86c08f28374c41dd80d8bb529c65
-
-#EXTINF:-1 tvg-id="kltra_85cecb11-a348-43e5-add8-2364f58b51fa" tvg-name="[S2] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 2 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://tmssl.akamaized.net/images/wappen/head/656.png?lm=1686904390" group-title="🔴 Live Event",[S2] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 2 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTINF:-1 tvg-id="kltra_85cecb11-a348-43e5-add8-2364f58b51fa" tvg-name="[S1] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://tmssl.akamaized.net/images/wappen/head/656.png?lm=1686904390" group-title="🔴 Live Event",[S1] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6Mxj4TCUxYcWhb11iS_autosp.m3u8?txSecret=fb6f6875308d4961ce1cc2ad141e96db&txTime=6ACFA700
+
+#EXTINF:-1 tvg-id="kltra_85cecb11-a348-43e5-add8-2364f58b51fa" tvg-name="[S2] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 2 (Kltra - HD J [IOS]) • LIVE 23:00" tvg-logo="https://tmssl.akamaized.net/images/wappen/head/656.png?lm=1686904390" group-title="🔴 Live Event",[S2] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 2 (Kltra - HD J [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://live.dyrur1.com/live/14338689_bf1399770a8291a0c9d5f82fcf94f2b5_1080p.m3u8?auth_key=1791921636-0-0-348a86c08f28374c41dd80d8bb529c65
 
 #EXTINF:-1 tvg-id="kltra_85cecb11-a348-43e5-add8-2364f58b51fa" tvg-name="[S3] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 3 (Beesport - NL ESPN 2) • LIVE 23:00" tvg-logo="https://tmssl.akamaized.net/images/wappen/head/656.png?lm=1686904390" group-title="🔴 Live Event",[S3] [AFC Champions League Elite] Al Sadd vs Al Hilal - Server 3 (Beesport - NL ESPN 2) • LIVE 23:00
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/NL-ESPN-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/NL-ESPN-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_459f0bf6-dbf2-4960-8de4-2d23376867fa" tvg-name="[S1] [AFC Champions League Two] Al Seeb vs Al Hussein - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://www.gstatic.com/onebox/sports/logos/crest_48dp.png" group-title="🔴 Live Event",[S1] [AFC Champions League Two] Al Seeb vs Al Hussein - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -388,30 +400,25 @@ https://pull.streamviewk7x.click/livesp/sd-6wXsHbtTE9wbsWLhvS_autosp.m3u8?txSecr
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://live5.dyrur1.com/live/14528753_d350f2021185beb24abf705fe830e9d9_1080p.m3u8?auth_key=1791921636-0-0-2ce7f335e9e28a2dde51165a18b154ab
 
-#EXTINF:-1 tvg-id="kltra_de1e9474-91ea-43cd-b8c9-5744013" tvg-name="[S1] [Women's International Friendly Tournament] Germany (W) vs Japan (W) - Server 1 (Kltra - SD W [IOS]) • LIVE 22:45" tvg-logo="https://s.q5qo.com/data/c6638185093d92c866e30e172217169d.png" group-title="🔴 Live Event",[S1] [Women's International Friendly Tournament] Germany (W) vs Japan (W) - Server 1 (Kltra - SD W [IOS]) • LIVE 22:45
+#EXTINF:-1 tvg-id="kltra_aac431ed-3f29-4555-af3c-5453684" tvg-name="[S1] [Russian Football Cup] Lokomotiv Moscow vs FK Akron Tolyatti - Server 1 (Kltra - SD W [IOS]) • LIVE 22:30" tvg-logo="https://s.q5qo.com/data/1bdc1fce3029e43ef2a26b857d551344.png" group-title="🔴 Live Event",[S1] [Russian Football Cup] Lokomotiv Moscow vs FK Akron Tolyatti - Server 1 (Kltra - SD W [IOS]) • LIVE 22:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6MxjJwwZzfPKcRwCiW_autosp.m3u8?txSecret=ab9baed29a89c27166e42c9dd71b42fb&txTime=6ACFA37C
+https://pull.streamviewk7x.click/livesp/sd-6MweaDfGzaiLNpfFA2_autosp.m3u8?txSecret=807498de62eb88239cc74620191ce68c&txTime=6ACF9FF8
 
-#EXTINF:-1 tvg-id="kltra_b5a8204b-6c14-491e-8b55-c79c53260369" tvg-name="[S1] [Denmark Open Badminton Championships] - Server 1 (Kltra - COURT 2) • LIVE 14:00" tvg-logo="https://kltraid.pages.dev/images/sportsicon/Main_Badminton.png" group-title="🔴 Live Event",[S1] [Denmark Open Badminton Championships] - Server 1 (Kltra - COURT 2) • LIVE 14:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344738865957061_AiSD.m3u8?txSecret=d466e31d0642236d73030296aa0f5922&txTime=6ACEFE40
-
-#EXTINF:-1 tvg-id="kltra_b5a8204b-6c14-491e-8b55-c79c53260369" tvg-name="[S2] [Denmark Open Badminton Championships] - Server 2 (Kltra - COURT 1) • LIVE 14:00" tvg-logo="https://kltraid.pages.dev/images/sportsicon/Main_Badminton.png" group-title="🔴 Live Event",[S2] [Denmark Open Badminton Championships] - Server 2 (Kltra - COURT 1) • LIVE 14:00
+#EXTINF:-1 tvg-id="kltra_b5a8204b-6c14-491e-8b55-c79c53260369" tvg-name="[S1] [Denmark Open Badminton Championships] - Server 1 (Kltra - COURT 1) • LIVE 14:00" tvg-logo="https://kltraid.pages.dev/images/sportsicon/Main_Badminton.png" group-title="🔴 Live Event",[S1] [Denmark Open Badminton Championships] - Server 1 (Kltra - COURT 1) • LIVE 14:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4340379111148061_AiSD.m3u8?txSecret=4815513e0ca4f2bc6f554a9dc7fe3a2b&txTime=6ACEFE40
+
+#EXTINF:-1 tvg-id="kltra_b5a8204b-6c14-491e-8b55-c79c53260369" tvg-name="[S2] [Denmark Open Badminton Championships] - Server 2 (Kltra - COURT 2) • LIVE 14:00" tvg-logo="https://kltraid.pages.dev/images/sportsicon/Main_Badminton.png" group-title="🔴 Live Event",[S2] [Denmark Open Badminton Championships] - Server 2 (Kltra - COURT 2) • LIVE 14:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344738865957061_AiSD.m3u8?txSecret=d466e31d0642236d73030296aa0f5922&txTime=6ACEFE40
 
 #EXTINF:-1 tvg-id="kltra_c2420cda-4f26-4fb3-8e48-5453685" tvg-name="[S1] [UPCOMING] [Russian Football Cup] FC Krasnodar vs FC Fakel Voronezh - Server 1 (Kltra - SD W [IOS]) • 00:45 WIB" tvg-logo="https://s.q5qo.com/data/a1329ee523692ad2736b980c53441a1d.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Russian Football Cup] FC Krasnodar vs FC Fakel Voronezh - Server 1 (Kltra - SD W [IOS]) • 00:45 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6MweaDfGffwZ5RQwce_autosp.m3u8?txSecret=8c9123acb1ed0feb565426c9e344a699&txTime=6ACFBF9C
-
-#EXTINF:-1 tvg-id="kltra_c2420cda-4f26-4fb3-8e48-5453685" tvg-name="[S2] [UPCOMING] [Russian Football Cup] FC Krasnodar vs FC Fakel Voronezh - Server 2 (Kltra - SD V [IOS]) • 00:45 WIB" tvg-logo="https://s.q5qo.com/data/a1329ee523692ad2736b980c53441a1d.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Russian Football Cup] FC Krasnodar vs FC Fakel Voronezh - Server 2 (Kltra - SD V [IOS]) • 00:45 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live.vivo155.com/live/sd-1-4566117.m3u8?txSecret=7df6435c739f1ac7e731c26252f39ff4&txTime=6ACE7EA6
 
 #EXTINF:-1 tvg-id="kltra_ca904e3b-fe1d-4926-9f16-5690175" tvg-name="[S1] [UPCOMING] [European Basketball Tournament] Fenerbahce Istanbul vs BC Zalgiris Kaunas - Server 1 (Kltra - SD V [IOS]) • 00:45 WIB" tvg-logo="https://s.q5qo.com/data/b28539aabb0169c3be49f2eb7eb88a3f.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [European Basketball Tournament] Fenerbahce Istanbul vs BC Zalgiris Kaunas - Server 1 (Kltra - SD V [IOS]) • 00:45 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -422,19 +429,19 @@ https://live.vivo155.com/live/sd-2-3926501.m3u8?txSecret=587e5925b94fa5dc7627d70
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/NL-ESPN-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/NL-ESPN-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="od_efl-championship/2026-10-13/wxm-wba" tvg-name="[S1] [UPCOMING] [EFL Championship] Wrexham vs West Bromwich Albion - Server 1 (Worker HLS) • 01:45 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/0l5zb41782467980.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [EFL Championship] Wrexham vs West Bromwich Albion - Server 1 (Worker HLS) • 01:45 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Z-wiLC6-CwpxDCKxJnLJ_tY_R84hJanlxWXZ_V1FOA2toJQwJP4dkskOv_xZ_YvfZAjlBafPWMTYuzZoBFiy.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/PELwQo1iVxBAOn1q-r53SQPkIELxu-S76TDIAKa3ZqVXOSaMEM8lPy5JexszQwoqwZC0hbjRXQQWc6ZZx4GG.m3u8
 
 #EXTINF:-1 tvg-id="od_efl-championship/2026-10-13/wxm-wba" tvg-name="[S2] [UPCOMING] [EFL Championship] Wrexham vs West Bromwich Albion - Server 2 (Worker HLS - Sky Sports+) • 01:45 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/0l5zb41782467980.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [EFL Championship] Wrexham vs West Bromwich Albion - Server 2 (Worker HLS - Sky Sports+) • 01:45 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/WVDdSSDRMRyllb9ZAgdQZci4dfl2L_1GWBctdAXV0w.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/vIxCf_hE7A0zRzSfLAL3jasbDbHRzlffezOwTWxT2g.m3u8
 
 #EXTINF:-1 tvg-id="kltra_d7b74213-9143-414d-988e-80723b678699" tvg-name="[S1] [UPCOMING] [EFL Championship] Stoke City vs Middlesbrough - Server 1 (Kltra - HD AUTO) • 01:45 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/T9sIbS6mr9BuRKY6y4FFLA_96x96.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [EFL Championship] Stoke City vs Middlesbrough - Server 1 (Kltra - HD AUTO) • 01:45 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -451,25 +458,25 @@ https://bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Sports-Main-Event/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/Sky-Sports-Main-Event/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
-#EXTINF:-1 tvg-id="kltra_d7b74213-9143-414d-988e-80723b678699" tvg-name="[S3] [UPCOMING] [EFL Championship] Stoke City vs Middlesbrough - Server 3 (Beesport - Sky Sports Main Event BU) • 01:45 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/T9sIbS6mr9BuRKY6y4FFLA_96x96.png" group-title="⏳ Upcoming Event",[S3] [UPCOMING] [EFL Championship] Stoke City vs Middlesbrough - Server 3 (Beesport - Sky Sports Main Event BU) • 01:45 WIB
+#EXTINF:-1 tvg-id="kltra_d7b74213-9143-414d-988e-80723b678699" tvg-name="[S3] [UPCOMING] [EFL Championship] Stoke City vs Middlesbrough - Server 3 (Beesport - Sky Sports Football) • 01:45 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/T9sIbS6mr9BuRKY6y4FFLA_96x96.png" group-title="⏳ Upcoming Event",[S3] [UPCOMING] [EFL Championship] Stoke City vs Middlesbrough - Server 3 (Beesport - Sky Sports Football) • 01:45 WIB
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Sports-Main-Event-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/Sky-Sports-Football/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/ars-lill" tvg-name="[S1] [UPCOMING] [Champions League] Arsenal vs Lille - Server 1 (Worker HLS) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/g8oict1787915576.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Champions League] Arsenal vs Lille - Server 1 (Worker HLS) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/jXqHj4wjxp0xfb-gZvQqI8yP6Qyxfzc41vvRJbHIJ7MDr62J4I8olKOvwesGe7O6SgxY.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/TbBeGvprI1BOanSYfRQhqU3UfA8AVkAp5s-FpeeKiCVJVo6koxc6nUN3sca2ua-tfZ9h.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/ars-lill" tvg-name="[S2] [UPCOMING] [Champions League] Arsenal vs Lille - Server 2 (Worker HLS - 0 (Sky Sport 256 IT) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/g8oict1787915576.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Champions League] Arsenal vs Lille - Server 2 (Worker HLS - 0 (Sky Sport 256 IT) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/shtJnOtv-TppzkSeWkCTDk5emK019U2hYdII8KpPSQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/kpnc-xwjGPfILu2LSmRBSjV11slnWTDt25vLgaCRYw.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/ars-lill" tvg-name="[S3] [UPCOMING] [Champions League] Arsenal vs Lille - Server 3 (Kltra - HD AUTO) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/g8oict1787915576.jpg" group-title="⏳ Upcoming Event",[S3] [UPCOMING] [Champions League] Arsenal vs Lille - Server 3 (Kltra - HD AUTO) • 02:00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -482,29 +489,29 @@ https://stream-cdn-box.xr3ed-edge.workers.dev/live/shtJnOtv-TppzkSeWkCTDk5emK019
 #EXTVLCOPT:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 tvg-id="od_ucl/2026-10-13/ars-lill" tvg-name="[S4] [UPCOMING] [Champions League] Arsenal vs Lille - Server 4 (Beesport - TNT Sports 1 BU) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/g8oict1787915576.jpg" group-title="⏳ Upcoming Event",[S4] [UPCOMING] [Champions League] Arsenal vs Lille - Server 4 (Beesport - TNT Sports 1 BU) • 02:00 WIB
+#EXTINF:-1 tvg-id="od_ucl/2026-10-13/ars-lill" tvg-name="[S4] [UPCOMING] [Champions League] Arsenal vs Lille - Server 4 (Beesport - TNT Sports 1) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/g8oict1787915576.jpg" group-title="⏳ Upcoming Event",[S4] [UPCOMING] [Champions League] Arsenal vs Lille - Server 4 (Beesport - TNT Sports 1) • 02:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/TNT-Sports-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="od_ucl/2026-10-13/ars-lill" tvg-name="[S5] [UPCOMING] [Champions League] Arsenal vs Lille - Server 5 (Beesport - TNT Sports 1 BU) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/g8oict1787915576.jpg" group-title="⏳ Upcoming Event",[S5] [UPCOMING] [Champions League] Arsenal vs Lille - Server 5 (Beesport - TNT Sports 1 BU) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
 https://enewl.greenvora.net/TNT-Sports-1-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
-#EXTINF:-1 tvg-id="od_ucl/2026-10-13/ars-lill" tvg-name="[S5] [UPCOMING] [Champions League] Arsenal vs Lille - Server 5 (Beesport - TNT Sport 1 SD) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/g8oict1787915576.jpg" group-title="⏳ Upcoming Event",[S5] [UPCOMING] [Champions League] Arsenal vs Lille - Server 5 (Beesport - TNT Sport 1 SD) • 02:00 WIB
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/TNT-Sport-1-SD/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
-
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/atm-mun" tvg-name="[S1] [UPCOMING] [Champions League] Atlético Madrid vs Manchester United - Server 1 (Worker HLS) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xmnkue1787915652.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Champions League] Atlético Madrid vs Manchester United - Server 1 (Worker HLS) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Y0iL55436LB_hcGrMlVBD1qET2zjSt930mTkKi-AhS5qrY4Bb9OFcSPTVG0GQcWKQ3g.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/6o0LcpPfFsnmgODamWTX8tt65KQruim4pI-aL3Gqpvhg5PSFfSeo1FeCDizbaOlsuyQ.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/atm-mun" tvg-name="[S2] [UPCOMING] [Champions League] Atlético Madrid vs Manchester United - Server 2 (Worker HLS - 0 (UniMás) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xmnkue1787915652.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Champions League] Atlético Madrid vs Manchester United - Server 2 (Worker HLS - 0 (UniMás) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/_tig0F6Jfhjv07-MQm07JxoxZNMgAELb9mc-N8XfDA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/WrIY5hN88MxKfIq839r7jcx-XXw9-YBjh7eMTUjZjw.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/atm-mun" tvg-name="[S3] [UPCOMING] [Champions League] Atlético Madrid vs Manchester United - Server 3 (Beesport - Premier Sports 1) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xmnkue1787915652.jpg" group-title="⏳ Upcoming Event",[S3] [UPCOMING] [Champions League] Atlético Madrid vs Manchester United - Server 3 (Beesport - Premier Sports 1) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
@@ -516,19 +523,19 @@ https://enewl.greenvora.net/Premier-Sports-1/index.jpg?fastoken=784fd036-0599-40
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/UEFA-05/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/UEFA-05/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/gal-bar" tvg-name="[S1] [UPCOMING] [Champions League] Galatasaray vs Barcelona - Server 1 (Worker HLS) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/k1eggi1787915685.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Champions League] Galatasaray vs Barcelona - Server 1 (Worker HLS) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/FlKLUz-zxpX7CqpH0pA9gZ7eqVF0FVjoKoLlXdG_T5SJODRPDRJMoSjeUt6iftuycCk.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/KJB5vGQrbOVVEBpTyQroVi5ThdhvvVRIz_S-ze_11mVbTW5NH8roITwm_NOSMOoOoOs.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/gal-bar" tvg-name="[S2] [UPCOMING] [Champions League] Galatasaray vs Barcelona - Server 2 (Worker HLS - 0 (Canal+ Extra 1 Poland) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/k1eggi1787915685.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Champions League] Galatasaray vs Barcelona - Server 2 (Worker HLS - 0 (Canal+ Extra 1 Poland) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/G-u4Bt0hjT-uWdOzBl6NDKVlOllecs2wpJwiJ6bTsw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/FkZ01celXH3JGS3r4Qjhk7NwhvjIa6ocIK2cAKnhdQ.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/gal-bar" tvg-name="[S3] [UPCOMING] [Champions League] Galatasaray vs Barcelona - Server 3 (Kltra - HD AUTO) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/k1eggi1787915685.jpg" group-title="⏳ Upcoming Event",[S3] [UPCOMING] [Champions League] Galatasaray vs Barcelona - Server 3 (Kltra - HD AUTO) • 02:00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -545,7 +552,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/TNT-Sport-2-SD/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+https://enewl.greenvora.net/TNT-Sport-2-SD/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/gal-bar" tvg-name="[S5] [UPCOMING] [Champions League] Galatasaray vs Barcelona - Server 5 (Beesport - TNT Sports 2 BU) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/k1eggi1787915685.jpg" group-title="⏳ Upcoming Event",[S5] [UPCOMING] [Champions League] Galatasaray vs Barcelona - Server 5 (Beesport - TNT Sports 2 BU) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
@@ -557,31 +564,31 @@ https://enewl.greenvora.net/TNT-Sports-2-BU/index.jpg?fastoken=784fd036-0599-408
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/ugzSdL4SeEPnzUrbQEpIJ0IukgfPLlXVTbu86o7OeyPeSj4MUF_ZF8JC75A5ccc87hQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/rLLpY2Ozm-DJHJjQe_TVX1EH35lePb2Fpp3LZYxm5RoLJYMdM27FyanKgMj-LfbS-8A.m3u8
 
-#EXTINF:-1 tvg-id="od_ucl/2026-10-13/int-bru" tvg-name="[S2] [UPCOMING] [Champions League] Inter Milan vs Club Brugge - Server 2 (Beesport - TNT Sports 5 BU) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xc5wh21787915648.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Champions League] Inter Milan vs Club Brugge - Server 2 (Beesport - TNT Sports 5 BU) • 02:00 WIB
+#EXTINF:-1 tvg-id="od_ucl/2026-10-13/int-bru" tvg-name="[S2] [UPCOMING] [Champions League] Inter Milan vs Club Brugge - Server 2 (Beesport - TNT Sports 5) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xc5wh21787915648.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Champions League] Inter Milan vs Club Brugge - Server 2 (Beesport - TNT Sports 5) • 02:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/TNT-Sports-5/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="od_ucl/2026-10-13/int-bru" tvg-name="[S3] [UPCOMING] [Champions League] Inter Milan vs Club Brugge - Server 3 (Beesport - TNT Sports 5 BU) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xc5wh21787915648.jpg" group-title="⏳ Upcoming Event",[S3] [UPCOMING] [Champions League] Inter Milan vs Club Brugge - Server 3 (Beesport - TNT Sports 5 BU) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
 https://enewl.greenvora.net/TNT-Sports-5-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
-#EXTINF:-1 tvg-id="od_ucl/2026-10-13/int-bru" tvg-name="[S3] [UPCOMING] [Champions League] Inter Milan vs Club Brugge - Server 3 (Beesport - TNT Sports 5) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/xc5wh21787915648.jpg" group-title="⏳ Upcoming Event",[S3] [UPCOMING] [Champions League] Inter Milan vs Club Brugge - Server 3 (Beesport - TNT Sports 5) • 02:00 WIB
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/TNT-Sports-5/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
-
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/rbl-psv" tvg-name="[S1] [UPCOMING] [Champions League] RB Leipzig vs PSV Eindhoven - Server 1 (Worker HLS) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/okhqd71787915617.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Champions League] RB Leipzig vs PSV Eindhoven - Server 1 (Worker HLS) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/wlLLENgy9jN4igS6yMKjLd4LZ_RTXKO47uZa-3bCcdbF1uqcUizJtLkFiuLC8wwDn6A.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/LSxk8s_qjnpwXPJ7KZkgSKzi8P3KC_nkQLv053wlsNaB5ebsjss1Lff5kSXqHUBVy3k.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/rbl-psv" tvg-name="[S2] [UPCOMING] [Champions League] RB Leipzig vs PSV Eindhoven - Server 2 (Worker HLS - 0 (Canal+ Live 7 France) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/okhqd71787915617.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Champions League] RB Leipzig vs PSV Eindhoven - Server 2 (Worker HLS - 0 (Canal+ Live 7 France) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/qZur_jwNSmigyk-bLvfZtyy6fDCgrHflEYkxZspY.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/0jfmR-vtMlICRj7KxzJh_x0gmg-VfFCWnRS1IzP6.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/rbl-psv" tvg-name="[S3] [UPCOMING] [Champions League] RB Leipzig vs PSV Eindhoven - Server 3 (Beesport - CBS Sports Network BU) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/okhqd71787915617.jpg" group-title="⏳ Upcoming Event",[S3] [UPCOMING] [Champions League] RB Leipzig vs PSV Eindhoven - Server 3 (Beesport - CBS Sports Network BU) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
@@ -589,23 +596,23 @@ https://stream-cdn-box.xr3ed-edge.workers.dev/live/qZur_jwNSmigyk-bLvfZtyy6fDCgr
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
 https://enewl.greenvora.net/CBS-Sports-Network-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
-#EXTINF:-1 tvg-id="od_ucl/2026-10-13/rbl-psv" tvg-name="[S4] [UPCOMING] [Champions League] RB Leipzig vs PSV Eindhoven - Server 4 (Beesport - CBS Sports Network) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/okhqd71787915617.jpg" group-title="⏳ Upcoming Event",[S4] [UPCOMING] [Champions League] RB Leipzig vs PSV Eindhoven - Server 4 (Beesport - CBS Sports Network) • 02:00 WIB
+#EXTINF:-1 tvg-id="od_ucl/2026-10-13/rbl-psv" tvg-name="[S4] [UPCOMING] [Champions League] RB Leipzig vs PSV Eindhoven - Server 4 (Beesport - TNT Sports 7 BU) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/okhqd71787915617.jpg" group-title="⏳ Upcoming Event",[S4] [UPCOMING] [Champions League] RB Leipzig vs PSV Eindhoven - Server 4 (Beesport - TNT Sports 7 BU) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/CBS-Sports-Network/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/TNT-Sports-7-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/vik-bay" tvg-name="[S1] [UPCOMING] [Champions League] Viking FK vs Bayern Munich - Server 1 (Worker HLS) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w8d2w71787915689.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Champions League] Viking FK vs Bayern Munich - Server 1 (Worker HLS) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/bxehxII5ji8uMY1k3G1O7Tv3nNU4FsehRMuXWQ25Nk8TPjF_nbsCv0-lbju3SsIluKs.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/Ye8_aUvryelx7Gji4ncEw5rcKgwIZjxzOpSDDhUqQErwDPhFXvsuGDp51h5V2YovBgg.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/vik-bay" tvg-name="[S2] [UPCOMING] [Champions League] Viking FK vs Bayern Munich - Server 2 (Worker HLS - 0 (Blue Sport 5 Live) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w8d2w71787915689.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Champions League] Viking FK vs Bayern Munich - Server 2 (Worker HLS - 0 (Blue Sport 5 Live) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/Hz0AIdST-avJCc-4_Q1ZhFcadBfZ-kMGMAPt8TF3.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/3QjaTaRWvu4YQev2rTKWlHiCPmOZMFBVa8JNLr2I.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/vik-bay" tvg-name="[S3] [UPCOMING] [Champions League] Viking FK vs Bayern Munich - Server 3 (Kltra - HD AUTO) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w8d2w71787915689.jpg" group-title="⏳ Upcoming Event",[S3] [UPCOMING] [Champions League] Viking FK vs Bayern Munich - Server 3 (Kltra - HD AUTO) • 02:00 WIB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -622,232 +629,232 @@ https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/tdijwiga2k/out/v1/f5fde31
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/TNT-Sports-4-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+https://enewl.greenvora.net/TNT-Sports-4-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
-#EXTINF:-1 tvg-id="od_ucl/2026-10-13/vik-bay" tvg-name="[S5] [UPCOMING] [Champions League] Viking FK vs Bayern Munich - Server 5 (Beesport - TNT Sports 4) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w8d2w71787915689.jpg" group-title="⏳ Upcoming Event",[S5] [UPCOMING] [Champions League] Viking FK vs Bayern Munich - Server 5 (Beesport - TNT Sports 4) • 02:00 WIB
+#EXTINF:-1 tvg-id="od_ucl/2026-10-13/vik-bay" tvg-name="[S5] [UPCOMING] [Champions League] Viking FK vs Bayern Munich - Server 5 (Beesport - TNT Sport 4 SD) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w8d2w71787915689.jpg" group-title="⏳ Upcoming Event",[S5] [UPCOMING] [Champions League] Viking FK vs Bayern Munich - Server 5 (Beesport - TNT Sport 4 SD) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/TNT-Sports-4/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/TNT-Sport-4-SD/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/vil-nap" tvg-name="[S1] [UPCOMING] [Champions League] Villarreal vs Napoli - Server 1 (Worker HLS) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b6mkfq1787915657.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Champions League] Villarreal vs Napoli - Server 1 (Worker HLS) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/VTgDZMAbTDcPTpOyXVumETih5_Pufe82qvL0AnGRTtA-JcycR2rAMn6lVzEZm_V0h2Y.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/mUmVIEQ2Iz7g6GNQveJTfKArO0KHUKVIK2UbtbGtQ5iKaJ5eCwXer9fCusizHC4WKz0.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/vil-nap" tvg-name="[S2] [UPCOMING] [Champions League] Villarreal vs Napoli - Server 2 (Worker HLS - 0 (Blue Sport 2 Live) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b6mkfq1787915657.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Champions League] Villarreal vs Napoli - Server 2 (Worker HLS - 0 (Blue Sport 2 Live) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/-mTX9PCsmVGmYX4DWaz5FSc86L3PWO65xGJ_3M68.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/gBhycF1R0psWx7Ubwxf3VDgugLZgg1V9dt2wvolG.m3u8
 
 #EXTINF:-1 tvg-id="od_ucl/2026-10-13/vil-nap" tvg-name="[S3] [UPCOMING] [Champions League] Villarreal vs Napoli - Server 3 (Beesport - TNT Sports 6 BU) • 02:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b6mkfq1787915657.jpg" group-title="⏳ Upcoming Event",[S3] [UPCOMING] [Champions League] Villarreal vs Napoli - Server 3 (Beesport - TNT Sports 6 BU) • 02:00 WIB
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/TNT-Sports-6-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+https://enewl.greenvora.net/TNT-Sports-6-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/nj-det" tvg-name="[S1] [UPCOMING] [NHL] New Jersey Devils vs Detroit Red Wings - Server 1 (Worker HLS) • 05:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/p9t0fz1760901680.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [NHL] New Jersey Devils vs Detroit Red Wings - Server 1 (Worker HLS) • 05:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/VmtAVo-_aKhFKcCs4b2bN80aPFVZjUGqBf3-mXpKaJvbRC6rNv7vl1kFD8e7MnWw4w.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/rcHMeYu6ZotZXeVn95VPhkuXMU5slUxdTGsCj5o8HHMu8NspSDkApUh079l125KD7w.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/nj-det" tvg-name="[S2] [UPCOMING] [NHL] New Jersey Devils vs Detroit Red Wings - Server 2 (Worker HLS - 0 (Sport 5 Live Israel) • 05:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/p9t0fz1760901680.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [NHL] New Jersey Devils vs Detroit Red Wings - Server 2 (Worker HLS - 0 (Sport 5 Live Israel) • 05:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/DIMH1NozxQ-JYAIKnn-CMlrU0UAKBcwuiXJASjCJaQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/tWm6ldr5gdIBYiiKpQihL9fadkp9LNMsZqZ9VJ2VuA.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/fla-cbj" tvg-name="[S1] [UPCOMING] [NHL] Florida Panthers vs Columbus Blue Jackets - Server 1 (Worker HLS) • 05:15 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/sm8ooi1760901016.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [NHL] Florida Panthers vs Columbus Blue Jackets - Server 1 (Worker HLS) • 05:15 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/3IZWGyyBFxq1TmLO3BFUuBGlUZ-x2aqft1fdPCS9rSs5QlZQehtphVZ9WXddQ-ZFFJs.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/V33A4obpr77msPR0oWif25qd3hLXIw-wLFTTkXqJprWWoqYO43iIqa8w53W84rkFLSw.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/fla-cbj" tvg-name="[S2] [UPCOMING] [NHL] Florida Panthers vs Columbus Blue Jackets - Server 2 (Worker HLS - NHL Gamecenter) • 05:15 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/sm8ooi1760901016.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [NHL] Florida Panthers vs Columbus Blue Jackets - Server 2 (Worker HLS - NHL Gamecenter) • 05:15 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/ioRrf9WmIJ2ucMAJdYPRUG039C-Lk5kOPix33dc.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/r9Jj22RCJtfd2kocdJ6hVyuw8wiNJvHyX-zTrqw.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/buf-mtl" tvg-name="[S1] [UPCOMING] [NHL] Buffalo Sabres vs Montreal Canadiens - Server 1 (Worker HLS) • 05:30 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/px7ibv1760900615.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [NHL] Buffalo Sabres vs Montreal Canadiens - Server 1 (Worker HLS) • 05:30 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/g756cisbnHszuoj4ekeSB7I8Fm84tOaGeNbvGmbxuxyduSSTbyr3Qh_3mYCESzozxYk.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/E8fjA1AQx-JsrsWGz6ZHSn6-dQkALdTWobL2tx6icYDbQt1z02dUdUnmMWEOIVL4HeU.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/buf-mtl" tvg-name="[S2] [UPCOMING] [NHL] Buffalo Sabres vs Montreal Canadiens - Server 2 (Worker HLS - NHL Gamecenter) • 05:30 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/px7ibv1760900615.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [NHL] Buffalo Sabres vs Montreal Canadiens - Server 2 (Worker HLS - NHL Gamecenter) • 05:30 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/55Lkcpo7qm6UXBQt0ezkRrhmxDSZYKnq3Gp77raf.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/HZ5qclVe36FR4BMqyey2w7KdDZzcyPB58hviVpTQ.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/wsh-car" tvg-name="[S1] [UPCOMING] [NHL] Washington Capitals vs Carolina Hurricanes - Server 1 (Worker HLS) • 05:45 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/lgd3j91760899701.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [NHL] Washington Capitals vs Carolina Hurricanes - Server 1 (Worker HLS) • 05:45 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/U_YRhFnONizMn_B_zhAL7loENno15_WsuiiHDX5cx8a-hHmGZEmUWjEU-elK2JwKWHY.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/12-d9EeqkAbKrVFsBxijGvXVMnt89kSWKpSNgT6f65bYpbfxyurEoSkBjM9pJ8ybiJM.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/wsh-car" tvg-name="[S2] [UPCOMING] [NHL] Washington Capitals vs Carolina Hurricanes - Server 2 (Worker HLS - Monumental Sports Network) • 05:45 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/lgd3j91760899701.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [NHL] Washington Capitals vs Carolina Hurricanes - Server 2 (Worker HLS - Monumental Sports Network) • 05:45 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/wlLuuNv6NiTPksqFwDJi-s7M9RglU-UainDvo2i71w.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/sEUOnRnGJu5g4V0chXQUHiU-BAVaFDirCY18wdjvCQ.m3u8
 
 #EXTINF:-1 tvg-id="od_nba/2026-10-13/cle-orl" tvg-name="[S1] [UPCOMING] [NBA] Cleveland Cavaliers vs Orlando Magic - Server 1 (Worker HLS) • 06:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/7l8czo1759234512.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [NBA] Cleveland Cavaliers vs Orlando Magic - Server 1 (Worker HLS) • 06:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/I342wH6iw1QOjZhvtdK551bexNxm0un14Ms03dQYZOlJonefc33LxwfxnD2pNIJhrq8.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/1nxgPHXTqVPPVrXn-ISH0SEQu4kvAjDnJHF0-XBLp2_GshVkisE2o4J0Mn4GkGSAEPM.m3u8
 
 #EXTINF:-1 tvg-id="od_nba/2026-10-13/cle-orl" tvg-name="[S2] [UPCOMING] [NBA] Cleveland Cavaliers vs Orlando Magic - Server 2 (Worker HLS - Sky Sports Main Event UK) • 06:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/7l8czo1759234512.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [NBA] Cleveland Cavaliers vs Orlando Magic - Server 2 (Worker HLS - Sky Sports Main Event UK) • 06:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/P0jaFnYA7nxyfQEmCnJGOH6JNxhQ05xPGxmaTK0Z.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/XGLPM7-5aTZ0O2DtoQ_lq95PvNbH-QWM1GqNSwmn.m3u8
 
 #EXTINF:-1 tvg-id="od_nba/2026-10-13/ny-tor" tvg-name="[S1] [UPCOMING] [NBA] New York Knicks vs Toronto Raptors - Server 1 (Worker HLS) • 06:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/5kbfva1759234430.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [NBA] New York Knicks vs Toronto Raptors - Server 1 (Worker HLS) • 06:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/7BKp0Q1phGbDmsGkrdj7AZ11R5densJaAb9qnpBL8KY5bT0jRWe3WuRiYGcM6p30tQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/y6KVTbix5ehH3QgE6MGgpQqDuYx2kNf_1SA_aufZgjQGRCcodUH2-cy8Swu24m6ngg.m3u8
 
 #EXTINF:-1 tvg-id="od_nba/2026-10-13/ny-tor" tvg-name="[S2] [UPCOMING] [NBA] New York Knicks vs Toronto Raptors - Server 2 (Worker HLS - Sportsnet One) • 06:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/5kbfva1759234430.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [NBA] New York Knicks vs Toronto Raptors - Server 2 (Worker HLS - Sportsnet One) • 06:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/WamBeoM6lYKrutYU78Wl4q4QVU3B040dtDvIdpj91Q.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/KDMt_Lku3zyDiH6CRIBTJdJfPPEIcxgHWnjLbQIjEw.m3u8
 
 #EXTINF:-1 tvg-id="od_dwcs/2026-10-13" tvg-name="[S1] [UPCOMING] [Combat Sports] Dana White's Contender Series - Server 1 (Worker HLS) • 06:00 WIB" tvg-logo="https://static.ppvservices.st/assets/thumb/a5f35940ef6309a61060dede0638e1d3-thumbnail.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Combat Sports] Dana White's Contender Series - Server 1 (Worker HLS) • 06:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/PRDDwKfVN3-tEhzE5OEXWMCS8sEfIS25S-RpiXVBnf_qeaTaGzuJkHi-wg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/jHYOcjx2tJd6VDqfP3jGmni0eR4Qd9M7pMPdIIHSJ4j7yRPOxgJajjDKmQ.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/sea-phi" tvg-name="[S1] [UPCOMING] [NHL] Seattle Kraken vs Philadelphia Flyers - Server 1 (Worker HLS) • 06:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w0f11v1760899488.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [NHL] Seattle Kraken vs Philadelphia Flyers - Server 1 (Worker HLS) • 06:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/5MN6OxECh6Z1xVdiHLwskLsxjdlJxn1VJTewaK4oqxx4eZOjRZGysBaBTYrjRSStRJg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/v5wVkkKfddAEBbutoHoj-TuP-fV-op1QwvwJlnkWtdqR4FtEzU0e5SZI-11gKzMytx8.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/sea-phi" tvg-name="[S2] [UPCOMING] [NHL] Seattle Kraken vs Philadelphia Flyers - Server 2 (Worker HLS - Viaplay Sports 1 UK) • 06:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/w0f11v1760899488.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [NHL] Seattle Kraken vs Philadelphia Flyers - Server 2 (Worker HLS - Viaplay Sports 1 UK) • 06:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/5AaCPOwzRfnZ7XQT8JVHjDxwBm35Ihy0bIO3_cQWcg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/ejn8vWrbP7NyCkvAdijbwSVzIsiCCQVN7APj3L3Niw.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/tb-nyr" tvg-name="[S1] [UPCOMING] [NHL] Tampa Bay Lightning vs New York Rangers - Server 1 (Worker HLS) • 06:15 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/5bj4xr1760899894.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [NHL] Tampa Bay Lightning vs New York Rangers - Server 1 (Worker HLS) • 06:15 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/dPJaTIvRxSCeTjORvCW3KZRXMykQrUQKKViHtmkiUALumNJaY8F0gIaM2YBdSSAuZw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/5PkJuoHY80wfWCdgwEWNHll8z5MQYfRwJTho4B8Bjvbi-Ezgz6V1LgtthCZnInGe3w.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/tb-nyr" tvg-name="[S2] [UPCOMING] [NHL] Tampa Bay Lightning vs New York Rangers - Server 2 (Worker HLS - V Sport Premium) • 06:15 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/5bj4xr1760899894.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [NHL] Tampa Bay Lightning vs New York Rangers - Server 2 (Worker HLS - V Sport Premium) • 06:15 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/46NKgOhJVKkulScH-HIggkcfGa_SdzymdmpK6VbIfA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/lMI6XPFjSt0BEdQ4awD7Cnqr4pv7nqvA_tPKHuoi5A.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/stl-ott" tvg-name="[S1] [UPCOMING] [NHL] St. Louis Blues vs Ottawa Senators - Server 1 (Worker HLS) • 06:30 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/vjdway1760899975.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [NHL] St. Louis Blues vs Ottawa Senators - Server 1 (Worker HLS) • 06:30 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/LlVDDwCtu_L1D6jFDBvS8rNHrXvxsEZ17anee1kBmGGYAP4y-Xm9wDmqLGat3yGn-hA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/kXH8ufHMr0IQ7YFSgDtRSH9npqMkj7JMTnTByTXWeoabx3PsrAuXIR_MPgXsw9w8-AQ.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/stl-ott" tvg-name="[S2] [UPCOMING] [NHL] St. Louis Blues vs Ottawa Senators - Server 2 (Worker HLS - NHL Gamecenter) • 06:30 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/vjdway1760899975.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [NHL] St. Louis Blues vs Ottawa Senators - Server 2 (Worker HLS - NHL Gamecenter) • 06:30 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/cJcBtuCPljmUnO0aBCHEC4K-_xSr_Xt_vNpZ2ToQ.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/hFdRpwZxcVslY9Vt_Hh2XIkQe-HxC7DWIBfiVKT5.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/van-nyi" tvg-name="[S1] [UPCOMING] [NHL] Vancouver Canucks vs New York Islanders - Server 1 (Worker HLS) • 06:45 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/tobym21760900141.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [NHL] Vancouver Canucks vs New York Islanders - Server 1 (Worker HLS) • 06:45 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/pswDzGFZXWMrYGJBE0dnOq8MsDSK068e1I0gDT17-TTrG3Y51WS3exl_IUaUrlQrVUw.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/euV2TUu-bX8mdNegg_a46YiJM2ijQcVQcj8gP4D-C28WNk2egAGpGIjMwVVvCj42cCM.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl/2026-10-13/van-nyi" tvg-name="[S2] [UPCOMING] [NHL] Vancouver Canucks vs New York Islanders - Server 2 (Worker HLS - NHL Gamecenter) • 06:45 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/tobym21760900141.jpg" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [NHL] Vancouver Canucks vs New York Islanders - Server 2 (Worker HLS - NHL Gamecenter) • 06:45 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/zF00RD2iDaCAom18bpTgmuajEAClAoVvvJ7LdHYV.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/cbpdYp2O--CFfb39qK8l-L0z1bihZhevEMUDue3Z.m3u8
 
 #EXTINF:-1 tvg-id="od_mlb/2026-10-13/cle-tb" tvg-name="[S1] [UPCOMING] [MLB] Cleveland Guardians vs Tampa Bay Rays - Server 1 (Worker HLS) • 07:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bemwga1780300159.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [MLB] Cleveland Guardians vs Tampa Bay Rays - Server 1 (Worker HLS) • 07:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/oIQcpDMlySJTuUwxB2Xi5gAQy4g_DKii9R6Cc9tKLWivsJ7_tGAZptW-kGeAlk4LGg.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/fWKJ0oz71aLfXdGMG9uunNwPaFd_LMlgMdJ8NGtHmGOpxF9T3qcPSnbDHjkfX2lZjA.m3u8
 
 #EXTINF:-1 tvg-id="od_nba/2026-10-13/ind-okc" tvg-name="[S1] [UPCOMING] [NBA] Indiana Pacers vs Oklahoma City Thunder - Server 1 (Worker HLS) • 07:00 WIB" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/6igvma1759234025.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [NBA] Indiana Pacers vs Oklahoma City Thunder - Server 1 (Worker HLS) • 07:00 WIB
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/LB85tnlIJjewK_YnWh__2hv5Z12UayYbKXki6w6QfKMg0kPGSveLJhTSRcUf-WJ7x5Y.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/SJFbZs9hOQ5iQ9vU2gYLjlHtC3ek-5xaHHIWBg0qMy2CRkhN5s9j90grSD0N50VGhNQ.m3u8
 
 #EXTINF:-1 tvg-id="od_nfl-network" tvg-name="[NFL] NFL Network - Server 1 (Worker HLS)" tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="⚽ 24/7 Sports Channels",[NFL] NFL Network - Server 1 (Worker HLS)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/yCAZaASumTerzGqWCB-6psHtf1ayZ67_jZ1-rUquLrfHYM5-TKnb.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/fQsFD2SzlRJlog1J7NQpG2gabf99Dbg3b7e3UeDNYdbyGUfUCpdi.m3u8
 
 #EXTINF:-1 tvg-id="od_247-fox-footy" tvg-name="[AFL] Fox Footy - Server 1 (Worker HLS)" tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="⚽ 24/7 Sports Channels",[AFL] Fox Footy - Server 1 (Worker HLS)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/jZJ7BSfsUwfyv0YaLkmIi-lFk3tvA9qpBtTlBxJ87l5SX12f3kj7jfA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/MQBWGh7TJ2jCzNUUmf_hVfQl4NpQaGHxSmNsr4PI-zk9OHVAE1GdHng.m3u8
 
 #EXTINF:-1 tvg-id="od_247-willow" tvg-name="[Cricket] Willow - Server 1 (Worker HLS)" tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="⚽ 24/7 Sports Channels",[Cricket] Willow - Server 1 (Worker HLS)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/DFU894B2cEHWkl5YQqflRSQjs_syYGxfbzc40drcedibxiLnyLY.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/N2bs7o4LSaHVQSGQZ31jE-xTv3G1rnc5idbfZ28c_tNFbUrVXoM.m3u8
 
 #EXTINF:-1 tvg-id="od_247-willow" tvg-name="[Cricket] Willow - Server 2 (Willow 2 EN)" tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="⚽ 24/7 Sports Channels",[Cricket] Willow - Server 2 (Willow 2 EN)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/b-AWh9CrnXfdDX3u58z2Nu8rNhmFqaMoXFydFqKs-VX2Eq4WB_gh2A.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/E-RCCKMXygs9qBDNbC2Gg1CVNLK9twRYusgcj0f1jcQc8r5pKnC3ew.m3u8
 
 #EXTINF:-1 tvg-id="od_247-willow" tvg-name="[Cricket] Willow - Server 3 (Willow Sports EN)" tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="⚽ 24/7 Sports Channels",[Cricket] Willow - Server 3 (Willow Sports EN)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/v33NkYxPpFSyjPFfCwNxIFQO9j77x_JuXNL41C0gb-jSdd3yFgTaJwLivJXu.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/82Cf3Qp1Wy7qxWg4CUfQ6zvYrLP5JyRydg5esPSVDKP8dzTkJ8qjZTNGh1_2.m3u8
 
 #EXTINF:-1 tvg-id="od_247-fox-cricket" tvg-name="[Cricket] Fox Cricket - Server 1 (Worker HLS)" tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="⚽ 24/7 Sports Channels",[Cricket] Fox Cricket - Server 1 (Worker HLS)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/3WY3um3xmKVKUojJUaNnqRVbEp844vkwQ9qX063gchR0cA260bpCKf0OmA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/GoXilxcmvK330djqqzymplZmtsk2HadEgkcgb7seMqyt8F9P9pJ4IvSK-A.m3u8
 
 #EXTINF:-1 tvg-id="od_sky-sports-golf-29059" tvg-name="[Golf] Sky Sports Golf - Server 1 (Worker HLS)" tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="⚽ 24/7 Sports Channels",[Golf] Sky Sports Golf - Server 1 (Worker HLS)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/fiNLJFHHL4ERCD62CDqS9wjv7PVSUiqh6JMra8E0mbY7EZhHAN7Nnr1xr7j5c-vjAA.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/WF1gSN5MQ7wWPbSnq2JmgxohGtRNCpPXWRnGdjmjoZBL7aVy5bnn2wXfskfY3Qcdpw.m3u8
 
 #EXTINF:-1 tvg-id="od_nhl-network-29780" tvg-name="[NHL] NHL Network - Server 1 (Worker HLS)" tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="⚽ 24/7 Sports Channels",[NHL] NHL Network - Server 1 (Worker HLS)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/XbiGOSr9LMU1Ok5zTSrmccYzRScK3TL2gUof1wQI1o0cOVRbwGQJJoT3m8vM.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/C46XAG0t__sWxpBtHk08xcsg3xiiYdSI8Dp7MIeCI-PblICZ0NGGPlK3u1mO.m3u8
 
 #EXTINF:-1 tvg-id="od_247-fox-league" tvg-name="[Rugby] Fox League - Server 1 (Worker HLS)" tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="⚽ 24/7 Sports Channels",[Rugby] Fox League - Server 1 (Worker HLS)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/dMHeSqkRnfOiviYRE3zvzYixHFe3Wdw9cSag0nXgl4NdIDnQS6LJpWwM.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/3BLVyMllB_2wtpzZ0FAcCMz7ZCl3Y8rRTAQAtzd4l7nxg066QdymQPE1.m3u8
 
 #EXTINF:-1 tvg-id="od_rally-tv" tvg-name="[24/7 Streams] Rally TV - Server 1 (Worker HLS)" tvg-logo="https://static.ppvservices.st/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="⚽ 24/7 Sports Channels",[24/7 Streams] Rally TV - Server 1 (Worker HLS)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/kspbHZ9uMb4fc4YoCMr-VWTt9lTQ3cWMT0aFKZTpiqGvh5Pz.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/QIjBWb1a2tujs1qaWy0ancGvKDz2bnSFTWatmS5iJPmRCeGY.m3u8
 
 #EXTINF:-1 tvg-id="od_sd-admin~admin-tennis-channel" tvg-name="[tennis] Tennis Channel - Server 1 (Worker HLS)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp" group-title="⚽ 24/7 Sports Channels",[tennis] Tennis Channel - Server 1 (Worker HLS)
 #EXTVLCOPT:http-referrer=https://damitv.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://damitv.st/"}
-https://stream-cdn-box.xr3ed-edge.workers.dev/live/xOrLYxQJtopTUUfgNiJWmvpBiOUSp9GIUwmKywRYGd5ANmil1RcjLW5dTolA8kd0kbhLyPBu1Fv5.m3u8
+https://stream-cdn-box.xr3ed-edge.workers.dev/live/b-_GcRmyWZzSaWQej48rl5wFCY2pTy8geTwz3fHWxpKLXVIwEOWsDALXfBxcc9krP94Cro5UnRdv.m3u8
