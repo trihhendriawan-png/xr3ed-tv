@@ -1,5 +1,5 @@
 #EXTM3U
-# XR3ED LIVE SPORTS PLAYLIST — Updated: 2026-10-17 22:57 WIB
+# XR3ED LIVE SPORTS PLAYLIST — Updated: 2026-10-17 23:02 WIB
 # Categories: 📢 INFO | 🔥 Hot Event | 🔴 Live Event | ⏳ Upcoming Event | ⚽ 24/7 Sports Channels
 
 #EXTINF:-1 tvg-id="xr3ed-telegram" tvg-name="📢 Gabung Telegram: t.me/CloudstreamXR" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/telegram.png" group-title="📢 INFO",📢 Gabung Telegram: t.me/CloudstreamXR
@@ -7,6 +7,85 @@ https://t.me/CloudstreamXR
 
 #EXTINF:-1 tvg-id="xr3ed-coffee" tvg-name="☕ Traktir Kopi: lynk.id/xr3ed" tvg-logo="https://raw.githubusercontent.com/xr3ed/xr3ed-tv/main/assets/coffee.png" group-title="📢 INFO",☕ Traktir Kopi: lynk.id/xr3ed
 https://lynk.id/xr3ed
+
+#EXTINF:-1 tvg-id="kltra_d55f0339-660e-42f6-aa97-7fba8b21063c" tvg-name="[S1] [La Liga] Real Betis vs Barcelona - Server 1 (Kltra - HD AUTO) • LIVE 23:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png" group-title="🔥 Hot Event",[S1] [La Liga] Real Betis vs Barcelona - Server 1 (Kltra - HD AUTO) • LIVE 23:25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="kltra_d55f0339-660e-42f6-aa97-7fba8b21063c" tvg-name="[S2] [La Liga] Real Betis vs Barcelona - Server 2 (Kltra - HD AUTO) • LIVE 23:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png" group-title="🔥 Hot Event",[S2] [La Liga] Real Betis vs Barcelona - Server 2 (Kltra - HD AUTO) • LIVE 23:25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="kltra_d55f0339-660e-42f6-aa97-7fba8b21063c" tvg-name="[S3] [La Liga] Real Betis vs Barcelona - Server 3 (Beesport - Premier Sports 2) • LIVE 23:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png" group-title="🔥 Hot Event",[S3] [La Liga] Real Betis vs Barcelona - Server 3 (Beesport - Premier Sports 2) • LIVE 23:25
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Premier-Sports-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="kltra_d55f0339-660e-42f6-aa97-7fba8b21063c" tvg-name="[S4] [La Liga] Real Betis vs Barcelona - Server 4 (Beesport - ESPN Deportes) • LIVE 23:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png" group-title="🔥 Hot Event",[S4] [La Liga] Real Betis vs Barcelona - Server 4 (Beesport - ESPN Deportes) • LIVE 23:25
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/ESPN-Deportes/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="kltra_c5256b22-d193-4ea2-83ea-6cdb39e77b87" tvg-name="[S1] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 1 (Kltra - HD AUTO) • LIVE 23:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png" group-title="🔥 Hot Event",[S1] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 1 (Kltra - HD AUTO) • LIVE 23:25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="kltra_c5256b22-d193-4ea2-83ea-6cdb39e77b87" tvg-name="[S2] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 2 (Beesport - Sky Sports Football BU) • LIVE 23:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png" group-title="🔥 Hot Event",[S2] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 2 (Beesport - Sky Sports Football BU) • LIVE 23:25
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Sky-Sports-Football-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="kltra_c5256b22-d193-4ea2-83ea-6cdb39e77b87" tvg-name="[S3] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 3 (Beesport - Sky Sports Football) • LIVE 23:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png" group-title="🔥 Hot Event",[S3] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 3 (Beesport - Sky Sports Football) • LIVE 23:25
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Sky-Sports-Football/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="kltra_91c603af-3e1b-4a2a-8a7c-5726755" tvg-name="[S1] [Bahrain Premier League] Al Najma Manama vs Al Hidd - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://s.q5qo.com/data/b11b7314557757aaa684885cb3be7a28.png" group-title="🔥 Hot Event",[S1] [Bahrain Premier League] Al Najma Manama vs Al Hidd - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6MxjK7iZ551WEkokcA_autosp.m3u8?txSecret=e261a1e16558e89d8f647f3dabc29118&txTime=6AD4ED00
+
+#EXTINF:-1 tvg-id="kltra_816a3cc4-71a7-47e7-af30-5726756" tvg-name="[S1] [Bahrain Premier League] Al Riffa SC vs East Riffa - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://s.q5qo.com/data/23cb00b7084a50619e08a8fedf446dcf.png" group-title="🔥 Hot Event",[S1] [Bahrain Premier League] Al Riffa SC vs East Riffa - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6MxjK7iZ52p2NGyqTG_autosp.m3u8?txSecret=9d8ae9cd1640e1974381b9bba0a26c67&txTime=6AD4ED00
+
+#EXTINF:-1 tvg-id="bs_newcastle-vs-aston-villa-202610171330" tvg-name="[S1] [Premier League] Newcastle vs Aston Villa - Server 1 (Beesport - Sky Sports Premier League) • LIVE 23:00" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/34.png" group-title="🔥 Hot Event",[S1] [Premier League] Newcastle vs Aston Villa - Server 1 (Beesport - Sky Sports Premier League) • LIVE 23:00
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Sky-Sports-Premier-League/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_newcastle-vs-aston-villa-202610171330" tvg-name="[S2] [Premier League] Newcastle vs Aston Villa - Server 2 (Beesport - Hub Premier 1 BU) • LIVE 23:00" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/34.png" group-title="🔥 Hot Event",[S2] [Premier League] Newcastle vs Aston Villa - Server 2 (Beesport - Hub Premier 1 BU) • LIVE 23:00
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Hub-Premier-1-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_4a1a846c-9e16-4dbf-bb48-20ee0f062f4a" tvg-name="[S1] [Serie A] Bologna vs Inter Milan - Server 1 (Kltra - SD W [IOS]) • LIVE 22:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png" group-title="🔥 Hot Event",[S1] [Serie A] Bologna vs Inter Milan - Server 1 (Kltra - SD W [IOS]) • LIVE 22:55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -19,16 +98,22 @@ https://pull.streamviewk7x.click/livesp/sd-6Mwe5jaVNvSmxdQJYa_autosp.m3u8?txSecr
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://a151aivottlinear-a.akamaihd.net/OTTB/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTVLCOPT:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 #EXTINF:-1 tvg-id="kltra_4a1a846c-9e16-4dbf-bb48-20ee0f062f4a" tvg-name="[S3] [Serie A] Bologna vs Inter Milan - Server 3 (Beesport - Seria A 03) • LIVE 22:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png" group-title="🔥 Hot Event",[S3] [Serie A] Bologna vs Inter Milan - Server 3 (Beesport - Seria A 03) • LIVE 22:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Seria-A-03/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/Seria-A-03/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="kltra_4a1a846c-9e16-4dbf-bb48-20ee0f062f4a" tvg-name="[S4] [Serie A] Bologna vs Inter Milan - Server 4 (Beesport - DAZN CA 28) • LIVE 22:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png" group-title="🔥 Hot Event",[S4] [Serie A] Bologna vs Inter Milan - Server 4 (Beesport - DAZN CA 28) • LIVE 22:55
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/DAZN-CA-28/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_7147e14e-bfdc-4349-a5dd-5726656" tvg-name="[S1] [Israeli Premier League] Hapoel Tel Aviv FC vs Ironi Tiberias - Server 1 (Kltra - SD W [IOS]) • LIVE 22:45" tvg-logo="https://s.q5qo.com/data/204cf6f6a2e37a3cf70df512fbd8f47d.png" group-title="🔥 Hot Event",[S1] [Israeli Premier League] Hapoel Tel Aviv FC vs Ironi Tiberias - Server 1 (Kltra - SD W [IOS]) • LIVE 22:45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -55,13 +140,13 @@ https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/uskpue2obh/out/v1/691ee6c
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Bein-Sports-USA/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/Bein-Sports-USA/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="kltra_44055fb8-ef99-4c5e-805e-3e43758be212" tvg-name="[S4] [Ligue 1] Strasbourg vs PSG - Server 4 (Beesport - BEIN SPORT USA BU) • LIVE 22:10" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Eb9xtMpUy8FXQ0RCKvLxcg_96x96.png" group-title="🔥 Hot Event",[S4] [Ligue 1] Strasbourg vs PSG - Server 4 (Beesport - BEIN SPORT USA BU) • LIVE 22:10
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/BEIN-SPORT-USA-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/BEIN-SPORT-USA-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_526cd55b-d3a6-4174-bbaa-5726477" tvg-name="[S1] [Dutch Second Division] FC Emmen vs Almere City FC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:30" tvg-logo="https://s.q5qo.com/data/f84fc412213ffeee1f931d76cc9b09cb.png" group-title="🔥 Hot Event",[S1] [Dutch Second Division] FC Emmen vs Almere City FC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -72,7 +157,7 @@ https://pull.streamviewk7x.click/livesp/sd-6MwdpuQoZDptS1XSUJ_autosp.m3u8?txSecr
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/NL-ESPN-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+https://enewl.greenvora.net/NL-ESPN-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
 #EXTINF:-1 tvg-id="kltra_cb645c7a-fd7b-4d5c-b2aa-f9b49cd70e3b" tvg-name="[S1] [Eredivisie] ADO Den Haag vs PSV - Server 1 (Kltra - SD W [IOS]) • LIVE 21:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/DNIfTEANNhUd5m6iHupoKw_96x96.png" group-title="🔥 Hot Event",[S1] [Eredivisie] ADO Den Haag vs PSV - Server 1 (Kltra - SD W [IOS]) • LIVE 21:25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -94,7 +179,7 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/NL-ESPN-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+https://enewl.greenvora.net/NL-ESPN-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
 #EXTINF:-1 tvg-id="kltra_8abe66f4-baa7-499b-bbdc-5730579" tvg-name="[S1] [Segunda Division] SD Eibar vs RCD Mallorca - Server 1 (Kltra - SD W [IOS]) • LIVE 21:15" tvg-logo="https://s.q5qo.com/data/e6fcea5b294cb214bb78bb6c524b1774.png" group-title="🔥 Hot Event",[S1] [Segunda Division] SD Eibar vs RCD Mallorca - Server 1 (Kltra - SD W [IOS]) • LIVE 21:15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -105,7 +190,7 @@ https://pull.streamviewk7x.click/livesp/sd-6MweaARkZTW4B4eJLS_autosp.m3u8?txSecr
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/LaLiga-Hypermotion/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+https://enewl.greenvora.net/LaLiga-Hypermotion/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="kltra_27a6a21a-37ef-4bc2-9ab4-0e0db7b99e0e" tvg-name="[S1] [La Liga] Villarreal vs Elche - Server 1 (Kltra - SD W [IOS]) • LIVE 21:10" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png" group-title="🔥 Hot Event",[S1] [La Liga] Villarreal vs Elche - Server 1 (Kltra - SD W [IOS]) • LIVE 21:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -123,17 +208,17 @@ https://pull.streamviewk7x.click/livesp/sd-6MweaGxUhg7QoeZYci_autosp.m3u8?txSecr
 #EXTVLCOPT:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="kltra_27a6a21a-37ef-4bc2-9ab4-0e0db7b99e0e" tvg-name="[S3] [La Liga] Villarreal vs Elche - Server 3 (Beesport - ESPN Deportes BU) • LIVE 21:10" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png" group-title="🔥 Hot Event",[S3] [La Liga] Villarreal vs Elche - Server 3 (Beesport - ESPN Deportes BU) • LIVE 21:10
+#EXTINF:-1 tvg-id="kltra_27a6a21a-37ef-4bc2-9ab4-0e0db7b99e0e" tvg-name="[S3] [La Liga] Villarreal vs Elche - Server 3 (Beesport - ESPN Deportes) • LIVE 21:10" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png" group-title="🔥 Hot Event",[S3] [La Liga] Villarreal vs Elche - Server 3 (Beesport - ESPN Deportes) • LIVE 21:10
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/ESPN-Deportes/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="kltra_27a6a21a-37ef-4bc2-9ab4-0e0db7b99e0e" tvg-name="[S4] [La Liga] Villarreal vs Elche - Server 4 (Beesport - ESPN Deportes BU) • LIVE 21:10" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png" group-title="🔥 Hot Event",[S4] [La Liga] Villarreal vs Elche - Server 4 (Beesport - ESPN Deportes BU) • LIVE 21:10
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
 https://enewl.greenvora.net/ESPN-Deportes-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
-
-#EXTINF:-1 tvg-id="kltra_27a6a21a-37ef-4bc2-9ab4-0e0db7b99e0e" tvg-name="[S4] [La Liga] Villarreal vs Elche - Server 4 (Beesport - ESPN 7) • LIVE 21:10" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png" group-title="🔥 Hot Event",[S4] [La Liga] Villarreal vs Elche - Server 4 (Beesport - ESPN 7) • LIVE 21:10
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/ESPN-7/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_29d0b457-e42b-4e50-9a30-5726876" tvg-name="[S1] [Italy Basketball Serie A] BC Roma SPQR vs Reyer Venezia - Server 1 (Beesport - Seria A 02) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/dfd8f3bb81f51d3ff916ce27f4d0dbbc.png" group-title="🔥 Hot Event",[S1] [Italy Basketball Serie A] BC Roma SPQR vs Reyer Venezia - Server 1 (Beesport - Seria A 02) • LIVE 21:00
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
@@ -145,44 +230,29 @@ https://enewl.greenvora.net/Seria-A-02/index.jpg?fastoken=784fd036-0599-4081-b39
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Portugal-Sport-TV-1-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/Portugal-Sport-TV-1-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_ad3bda8a-56af-4f44-b9e7-5574931" tvg-name="[S1] [Scottish Premier League] Aberdeen FC vs ST Mirren FC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/335ea6874414dcf9a3b3963883b0d23c.png" group-title="🔥 Hot Event",[S1] [Scottish Premier League] Aberdeen FC vs ST Mirren FC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6Mwdq1uKuz7TJqDTaa_autosp.m3u8?txSecret=898767b0dd558804587bf54bf1fbc8de&txTime=6AD4D0E0
 
-#EXTINF:-1 tvg-id="kltra_3ae8493a-987a-47db-aafd-5574932" tvg-name="[S1] [Scottish Premier League] Hibernian FC vs Falkirk FC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/6149dc1c093587b1479a4f4769891cd.png" group-title="🔥 Hot Event",[S1] [Scottish Premier League] Hibernian FC vs Falkirk FC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6Mwdq1uKv2JwBK3NjU_autosp.m3u8?txSecret=1492e2349d4eb93b867ea5c834e8a8b3&txTime=6AD4D0E0
-
-#EXTINF:-1 tvg-id="kltra_497a9340-10f1-4113-9588-5574933" tvg-name="[S1] [Scottish Premier League] ST Johnstone FC vs Dundee United - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/580ff8a33ac1f1edd45df51f4afcd1e9.png" group-title="🔥 Hot Event",[S1] [Scottish Premier League] ST Johnstone FC vs Dundee United - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6Mwdq1uKv6htvGhD3G_autosp.m3u8?txSecret=ccd477f95aaf99e4ee51633684ac434c&txTime=6AD4D0E0
-
-#EXTINF:-1 tvg-id="kltra_b5e95d0e-2594-45d3-96e2-5574935" tvg-name="[S1] [Scottish Premier League] Kilmarnock FC vs Motherwell FC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/c7c933b24834dc16aee6ed75165b1397.png" group-title="🔥 Hot Event",[S1] [Scottish Premier League] Kilmarnock FC vs Motherwell FC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6Mwdq1uKv8uNnkX8CA_autosp.m3u8?txSecret=e6a1c06ecee0a3402587e55967d15523&txTime=6AD4D0E0
-
 #EXTINF:-1 tvg-id="kltra_49cda69f-1e07-4204-910f-5726282" tvg-name="[S1] [EFL Championship] Swansea City vs West Ham United - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/e00545b677eb7f48da7670087be62298.png" group-title="🔥 Hot Event",[S1] [EFL Championship] Swansea City vs West Ham United - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6MweZwRzNAuPiGF8PC_autosp.m3u8?txSecret=a80398da73fe7d7ad42c0f14703e2135&txTime=6AD4D0E0
 
-#EXTINF:-1 tvg-id="kltra_49cda69f-1e07-4204-910f-5726282" tvg-name="[S2] [EFL Championship] Swansea City vs West Ham United - Server 2 (Beesport - CBS Sports Network) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/e00545b677eb7f48da7670087be62298.png" group-title="🔥 Hot Event",[S2] [EFL Championship] Swansea City vs West Ham United - Server 2 (Beesport - CBS Sports Network) • LIVE 21:00
+#EXTINF:-1 tvg-id="kltra_49cda69f-1e07-4204-910f-5726282" tvg-name="[S2] [EFL Championship] Swansea City vs West Ham United - Server 2 (Beesport - Paramount 09) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/e00545b677eb7f48da7670087be62298.png" group-title="🔥 Hot Event",[S2] [EFL Championship] Swansea City vs West Ham United - Server 2 (Beesport - Paramount 09) • LIVE 21:00
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/CBS-Sports-Network/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/Paramount-09/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
-#EXTINF:-1 tvg-id="kltra_49cda69f-1e07-4204-910f-5726282" tvg-name="[S3] [EFL Championship] Swansea City vs West Ham United - Server 3 (Beesport - Paramount 09) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/e00545b677eb7f48da7670087be62298.png" group-title="🔥 Hot Event",[S3] [EFL Championship] Swansea City vs West Ham United - Server 3 (Beesport - Paramount 09) • LIVE 21:00
+#EXTINF:-1 tvg-id="kltra_49cda69f-1e07-4204-910f-5726282" tvg-name="[S3] [EFL Championship] Swansea City vs West Ham United - Server 3 (Beesport - CBS Sports Network) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/e00545b677eb7f48da7670087be62298.png" group-title="🔥 Hot Event",[S3] [EFL Championship] Swansea City vs West Ham United - Server 3 (Beesport - CBS Sports Network) • LIVE 21:00
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Paramount-09/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+https://enewl.greenvora.net/CBS-Sports-Network/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_75b49c4e-f00b-420f-b0a7-5726284" tvg-name="[S1] [EFL Championship] Wrexham AFC vs Preston North End - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/7f7d5f0dfaa148fc68d3ad5943ab4c3e.png" group-title="🔥 Hot Event",[S1] [EFL Championship] Wrexham AFC vs Preston North End - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -193,14 +263,9 @@ https://pull.streamviewk7x.click/livesp/sd-6MweZwRzN8huqnRDEJ_autosp.m3u8?txSecr
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Paramount-05/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/Paramount-05/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
-#EXTINF:-1 tvg-id="kltra_53179383-1500-4277-9adf-6c194c513737" tvg-name="[S1] [EFL Championship] Norwich City vs Portsmouth - Server 1 (Kltra - SD W [IOS]) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/rdYUHHFDGi3FoPorBG8o1w_96x96.png" group-title="🔥 Hot Event",[S1] [EFL Championship] Norwich City vs Portsmouth - Server 1 (Kltra - SD W [IOS]) • LIVE 20:55
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6MweZwRzXP1ACqzpf4_autosp.m3u8?txSecret=cf0e94894c9df218cfce3c984c1334cd&txTime=6AD4D0E0
-
-#EXTINF:-1 tvg-id="kltra_53179383-1500-4277-9adf-6c194c513737" tvg-name="[S2] [EFL Championship] Norwich City vs Portsmouth - Server 2 (Kltra - HD AUTO) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/rdYUHHFDGi3FoPorBG8o1w_96x96.png" group-title="🔥 Hot Event",[S2] [EFL Championship] Norwich City vs Portsmouth - Server 2 (Kltra - HD AUTO) • LIVE 20:55
+#EXTINF:-1 tvg-id="kltra_53179383-1500-4277-9adf-6c194c513737" tvg-name="[S1] [EFL Championship] Norwich City vs Portsmouth - Server 1 (Kltra - HD AUTO) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/rdYUHHFDGi3FoPorBG8o1w_96x96.png" group-title="🔥 Hot Event",[S1] [EFL Championship] Norwich City vs Portsmouth - Server 1 (Kltra - HD AUTO) • LIVE 20:55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -211,7 +276,7 @@ https://pull.streamviewk7x.click/livesp/sd-6MweZwRzXP1ACqzpf4_autosp.m3u8?txSecr
 #EXTVLCOPT:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="kltra_53179383-1500-4277-9adf-6c194c513737" tvg-name="[S3] [EFL Championship] Norwich City vs Portsmouth - Server 3 (Beesport - MonoMax 26) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/rdYUHHFDGi3FoPorBG8o1w_96x96.png" group-title="🔥 Hot Event",[S3] [EFL Championship] Norwich City vs Portsmouth - Server 3 (Beesport - MonoMax 26) • LIVE 20:55
+#EXTINF:-1 tvg-id="kltra_53179383-1500-4277-9adf-6c194c513737" tvg-name="[S2] [EFL Championship] Norwich City vs Portsmouth - Server 2 (Beesport - MonoMax 26) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/rdYUHHFDGi3FoPorBG8o1w_96x96.png" group-title="🔥 Hot Event",[S2] [EFL Championship] Norwich City vs Portsmouth - Server 2 (Beesport - MonoMax 26) • LIVE 20:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
@@ -231,19 +296,19 @@ https://pull.streamviewk7x.click/livesp/sd-6MwdqQhXoq8hBfCN34_autosp.m3u8?txSecr
 #KODIPROP:inputstream.adaptive.license_key=480f6ee51138431bf4a51366ceafccc3:805605d2a7721291a353145533b4f21d
 #EXTVLCOPT:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:inputstream.adaptive.license_key=480f6ee51138431bf4a51366ceafccc3:805605d2a7721291a353145533b4f21d
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/n08pizbsu2/out/v1/a8645e4080344c53b38dc66983651d99/d61eead1-3574-4b70-8e75-67a5a806f711-cenc.mpd?aws_sessionId=9b04b8e2-907c-4d19-a01e-61dd85c80ee7
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/fwrbspkc5v/out/v1/83059c27ff0f406e93c4686f4f4bb2f3/cenc.mpd
 
-#EXTINF:-1 tvg-id="kltra_aa5aad60-e52e-496a-b56f-1da5ab9c2a11" tvg-name="[S3] [Premier League] Brentford vs Liverpool - Server 3 (Beesport - DAZN 2 Spain) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png" group-title="🔥 Hot Event",[S3] [Premier League] Brentford vs Liverpool - Server 3 (Beesport - DAZN 2 Spain) • LIVE 20:55
+#EXTINF:-1 tvg-id="kltra_aa5aad60-e52e-496a-b56f-1da5ab9c2a11" tvg-name="[S3] [Premier League] Brentford vs Liverpool - Server 3 (Beesport - MonoMax 23) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png" group-title="🔥 Hot Event",[S3] [Premier League] Brentford vs Liverpool - Server 3 (Beesport - MonoMax 23) • LIVE 20:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/DAZN-2-Spain/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/MonoMax-23/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
 #EXTINF:-1 tvg-id="kltra_aa5aad60-e52e-496a-b56f-1da5ab9c2a11" tvg-name="[S4] [Premier League] Brentford vs Liverpool - Server 4 (Beesport - Hub Premier 1 BU) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png" group-title="🔥 Hot Event",[S4] [Premier League] Brentford vs Liverpool - Server 4 (Beesport - Hub Premier 1 BU) • LIVE 20:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Hub-Premier-1-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/Hub-Premier-1-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_3438b319-ca1b-437d-9719-722780e2e777" tvg-name="[S1] [Premier League] Fulham vs Hull City - Server 1 (Kltra - SD W [IOS]) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png" group-title="🔥 Hot Event",[S1] [Premier League] Fulham vs Hull City - Server 1 (Kltra - SD W [IOS]) • LIVE 20:55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -261,17 +326,17 @@ https://pull.streamviewk7x.click/livesp/sd-6MwdqQiJ97m9YQpVmt_autosp.m3u8?txSecr
 #EXTVLCOPT:inputstream.adaptive.license_key=5245bea7bb5265e0cefa8a59f3a989e7:a502b56126f5f5e5beb0e901fa246f1e
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tynmqoruat/out/v1/07d94e5695564616bc21118f294f6cc7/7e0dd27b-f998-465e-8df2-027df73d929b-cenc.mpd?aws_sessionId=9e935291-e3f8-4fd0-880c-7ae5a73ee747
 
-#EXTINF:-1 tvg-id="kltra_3438b319-ca1b-437d-9719-722780e2e777" tvg-name="[S3] [Premier League] Fulham vs Hull City - Server 3 (Beesport - DAZN 3 Spain) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png" group-title="🔥 Hot Event",[S3] [Premier League] Fulham vs Hull City - Server 3 (Beesport - DAZN 3 Spain) • LIVE 20:55
+#EXTINF:-1 tvg-id="kltra_3438b319-ca1b-437d-9719-722780e2e777" tvg-name="[S3] [Premier League] Fulham vs Hull City - Server 3 (Beesport - Hub Premier 3) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png" group-title="🔥 Hot Event",[S3] [Premier League] Fulham vs Hull City - Server 3 (Beesport - Hub Premier 3) • LIVE 20:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/DAZN-3-Spain/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/Hub-Premier-3/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
-#EXTINF:-1 tvg-id="kltra_3438b319-ca1b-437d-9719-722780e2e777" tvg-name="[S4] [Premier League] Fulham vs Hull City - Server 4 (Beesport - MonoMax 24) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png" group-title="🔥 Hot Event",[S4] [Premier League] Fulham vs Hull City - Server 4 (Beesport - MonoMax 24) • LIVE 20:55
+#EXTINF:-1 tvg-id="kltra_3438b319-ca1b-437d-9719-722780e2e777" tvg-name="[S4] [Premier League] Fulham vs Hull City - Server 4 (Beesport - EPL 02) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png" group-title="🔥 Hot Event",[S4] [Premier League] Fulham vs Hull City - Server 4 (Beesport - EPL 02) • LIVE 20:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/MonoMax-24/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/EPL-02/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
 #EXTINF:-1 tvg-id="kltra_0bb953be-eb20-4374-b13d-8c4d5f89bf79" tvg-name="[S1] [Premier League] Manchester City vs Ipswich Town - Server 1 (Kltra - HD AUTO) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" group-title="🔥 Hot Event",[S1] [Premier League] Manchester City vs Ipswich Town - Server 1 (Kltra - HD AUTO) • LIVE 20:55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -295,17 +360,17 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 #EXTVLCOPT:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
 https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/anmbezojlz/out/v1/7371522b52234489a0f43ed2cbe2bd77/cenc.mpd
 
-#EXTINF:-1 tvg-id="kltra_0bb953be-eb20-4374-b13d-8c4d5f89bf79" tvg-name="[S3] [Premier League] Manchester City vs Ipswich Town - Server 3 (Beesport - DAZN 1 Spain) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" group-title="🔥 Hot Event",[S3] [Premier League] Manchester City vs Ipswich Town - Server 3 (Beesport - DAZN 1 Spain) • LIVE 20:55
+#EXTINF:-1 tvg-id="kltra_0bb953be-eb20-4374-b13d-8c4d5f89bf79" tvg-name="[S3] [Premier League] Manchester City vs Ipswich Town - Server 3 (Beesport - DAZN CA 17) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" group-title="🔥 Hot Event",[S3] [Premier League] Manchester City vs Ipswich Town - Server 3 (Beesport - DAZN CA 17) • LIVE 20:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/DAZN-1-Spain/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/DAZN-CA-17/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
-#EXTINF:-1 tvg-id="kltra_0bb953be-eb20-4374-b13d-8c4d5f89bf79" tvg-name="[S4] [Premier League] Manchester City vs Ipswich Town - Server 4 (Beesport - DAZN CA 17) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" group-title="🔥 Hot Event",[S4] [Premier League] Manchester City vs Ipswich Town - Server 4 (Beesport - DAZN CA 17) • LIVE 20:55
+#EXTINF:-1 tvg-id="kltra_0bb953be-eb20-4374-b13d-8c4d5f89bf79" tvg-name="[S4] [Premier League] Manchester City vs Ipswich Town - Server 4 (Beesport - MonoMax 25) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" group-title="🔥 Hot Event",[S4] [Premier League] Manchester City vs Ipswich Town - Server 4 (Beesport - MonoMax 25) • LIVE 20:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/DAZN-CA-17/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+https://enewl.greenvora.net/MonoMax-25/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="kltra_7b0f4d38-58bf-487e-afa5-94956a166ac5" tvg-name="[S1] [Bundesliga] Hamburger SV vs Stuttgart - Server 1 (Kltra - HD AUTO) • LIVE 20:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/A8Hvwz1Z7e2PNuZer9yHGw_96x96.png" group-title="🔥 Hot Event",[S1] [Bundesliga] Hamburger SV vs Stuttgart - Server 1 (Kltra - HD AUTO) • LIVE 20:25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -322,7 +387,7 @@ https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4a
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Bundesliga-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/Sky-Bundesliga-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="kltra_668fd8ba-5cdb-48d1-893a-d460e4286325" tvg-name="[S1] [Bundesliga] Elversberg vs Augsburg - Server 1 (Kltra - HD AUTO) • LIVE 20:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/23mYCieJHbCn0bq8zzLk0Q_96x96.png" group-title="🔥 Hot Event",[S1] [Bundesliga] Elversberg vs Augsburg - Server 1 (Kltra - HD AUTO) • LIVE 20:25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -334,12 +399,6 @@ https://enewl.greenvora.net/Sky-Bundesliga-2/index.jpg?fastoken=784fd036-0599-40
 #EXTVLCOPT:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:inputstream.adaptive.license_key=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb
 https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd
-
-#EXTINF:-1 tvg-id="kltra_668fd8ba-5cdb-48d1-893a-d460e4286325" tvg-name="[S2] [Bundesliga] Elversberg vs Augsburg - Server 2 (Beesport - Sky Bundesliga 5) • LIVE 20:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/23mYCieJHbCn0bq8zzLk0Q_96x96.png" group-title="🔥 Hot Event",[S2] [Bundesliga] Elversberg vs Augsburg - Server 2 (Beesport - Sky Bundesliga 5) • LIVE 20:25
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Bundesliga-5/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
 #EXTINF:-1 tvg-id="kltra_43bdbce6-94c1-463f-adbe-bac28310fa97" tvg-name="[S1] [Bundesliga] Werder Bremen vs Paderborn - Server 1 (Kltra - HD AUTO) • LIVE 20:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png" group-title="🔥 Hot Event",[S1] [Bundesliga] Werder Bremen vs Paderborn - Server 1 (Kltra - HD AUTO) • LIVE 20:25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -356,7 +415,7 @@ https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe363615
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Bundesliga-4/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/Sky-Bundesliga-4/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
 #EXTINF:-1 tvg-id="kltra_5a7234c3-125c-49ba-86ac-e442f7aa67a2" tvg-name="[S1] [Bundesliga] Union Berlin vs Borussia Dortmund - Server 1 (Kltra - HD AUTO) • LIVE 20:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png" group-title="🔥 Hot Event",[S1] [Bundesliga] Union Berlin vs Borussia Dortmund - Server 1 (Kltra - HD AUTO) • LIVE 20:25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -384,24 +443,170 @@ https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87b
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Bundesliga-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
-
-#EXTINF:-1 tvg-id="kltra_5a7234c3-125c-49ba-86ac-e442f7aa67a2" tvg-name="[S4] [Bundesliga] Union Berlin vs Borussia Dortmund - Server 4 (Beesport - DAZN CA 14) • LIVE 20:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png" group-title="🔥 Hot Event",[S4] [Bundesliga] Union Berlin vs Borussia Dortmund - Server 4 (Beesport - DAZN CA 14) • LIVE 20:25
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/DAZN-CA-14/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/Sky-Bundesliga-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_b46637e1-fc4c-4381-b954-966dff035d7a" tvg-name="[S1] [Bundesliga] Schalke 04 vs Mainz 05 - Server 1 (Beesport - Sky Bundesliga 3) • LIVE 20:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/3CjFxnIvrHJ1-pJq6B5ZQw_96x96.png" group-title="🔥 Hot Event",[S1] [Bundesliga] Schalke 04 vs Mainz 05 - Server 1 (Beesport - Sky Bundesliga 3) • LIVE 20:25
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Bundesliga-3/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/Sky-Bundesliga-3/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_b5a8204b-6c14-491e-8b55-c79c53260369" tvg-name="[S1] [Denmark Open Badminton Championships] - Server 1 (Kltra - COURT 1) • LIVE 14:00" tvg-logo="https://kltraid.pages.dev/images/sportsicon/Main_Badminton.png" group-title="🔥 Hot Event",[S1] [Denmark Open Badminton Championships] - Server 1 (Kltra - COURT 1) • LIVE 14:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344748158861061_AiSD.m3u8?txSecret=74c22684a84b85fe472610b51af726c5&txTime=6AD44440
+
+#EXTINF:-1 tvg-id="kltra_d55f0339-660e-42f6-aa97-7fba8b21063c" tvg-name="[S1] [La Liga] Real Betis vs Barcelona - Server 1 (Kltra - HD AUTO) • LIVE 23:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png" group-title="🔴 Live Event",[S1] [La Liga] Real Betis vs Barcelona - Server 1 (Kltra - HD AUTO) • LIVE 23:25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="kltra_d55f0339-660e-42f6-aa97-7fba8b21063c" tvg-name="[S2] [La Liga] Real Betis vs Barcelona - Server 2 (Kltra - HD AUTO) • LIVE 23:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png" group-title="🔴 Live Event",[S2] [La Liga] Real Betis vs Barcelona - Server 2 (Kltra - HD AUTO) • LIVE 23:25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="kltra_d55f0339-660e-42f6-aa97-7fba8b21063c" tvg-name="[S3] [La Liga] Real Betis vs Barcelona - Server 3 (Beesport - Premier Sports 2) • LIVE 23:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png" group-title="🔴 Live Event",[S3] [La Liga] Real Betis vs Barcelona - Server 3 (Beesport - Premier Sports 2) • LIVE 23:25
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Premier-Sports-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="kltra_d55f0339-660e-42f6-aa97-7fba8b21063c" tvg-name="[S4] [La Liga] Real Betis vs Barcelona - Server 4 (Beesport - ESPN Deportes) • LIVE 23:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png" group-title="🔴 Live Event",[S4] [La Liga] Real Betis vs Barcelona - Server 4 (Beesport - ESPN Deportes) • LIVE 23:25
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/ESPN-Deportes/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="kltra_c5256b22-d193-4ea2-83ea-6cdb39e77b87" tvg-name="[S1] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 1 (Kltra - HD AUTO) • LIVE 23:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png" group-title="🔴 Live Event",[S1] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 1 (Kltra - HD AUTO) • LIVE 23:25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="kltra_c5256b22-d193-4ea2-83ea-6cdb39e77b87" tvg-name="[S2] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 2 (Beesport - Sky Sports Football BU) • LIVE 23:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png" group-title="🔴 Live Event",[S2] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 2 (Beesport - Sky Sports Football BU) • LIVE 23:25
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Sky-Sports-Football-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="kltra_c5256b22-d193-4ea2-83ea-6cdb39e77b87" tvg-name="[S3] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 3 (Beesport - Sky Sports Football) • LIVE 23:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png" group-title="🔴 Live Event",[S3] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 3 (Beesport - Sky Sports Football) • LIVE 23:25
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Sky-Sports-Football/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="kltra_4de80ee3-9683-46cc-afb2-e8c3037d0753" tvg-name="[S1] [SuperLega] Verona vs Lube Civitanova - Server 1 (Kltra - SD [IOS]) • LIVE 23:00" tvg-logo="https://www.gstatic.com/onebox/sports/logos/crest_48dp.png" group-title="🔴 Live Event",[S1] [SuperLega] Verona vs Lube Civitanova - Server 1 (Kltra - SD [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://live2.jorvakstreamcache.com/live/channel33.m3u8
+
+#EXTINF:-1 tvg-id="kltra_bdbdad05-c9f9-4c30-84ff-5726659" tvg-name="[S1] [Norwegian National Championship] Viking FK vs Fredrikstad FK - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://s.q5qo.com/data/f1430597784fef1d44fa65376e5e5400.png" group-title="🔴 Live Event",[S1] [Norwegian National Championship] Viking FK vs Fredrikstad FK - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6MvZ6ESUamDpaPFb3Q_autosp.m3u8?txSecret=69273ef07386fc34cc5e0b2301cdcf7b&txTime=6AD4ED00
+
+#EXTINF:-1 tvg-id="kltra_89bfb2f2-9f91-4935-82ef-5724537" tvg-name="[S1] [Turkey Super Lig] Fenerbahce vs Alanyaspor - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://s.q5qo.com/data/ae7475651d166c4ad071a4744beeb42.png" group-title="🔴 Live Event",[S1] [Turkey Super Lig] Fenerbahce vs Alanyaspor - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6Mwb6hHS9Yim1A2oGn_autosp.m3u8?txSecret=2130705661940ba72cddd151cc1269df&txTime=6AD4ED00
+
+#EXTINF:-1 tvg-id="kltra_8870aa75-2af1-46d4-8e3a-5726685" tvg-name="[S1] [Czech National First Division] SK Sigma Olomouc vs FC Slovan Liberec - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://s.q5qo.com/data/d98479c1c387a303a4183792d186f695.png" group-title="🔴 Live Event",[S1] [Czech National First Division] SK Sigma Olomouc vs FC Slovan Liberec - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6MweaZJPiAr2PbfeeW_autosp.m3u8?txSecret=3fe94e0ee8fcfe366988392b60440ee2&txTime=6AD4ED00
+
+#EXTINF:-1 tvg-id="kltra_e03ecef6-d790-4dcf-b3bb-5726660" tvg-name="[S1] [Croatian National First Division] NK Osijek vs HNK Gorica - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://s.q5qo.com/data/d4978915820b0cb5d1aba9a473dc9086.png" group-title="🔴 Live Event",[S1] [Croatian National First Division] NK Osijek vs HNK Gorica - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6MwdprAYJGqCcndVw8_autosp.m3u8?txSecret=53dd8a7a132638108adbb956ffc8144d&txTime=6AD4ED00
+
+#EXTINF:-1 tvg-id="kltra_50803d42-3937-45b2-8e4a-5726751" tvg-name="[S1] [Armenian National Championship] Ararat Yerevan FC vs FC Shirak Gyumri - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://s.q5qo.com/data/f9a016f65d524577af4cab80ca5f6104.png" group-title="🔴 Live Event",[S1] [Armenian National Championship] Ararat Yerevan FC vs FC Shirak Gyumri - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6MweLB8Gwf1zn1GCJe_autosp.m3u8?txSecret=c3743f3e8ff85a6ff41eb6b8ab5d4bbc&txTime=6AD4ED00
+
+#EXTINF:-1 tvg-id="kltra_91c603af-3e1b-4a2a-8a7c-5726755" tvg-name="[S1] [Bahrain Premier League] Al Najma Manama vs Al Hidd - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://s.q5qo.com/data/b11b7314557757aaa684885cb3be7a28.png" group-title="🔴 Live Event",[S1] [Bahrain Premier League] Al Najma Manama vs Al Hidd - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6MxjK7iZ551WEkokcA_autosp.m3u8?txSecret=e261a1e16558e89d8f647f3dabc29118&txTime=6AD4ED00
+
+#EXTINF:-1 tvg-id="kltra_816a3cc4-71a7-47e7-af30-5726756" tvg-name="[S1] [Bahrain Premier League] Al Riffa SC vs East Riffa - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://s.q5qo.com/data/23cb00b7084a50619e08a8fedf446dcf.png" group-title="🔴 Live Event",[S1] [Bahrain Premier League] Al Riffa SC vs East Riffa - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6MxjK7iZ52p2NGyqTG_autosp.m3u8?txSecret=9d8ae9cd1640e1974381b9bba0a26c67&txTime=6AD4ED00
+
+#EXTINF:-1 tvg-id="kltra_874b32fa-b172-44da-89e0-5726663" tvg-name="[S1] [Slovak National Championship] FC Spartak Trnava vs SK Slovan Bratislava - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://s.q5qo.com/data/dfb9b6b5818341fd32e8216ac3499ed6.png" group-title="🔴 Live Event",[S1] [Slovak National Championship] FC Spartak Trnava vs SK Slovan Bratislava - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6MwdqMPbnxvGKpYoVk_autosp.m3u8?txSecret=f7800224e3bf767b47b10564c9c386da&txTime=6AD4ED00
+
+#EXTINF:-1 tvg-id="kltra_445e4f67-e499-4a53-a8c2-5660578" tvg-name="[S1] [France LNB Elite Basketball League] SLUC Nancy Basket vs Nanterre 92 - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://s.q5qo.com/data/52de530aaf0346fb161ca17a970f5197.png" group-title="🔴 Live Event",[S1] [France LNB Elite Basketball League] SLUC Nancy Basket vs Nanterre 92 - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6wXsHKa1X9UAVFV3ir_autosp.m3u8?txSecret=5019d935abeff3e89dc31bad7e352bec&txTime=6AD4ED00
+
+#EXTINF:-1 tvg-id="kltra_51f60880-65a7-4687-ae49-5660583" tvg-name="[S1] [France LNB Elite Basketball League] Elan Bearnais Pau Lacq Orthez vs Saint Quentin - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://s.q5qo.com/data/d479bc4520b87a0e2eb5d4f25da52aa1.jpg" group-title="🔴 Live Event",[S1] [France LNB Elite Basketball League] Elan Bearnais Pau Lacq Orthez vs Saint Quentin - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6wXsHKa1X7Ggcmf8Zx_autosp.m3u8?txSecret=90975ec93dd0bba4a446f68477a9a6ab&txTime=6AD4ED00
+
+#EXTINF:-1 tvg-id="kltra_94c0e707-7d37-481d-bf81-5472640" tvg-name="[S1] [Austrian Superliga Basketball League] Traiskirchen Lions vs Pirlo Kufstein Towers - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://s.q5qo.com/data/db885d598a6af47f68b6ccfb1932553c.png" group-title="🔴 Live Event",[S1] [Austrian Superliga Basketball League] Traiskirchen Lions vs Pirlo Kufstein Towers - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6wXro1Dz2ZzPANF67L_autosp.m3u8?txSecret=90b60af988ab21243bf9bc5a18faf451&txTime=6AD4ED00
+
+#EXTINF:-1 tvg-id="kltra_dcb6101f-7041-4b27-88ff-5726759" tvg-name="[S1] [Uruguay National Championship] Racing Club Montevideo vs Montevideo Wanderers - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00" tvg-logo="https://s.q5qo.com/data/26a8831dcb889521b31ff48e3161d37d.png" group-title="🔴 Live Event",[S1] [Uruguay National Championship] Racing Club Montevideo vs Montevideo Wanderers - Server 1 (Kltra - SD W [IOS]) • LIVE 23:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+https://pull.streamviewk7x.click/livesp/sd-6MxjJwuMYBBbQWn3Z4_autosp.m3u8?txSecret=1f60737b46b73ff442bc5e1d9a91f479&txTime=6AD4ED00
+
+#EXTINF:-1 tvg-id="bs_newcastle-vs-aston-villa-202610171330" tvg-name="[S1] [Premier League] Newcastle vs Aston Villa - Server 1 (Beesport - Sky Sports Premier League) • LIVE 23:00" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/34.png" group-title="🔴 Live Event",[S1] [Premier League] Newcastle vs Aston Villa - Server 1 (Beesport - Sky Sports Premier League) • LIVE 23:00
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Sky-Sports-Premier-League/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_newcastle-vs-aston-villa-202610171330" tvg-name="[S2] [Premier League] Newcastle vs Aston Villa - Server 2 (Beesport - Hub Premier 1 BU) • LIVE 23:00" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/34.png" group-title="🔴 Live Event",[S2] [Premier League] Newcastle vs Aston Villa - Server 2 (Beesport - Hub Premier 1 BU) • LIVE 23:00
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Hub-Premier-1-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_sporting-gijon-vs-albacete-202610181430" tvg-name="[S1] [Segunda División] Sporting Gijon vs Albacete - Server 1 (Beesport - LaLiga Hypermotion) • LIVE 23:00" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/731.png" group-title="🔴 Live Event",[S1] [Segunda División] Sporting Gijon vs Albacete - Server 1 (Beesport - LaLiga Hypermotion) • LIVE 23:00
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/LaLiga-Hypermotion/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="bs_washington-spirit-w-vs-njny-gotham-fc-w-202610171600" tvg-name="[S1] [NWSL Women] Washington Spirit W vs NJ/NY Gotham FC W - Server 1 (Beesport - TNT Sports 4) • LIVE 23:00" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/3005.png" group-title="🔴 Live Event",[S1] [NWSL Women] Washington Spirit W vs NJ/NY Gotham FC W - Server 1 (Beesport - TNT Sports 4) • LIVE 23:00
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/TNT-Sports-4/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_washington-spirit-w-vs-njny-gotham-fc-w-202610171600" tvg-name="[S2] [NWSL Women] Washington Spirit W vs NJ/NY Gotham FC W - Server 2 (Beesport - TNT Sports 4 BU) • LIVE 23:00" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/3005.png" group-title="🔴 Live Event",[S2] [NWSL Women] Washington Spirit W vs NJ/NY Gotham FC W - Server 2 (Beesport - TNT Sports 4 BU) • LIVE 23:00
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/TNT-Sports-4-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_4a1a846c-9e16-4dbf-bb48-20ee0f062f4a" tvg-name="[S1] [Serie A] Bologna vs Inter Milan - Server 1 (Kltra - SD W [IOS]) • LIVE 22:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png" group-title="🔴 Live Event",[S1] [Serie A] Bologna vs Inter Milan - Server 1 (Kltra - SD W [IOS]) • LIVE 22:55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -414,16 +619,22 @@ https://pull.streamviewk7x.click/livesp/sd-6Mwe5jaVNvSmxdQJYa_autosp.m3u8?txSecr
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTVLCOPT:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://a151aivottlinear-a.akamaihd.net/OTTB/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+#EXTVLCOPT:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 #EXTINF:-1 tvg-id="kltra_4a1a846c-9e16-4dbf-bb48-20ee0f062f4a" tvg-name="[S3] [Serie A] Bologna vs Inter Milan - Server 3 (Beesport - Seria A 03) • LIVE 22:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png" group-title="🔴 Live Event",[S3] [Serie A] Bologna vs Inter Milan - Server 3 (Beesport - Seria A 03) • LIVE 22:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Seria-A-03/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/Seria-A-03/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="kltra_4a1a846c-9e16-4dbf-bb48-20ee0f062f4a" tvg-name="[S4] [Serie A] Bologna vs Inter Milan - Server 4 (Beesport - DAZN CA 28) • LIVE 22:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png" group-title="🔴 Live Event",[S4] [Serie A] Bologna vs Inter Milan - Server 4 (Beesport - DAZN CA 28) • LIVE 22:55
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/DAZN-CA-28/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_607783b9-4ee1-40f4-8ef5-5726657" tvg-name="[S1] [United Arab Emirates Professional Football League] Shabab Al Ahli vs Al Ain FC - Server 1 (Kltra - SD W [IOS]) • LIVE 22:45" tvg-logo="https://s.q5qo.com/data/e575622e4a30fa03023c3738567c03da.png" group-title="🔴 Live Event",[S1] [United Arab Emirates Professional Football League] Shabab Al Ahli vs Al Ain FC - Server 1 (Kltra - SD W [IOS]) • LIVE 22:45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -434,11 +645,6 @@ https://pull.streamviewk7x.click/livesp/sd-6MxjK1DHj3et31XYb4_autosp.m3u8?txSecr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6Mwdq5CXn4RR1MuxPk_autosp.m3u8?txSecret=7fd9209a9dc108a0fdf65e1aa966f2e6&txTime=6AD4E97C
-
-#EXTINF:-1 tvg-id="kltra_cfcf86b3-0c77-41e1-a00c-5726655" tvg-name="[S1] [Saudi Pro League] NEOM SC vs AL Ettifaq FC - Server 1 (Kltra - SD W [IOS]) • LIVE 22:40" tvg-logo="https://s.q5qo.com/data/b1112e83b853a6d799a96d085723043e.jpg" group-title="🔴 Live Event",[S1] [Saudi Pro League] NEOM SC vs AL Ettifaq FC - Server 1 (Kltra - SD W [IOS]) • LIVE 22:40
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6MwarmCjejod41f4mG_autosp.m3u8?txSecret=4b6d69972029e53a36b706e231239b88&txTime=6AD4E850
 
 #EXTINF:-1 tvg-id="kltra_b6426137-d623-4a82-bfc1-5769088" tvg-name="[S1] [Czech Republic NBL Basketball Tournament] BK Pardubice vs BK Decin - Server 1 (Kltra - SD W [IOS]) • LIVE 22:37" tvg-logo="https://s.q5qo.com/data/14bdcfe3e70afda56dc6492df983600a.png" group-title="🔴 Live Event",[S1] [Czech Republic NBL Basketball Tournament] BK Pardubice vs BK Decin - Server 1 (Kltra - SD W [IOS]) • LIVE 22:37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -510,13 +716,13 @@ https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/uskpue2obh/out/v1/691ee6c
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Bein-Sports-USA/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/Bein-Sports-USA/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="kltra_44055fb8-ef99-4c5e-805e-3e43758be212" tvg-name="[S4] [Ligue 1] Strasbourg vs PSG - Server 4 (Beesport - BEIN SPORT USA BU) • LIVE 22:10" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Eb9xtMpUy8FXQ0RCKvLxcg_96x96.png" group-title="🔴 Live Event",[S4] [Ligue 1] Strasbourg vs PSG - Server 4 (Beesport - BEIN SPORT USA BU) • LIVE 22:10
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/BEIN-SPORT-USA-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/BEIN-SPORT-USA-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_a00ae43f-9055-49da-a2f5-5582741" tvg-name="[S1] [Austrian National Championship] Austria Lustenau vs LASK - Server 1 (Kltra - SD W [IOS]) • LIVE 22:00" tvg-logo="https://s.q5qo.com/data/4dc807a4576e0701fb775a8df775d21.png" group-title="🔴 Live Event",[S1] [Austrian National Championship] Austria Lustenau vs LASK - Server 1 (Kltra - SD W [IOS]) • LIVE 22:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -552,7 +758,7 @@ https://pull.streamviewk7x.click/livesp/sd-6MwdpuQoZDptS1XSUJ_autosp.m3u8?txSecr
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/NL-ESPN-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+https://enewl.greenvora.net/NL-ESPN-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
 #EXTINF:-1 tvg-id="kltra_cff90d5e-8d06-48ff-a5bc-5726488" tvg-name="[S1] [Qatar National Championship] Al Sailiya SC vs Qatar SC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:30" tvg-logo="https://s.q5qo.com/data/51c5472ceee22be113a4fd475d488a3f.png" group-title="🔴 Live Event",[S1] [Qatar National Championship] Al Sailiya SC vs Qatar SC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -589,7 +795,7 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/NL-ESPN-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+https://enewl.greenvora.net/NL-ESPN-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
 #EXTINF:-1 tvg-id="kltra_8abe66f4-baa7-499b-bbdc-5730579" tvg-name="[S1] [Segunda Division] SD Eibar vs RCD Mallorca - Server 1 (Kltra - SD W [IOS]) • LIVE 21:15" tvg-logo="https://s.q5qo.com/data/e6fcea5b294cb214bb78bb6c524b1774.png" group-title="🔴 Live Event",[S1] [Segunda Division] SD Eibar vs RCD Mallorca - Server 1 (Kltra - SD W [IOS]) • LIVE 21:15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -600,7 +806,7 @@ https://pull.streamviewk7x.click/livesp/sd-6MweaARkZTW4B4eJLS_autosp.m3u8?txSecr
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/LaLiga-Hypermotion/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+https://enewl.greenvora.net/LaLiga-Hypermotion/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="kltra_a261028b-0532-4589-b7e9-5623840" tvg-name="[S1] [Romanian National Championship] FC Petrolul Ploiesti vs ACS Sepsi OSK Sfantu Gheorghe - Server 1 (Kltra - SD W [IOS]) • LIVE 21:15" tvg-logo="https://s.q5qo.com/data/6770d28844ccf513f944c85e7b45f666.png" group-title="🔴 Live Event",[S1] [Romanian National Championship] FC Petrolul Ploiesti vs ACS Sepsi OSK Sfantu Gheorghe - Server 1 (Kltra - SD W [IOS]) • LIVE 21:15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -623,17 +829,17 @@ https://pull.streamviewk7x.click/livesp/sd-6MweaGxUhg7QoeZYci_autosp.m3u8?txSecr
 #EXTVLCOPT:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="kltra_27a6a21a-37ef-4bc2-9ab4-0e0db7b99e0e" tvg-name="[S3] [La Liga] Villarreal vs Elche - Server 3 (Beesport - ESPN Deportes BU) • LIVE 21:10" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png" group-title="🔴 Live Event",[S3] [La Liga] Villarreal vs Elche - Server 3 (Beesport - ESPN Deportes BU) • LIVE 21:10
+#EXTINF:-1 tvg-id="kltra_27a6a21a-37ef-4bc2-9ab4-0e0db7b99e0e" tvg-name="[S3] [La Liga] Villarreal vs Elche - Server 3 (Beesport - ESPN Deportes) • LIVE 21:10" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png" group-title="🔴 Live Event",[S3] [La Liga] Villarreal vs Elche - Server 3 (Beesport - ESPN Deportes) • LIVE 21:10
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/ESPN-Deportes/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="kltra_27a6a21a-37ef-4bc2-9ab4-0e0db7b99e0e" tvg-name="[S4] [La Liga] Villarreal vs Elche - Server 4 (Beesport - ESPN Deportes BU) • LIVE 21:10" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png" group-title="🔴 Live Event",[S4] [La Liga] Villarreal vs Elche - Server 4 (Beesport - ESPN Deportes BU) • LIVE 21:10
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
 https://enewl.greenvora.net/ESPN-Deportes-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
-
-#EXTINF:-1 tvg-id="kltra_27a6a21a-37ef-4bc2-9ab4-0e0db7b99e0e" tvg-name="[S4] [La Liga] Villarreal vs Elche - Server 4 (Beesport - ESPN 7) • LIVE 21:10" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png" group-title="🔴 Live Event",[S4] [La Liga] Villarreal vs Elche - Server 4 (Beesport - ESPN 7) • LIVE 21:10
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/ESPN-7/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_a069f18e-30e8-4ed9-a183-5581908" tvg-name="[S1] [Greek National Championship] APO Levadiakos FC vs Volos NFC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:05" tvg-logo="https://s.q5qo.com/data/50ef20cda1cce09bd98980b1290adc78.png" group-title="🔴 Live Event",[S1] [Greek National Championship] APO Levadiakos FC vs Volos NFC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -660,42 +866,17 @@ https://enewl.greenvora.net/Seria-A-02/index.jpg?fastoken=784fd036-0599-4081-b39
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Portugal-Sport-TV-1-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/Portugal-Sport-TV-1-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_5ea12ace-9223-4252-bf8f-5548453" tvg-name="[S1] [Greek Basketball League A1] AE Doxa Lefkadas vs Promitheas Patras BC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/31230cc1a278de315f86cb4576422011.png" group-title="🔴 Live Event",[S1] [Greek Basketball League A1] AE Doxa Lefkadas vs Promitheas Patras BC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6wXsHGFL1vAdt2mUUA_autosp.m3u8?txSecret=87b17ce8e5822206da2abd0ab10d8687&txTime=6AD4D0E0
 
-#EXTINF:-1 tvg-id="kltra_c3c5288f-f3a1-4e4a-b91c-5726279" tvg-name="[S1] [EFL Championship] Derby County vs Stoke City - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/77b83fad11d87299cbd372533ef19017.png" group-title="🔴 Live Event",[S1] [EFL Championship] Derby County vs Stoke City - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6MweZwRzXumtPZZeoc_autosp.m3u8?txSecret=8923cb5330d8151458521ef547faf66b&txTime=6AD4D0E0
-
 #EXTINF:-1 tvg-id="kltra_ad3bda8a-56af-4f44-b9e7-5574931" tvg-name="[S1] [Scottish Premier League] Aberdeen FC vs ST Mirren FC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/335ea6874414dcf9a3b3963883b0d23c.png" group-title="🔴 Live Event",[S1] [Scottish Premier League] Aberdeen FC vs ST Mirren FC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6Mwdq1uKuz7TJqDTaa_autosp.m3u8?txSecret=898767b0dd558804587bf54bf1fbc8de&txTime=6AD4D0E0
-
-#EXTINF:-1 tvg-id="kltra_3ae8493a-987a-47db-aafd-5574932" tvg-name="[S1] [Scottish Premier League] Hibernian FC vs Falkirk FC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/6149dc1c093587b1479a4f4769891cd.png" group-title="🔴 Live Event",[S1] [Scottish Premier League] Hibernian FC vs Falkirk FC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6Mwdq1uKv2JwBK3NjU_autosp.m3u8?txSecret=1492e2349d4eb93b867ea5c834e8a8b3&txTime=6AD4D0E0
-
-#EXTINF:-1 tvg-id="kltra_497a9340-10f1-4113-9588-5574933" tvg-name="[S1] [Scottish Premier League] ST Johnstone FC vs Dundee United - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/580ff8a33ac1f1edd45df51f4afcd1e9.png" group-title="🔴 Live Event",[S1] [Scottish Premier League] ST Johnstone FC vs Dundee United - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6Mwdq1uKv6htvGhD3G_autosp.m3u8?txSecret=ccd477f95aaf99e4ee51633684ac434c&txTime=6AD4D0E0
-
-#EXTINF:-1 tvg-id="kltra_b5e95d0e-2594-45d3-96e2-5574935" tvg-name="[S1] [Scottish Premier League] Kilmarnock FC vs Motherwell FC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/c7c933b24834dc16aee6ed75165b1397.png" group-title="🔴 Live Event",[S1] [Scottish Premier League] Kilmarnock FC vs Motherwell FC - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6Mwdq1uKv8uNnkX8CA_autosp.m3u8?txSecret=e6a1c06ecee0a3402587e55967d15523&txTime=6AD4D0E0
-
-#EXTINF:-1 tvg-id="kltra_034b2f7c-e03d-4cbc-a4d3-5726247" tvg-name="[S1] [Norwegian National Championship] Kristiansund BK vs Aalesunds FK - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/11c5e7d40dfa5539f8bf8768a71c3810.png" group-title="🔴 Live Event",[S1] [Norwegian National Championship] Kristiansund BK vs Aalesunds FK - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6MvZ6ESU65P4jCrqvi_autosp.m3u8?txSecret=e566abfe52b78ffccd33235de11aff7b&txTime=6AD4D0E0
 
 #EXTINF:-1 tvg-id="kltra_b8c9d080-4b8d-45cc-870a-5726281" tvg-name="[S1] [EFL Championship] Southampton FC vs Bolton Wanderers - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/b4a067569a3870fccd7f749f2f0218fb.png" group-title="🔴 Live Event",[S1] [EFL Championship] Southampton FC vs Bolton Wanderers - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -707,17 +888,17 @@ https://pull.streamviewk7x.click/livesp/sd-6MweZwRzN27UELwTmc_autosp.m3u8?txSecr
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6MweZwRzNAuPiGF8PC_autosp.m3u8?txSecret=a80398da73fe7d7ad42c0f14703e2135&txTime=6AD4D0E0
 
-#EXTINF:-1 tvg-id="kltra_49cda69f-1e07-4204-910f-5726282" tvg-name="[S2] [EFL Championship] Swansea City vs West Ham United - Server 2 (Beesport - CBS Sports Network) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/e00545b677eb7f48da7670087be62298.png" group-title="🔴 Live Event",[S2] [EFL Championship] Swansea City vs West Ham United - Server 2 (Beesport - CBS Sports Network) • LIVE 21:00
+#EXTINF:-1 tvg-id="kltra_49cda69f-1e07-4204-910f-5726282" tvg-name="[S2] [EFL Championship] Swansea City vs West Ham United - Server 2 (Beesport - Paramount 09) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/e00545b677eb7f48da7670087be62298.png" group-title="🔴 Live Event",[S2] [EFL Championship] Swansea City vs West Ham United - Server 2 (Beesport - Paramount 09) • LIVE 21:00
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/CBS-Sports-Network/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/Paramount-09/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
-#EXTINF:-1 tvg-id="kltra_49cda69f-1e07-4204-910f-5726282" tvg-name="[S3] [EFL Championship] Swansea City vs West Ham United - Server 3 (Beesport - Paramount 09) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/e00545b677eb7f48da7670087be62298.png" group-title="🔴 Live Event",[S3] [EFL Championship] Swansea City vs West Ham United - Server 3 (Beesport - Paramount 09) • LIVE 21:00
+#EXTINF:-1 tvg-id="kltra_49cda69f-1e07-4204-910f-5726282" tvg-name="[S3] [EFL Championship] Swansea City vs West Ham United - Server 3 (Beesport - CBS Sports Network) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/e00545b677eb7f48da7670087be62298.png" group-title="🔴 Live Event",[S3] [EFL Championship] Swansea City vs West Ham United - Server 3 (Beesport - CBS Sports Network) • LIVE 21:00
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Paramount-09/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+https://enewl.greenvora.net/CBS-Sports-Network/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_5aaffd7c-8348-4dc6-9be6-5726283" tvg-name="[S1] [EFL Championship] West Bromwich Albion vs Blackburn Rovers - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/6f6a199176bdb8c409a6decca79db7e8.png" group-title="🔴 Live Event",[S1] [EFL Championship] West Bromwich Albion vs Blackburn Rovers - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -733,24 +914,14 @@ https://pull.streamviewk7x.click/livesp/sd-6MweZwRzN8huqnRDEJ_autosp.m3u8?txSecr
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Paramount-05/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/Paramount-05/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_9f3b81f3-16a1-4022-92f2-5726285" tvg-name="[S1] [English Third Division] Barnsley vs Cambridge United - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00" tvg-logo="https://s.q5qo.com/data/de0eac676628a139fee52bb0f3c92a83.png" group-title="🔴 Live Event",[S1] [English Third Division] Barnsley vs Cambridge United - Server 1 (Kltra - SD W [IOS]) • LIVE 21:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://pull.streamviewk7x.click/livesp/sd-6MweZzfUoVDC9sZSSv_autosp.m3u8?txSecret=427902db9402a06b350ce8120a4a24c8&txTime=6AD4D0E0
 
-#EXTINF:-1 tvg-id="kltra_90440b94-a2a1-494d-9489-5768382" tvg-name="[S1] [Turkish Basketball Federation] OGM Ormanspor vs Gaziantep Basketbol - Server 1 (Kltra - SD W [IOS]) • LIVE 20:57" tvg-logo="https://s.q5qo.com/data/72a34e77bb91c67b6839de522c21596a.png" group-title="🔴 Live Event",[S1] [Turkish Basketball Federation] OGM Ormanspor vs Gaziantep Basketbol - Server 1 (Kltra - SD W [IOS]) • LIVE 20:57
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6wXrYEErrxZQJU8Mi2_autosp.m3u8?txSecret=e1b077fed0f9e2b5ab3903e392b9fdc4&txTime=6AD4C9D8
-
-#EXTINF:-1 tvg-id="kltra_53179383-1500-4277-9adf-6c194c513737" tvg-name="[S1] [EFL Championship] Norwich City vs Portsmouth - Server 1 (Kltra - SD W [IOS]) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/rdYUHHFDGi3FoPorBG8o1w_96x96.png" group-title="🔴 Live Event",[S1] [EFL Championship] Norwich City vs Portsmouth - Server 1 (Kltra - SD W [IOS]) • LIVE 20:55
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6MweZwRzXP1ACqzpf4_autosp.m3u8?txSecret=cf0e94894c9df218cfce3c984c1334cd&txTime=6AD4D0E0
-
-#EXTINF:-1 tvg-id="kltra_53179383-1500-4277-9adf-6c194c513737" tvg-name="[S2] [EFL Championship] Norwich City vs Portsmouth - Server 2 (Kltra - HD AUTO) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/rdYUHHFDGi3FoPorBG8o1w_96x96.png" group-title="🔴 Live Event",[S2] [EFL Championship] Norwich City vs Portsmouth - Server 2 (Kltra - HD AUTO) • LIVE 20:55
+#EXTINF:-1 tvg-id="kltra_53179383-1500-4277-9adf-6c194c513737" tvg-name="[S1] [EFL Championship] Norwich City vs Portsmouth - Server 1 (Kltra - HD AUTO) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/rdYUHHFDGi3FoPorBG8o1w_96x96.png" group-title="🔴 Live Event",[S1] [EFL Championship] Norwich City vs Portsmouth - Server 1 (Kltra - HD AUTO) • LIVE 20:55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -761,7 +932,7 @@ https://pull.streamviewk7x.click/livesp/sd-6MweZwRzXP1ACqzpf4_autosp.m3u8?txSecr
 #EXTVLCOPT:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="kltra_53179383-1500-4277-9adf-6c194c513737" tvg-name="[S3] [EFL Championship] Norwich City vs Portsmouth - Server 3 (Beesport - MonoMax 26) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/rdYUHHFDGi3FoPorBG8o1w_96x96.png" group-title="🔴 Live Event",[S3] [EFL Championship] Norwich City vs Portsmouth - Server 3 (Beesport - MonoMax 26) • LIVE 20:55
+#EXTINF:-1 tvg-id="kltra_53179383-1500-4277-9adf-6c194c513737" tvg-name="[S2] [EFL Championship] Norwich City vs Portsmouth - Server 2 (Beesport - MonoMax 26) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/rdYUHHFDGi3FoPorBG8o1w_96x96.png" group-title="🔴 Live Event",[S2] [EFL Championship] Norwich City vs Portsmouth - Server 2 (Beesport - MonoMax 26) • LIVE 20:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
@@ -781,19 +952,19 @@ https://pull.streamviewk7x.click/livesp/sd-6MwdqQhXoq8hBfCN34_autosp.m3u8?txSecr
 #KODIPROP:inputstream.adaptive.license_key=480f6ee51138431bf4a51366ceafccc3:805605d2a7721291a353145533b4f21d
 #EXTVLCOPT:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:inputstream.adaptive.license_key=480f6ee51138431bf4a51366ceafccc3:805605d2a7721291a353145533b4f21d
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/n08pizbsu2/out/v1/a8645e4080344c53b38dc66983651d99/d61eead1-3574-4b70-8e75-67a5a806f711-cenc.mpd?aws_sessionId=9b04b8e2-907c-4d19-a01e-61dd85c80ee7
+https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/fwrbspkc5v/out/v1/83059c27ff0f406e93c4686f4f4bb2f3/cenc.mpd
 
-#EXTINF:-1 tvg-id="kltra_aa5aad60-e52e-496a-b56f-1da5ab9c2a11" tvg-name="[S3] [Premier League] Brentford vs Liverpool - Server 3 (Beesport - DAZN 2 Spain) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png" group-title="🔴 Live Event",[S3] [Premier League] Brentford vs Liverpool - Server 3 (Beesport - DAZN 2 Spain) • LIVE 20:55
+#EXTINF:-1 tvg-id="kltra_aa5aad60-e52e-496a-b56f-1da5ab9c2a11" tvg-name="[S3] [Premier League] Brentford vs Liverpool - Server 3 (Beesport - MonoMax 23) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png" group-title="🔴 Live Event",[S3] [Premier League] Brentford vs Liverpool - Server 3 (Beesport - MonoMax 23) • LIVE 20:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/DAZN-2-Spain/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/MonoMax-23/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
 #EXTINF:-1 tvg-id="kltra_aa5aad60-e52e-496a-b56f-1da5ab9c2a11" tvg-name="[S4] [Premier League] Brentford vs Liverpool - Server 4 (Beesport - Hub Premier 1 BU) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png" group-title="🔴 Live Event",[S4] [Premier League] Brentford vs Liverpool - Server 4 (Beesport - Hub Premier 1 BU) • LIVE 20:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Hub-Premier-1-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/Hub-Premier-1-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_3438b319-ca1b-437d-9719-722780e2e777" tvg-name="[S1] [Premier League] Fulham vs Hull City - Server 1 (Kltra - SD W [IOS]) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png" group-title="🔴 Live Event",[S1] [Premier League] Fulham vs Hull City - Server 1 (Kltra - SD W [IOS]) • LIVE 20:55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -811,17 +982,17 @@ https://pull.streamviewk7x.click/livesp/sd-6MwdqQiJ97m9YQpVmt_autosp.m3u8?txSecr
 #EXTVLCOPT:inputstream.adaptive.license_key=5245bea7bb5265e0cefa8a59f3a989e7:a502b56126f5f5e5beb0e901fa246f1e
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tynmqoruat/out/v1/07d94e5695564616bc21118f294f6cc7/7e0dd27b-f998-465e-8df2-027df73d929b-cenc.mpd?aws_sessionId=9e935291-e3f8-4fd0-880c-7ae5a73ee747
 
-#EXTINF:-1 tvg-id="kltra_3438b319-ca1b-437d-9719-722780e2e777" tvg-name="[S3] [Premier League] Fulham vs Hull City - Server 3 (Beesport - DAZN 3 Spain) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png" group-title="🔴 Live Event",[S3] [Premier League] Fulham vs Hull City - Server 3 (Beesport - DAZN 3 Spain) • LIVE 20:55
+#EXTINF:-1 tvg-id="kltra_3438b319-ca1b-437d-9719-722780e2e777" tvg-name="[S3] [Premier League] Fulham vs Hull City - Server 3 (Beesport - Hub Premier 3) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png" group-title="🔴 Live Event",[S3] [Premier League] Fulham vs Hull City - Server 3 (Beesport - Hub Premier 3) • LIVE 20:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/DAZN-3-Spain/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/Hub-Premier-3/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
-#EXTINF:-1 tvg-id="kltra_3438b319-ca1b-437d-9719-722780e2e777" tvg-name="[S4] [Premier League] Fulham vs Hull City - Server 4 (Beesport - MonoMax 24) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png" group-title="🔴 Live Event",[S4] [Premier League] Fulham vs Hull City - Server 4 (Beesport - MonoMax 24) • LIVE 20:55
+#EXTINF:-1 tvg-id="kltra_3438b319-ca1b-437d-9719-722780e2e777" tvg-name="[S4] [Premier League] Fulham vs Hull City - Server 4 (Beesport - EPL 02) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/Gh7_5p3n364p4vxeM8FhNg_96x96.png" group-title="🔴 Live Event",[S4] [Premier League] Fulham vs Hull City - Server 4 (Beesport - EPL 02) • LIVE 20:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/MonoMax-24/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/EPL-02/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
 #EXTINF:-1 tvg-id="kltra_0bb953be-eb20-4374-b13d-8c4d5f89bf79" tvg-name="[S1] [Premier League] Manchester City vs Ipswich Town - Server 1 (Kltra - HD AUTO) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" group-title="🔴 Live Event",[S1] [Premier League] Manchester City vs Ipswich Town - Server 1 (Kltra - HD AUTO) • LIVE 20:55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -845,29 +1016,23 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulate
 #EXTVLCOPT:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
 https://otte.cache.aiv-cdn.net/sin-nitro/live/dash/enc/anmbezojlz/out/v1/7371522b52234489a0f43ed2cbe2bd77/cenc.mpd
 
-#EXTINF:-1 tvg-id="kltra_0bb953be-eb20-4374-b13d-8c4d5f89bf79" tvg-name="[S3] [Premier League] Manchester City vs Ipswich Town - Server 3 (Beesport - DAZN 1 Spain) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" group-title="🔴 Live Event",[S3] [Premier League] Manchester City vs Ipswich Town - Server 3 (Beesport - DAZN 1 Spain) • LIVE 20:55
+#EXTINF:-1 tvg-id="kltra_0bb953be-eb20-4374-b13d-8c4d5f89bf79" tvg-name="[S3] [Premier League] Manchester City vs Ipswich Town - Server 3 (Beesport - DAZN CA 17) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" group-title="🔴 Live Event",[S3] [Premier League] Manchester City vs Ipswich Town - Server 3 (Beesport - DAZN CA 17) • LIVE 20:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/DAZN-1-Spain/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/DAZN-CA-17/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
-#EXTINF:-1 tvg-id="kltra_0bb953be-eb20-4374-b13d-8c4d5f89bf79" tvg-name="[S4] [Premier League] Manchester City vs Ipswich Town - Server 4 (Beesport - DAZN CA 17) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" group-title="🔴 Live Event",[S4] [Premier League] Manchester City vs Ipswich Town - Server 4 (Beesport - DAZN CA 17) • LIVE 20:55
+#EXTINF:-1 tvg-id="kltra_0bb953be-eb20-4374-b13d-8c4d5f89bf79" tvg-name="[S4] [Premier League] Manchester City vs Ipswich Town - Server 4 (Beesport - MonoMax 25) • LIVE 20:55" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png" group-title="🔴 Live Event",[S4] [Premier League] Manchester City vs Ipswich Town - Server 4 (Beesport - MonoMax 25) • LIVE 20:55
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/DAZN-CA-17/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
-
-#EXTINF:-1 tvg-id="bs_hibernian-vs-falkirk-202610171330" tvg-name="[S1] [Premiership] Hibernian vs Falkirk - Server 1 (Beesport - Hibernian) • LIVE 20:30" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/249.png" group-title="🔴 Live Event",[S1] [Premiership] Hibernian vs Falkirk - Server 1 (Beesport - Hibernian) • LIVE 20:30
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Hibernian/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/MonoMax-25/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="bs_kilmarnock-vs-motherwell-202610171330" tvg-name="[S1] [Premiership] Kilmarnock vs Motherwell - Server 1 (Beesport - Motherwell FC) • LIVE 20:30" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/250.png" group-title="🔴 Live Event",[S1] [Premiership] Kilmarnock vs Motherwell - Server 1 (Beesport - Motherwell FC) • LIVE 20:30
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Motherwell-FC/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/Motherwell-FC/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="bs_st-johnstone-vs-dundee-utd-202610171330" tvg-name="[S1] [Premiership] ST Johnstone vs Dundee Utd - Server 1 (Beesport - Dundee United) • LIVE 20:30" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/258.png" group-title="🔴 Live Event",[S1] [Premiership] ST Johnstone vs Dundee Utd - Server 1 (Beesport - Dundee United) • LIVE 20:30
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
@@ -896,7 +1061,7 @@ https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4a
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Bundesliga-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/Sky-Bundesliga-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="kltra_668fd8ba-5cdb-48d1-893a-d460e4286325" tvg-name="[S1] [Bundesliga] Elversberg vs Augsburg - Server 1 (Kltra - HD AUTO) • LIVE 20:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/23mYCieJHbCn0bq8zzLk0Q_96x96.png" group-title="🔴 Live Event",[S1] [Bundesliga] Elversberg vs Augsburg - Server 1 (Kltra - HD AUTO) • LIVE 20:25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -908,12 +1073,6 @@ https://enewl.greenvora.net/Sky-Bundesliga-2/index.jpg?fastoken=784fd036-0599-40
 #EXTVLCOPT:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:inputstream.adaptive.license_key=6477160076644679af1028534f03f67e:1267f99705113a62c7782c4d5281a7eb
 https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7409/index.mpd
-
-#EXTINF:-1 tvg-id="kltra_668fd8ba-5cdb-48d1-893a-d460e4286325" tvg-name="[S2] [Bundesliga] Elversberg vs Augsburg - Server 2 (Beesport - Sky Bundesliga 5) • LIVE 20:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/23mYCieJHbCn0bq8zzLk0Q_96x96.png" group-title="🔴 Live Event",[S2] [Bundesliga] Elversberg vs Augsburg - Server 2 (Beesport - Sky Bundesliga 5) • LIVE 20:25
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Bundesliga-5/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
 #EXTINF:-1 tvg-id="kltra_43bdbce6-94c1-463f-adbe-bac28310fa97" tvg-name="[S1] [Bundesliga] Werder Bremen vs Paderborn - Server 1 (Kltra - HD AUTO) • LIVE 20:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png" group-title="🔴 Live Event",[S1] [Bundesliga] Werder Bremen vs Paderborn - Server 1 (Kltra - HD AUTO) • LIVE 20:25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -930,7 +1089,7 @@ https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe363615
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Bundesliga-4/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/Sky-Bundesliga-4/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
 
 #EXTINF:-1 tvg-id="kltra_5a7234c3-125c-49ba-86ac-e442f7aa67a2" tvg-name="[S1] [Bundesliga] Union Berlin vs Borussia Dortmund - Server 1 (Kltra - HD AUTO) • LIVE 20:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png" group-title="🔴 Live Event",[S1] [Bundesliga] Union Berlin vs Borussia Dortmund - Server 1 (Kltra - HD AUTO) • LIVE 20:25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -958,206 +1117,18 @@ https://shahid-sports-1-enc.edgenextcdn.net/out/v1/0169cfa282614ebe97ef0201da87b
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Bundesliga-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
-
-#EXTINF:-1 tvg-id="kltra_5a7234c3-125c-49ba-86ac-e442f7aa67a2" tvg-name="[S4] [Bundesliga] Union Berlin vs Borussia Dortmund - Server 4 (Beesport - DAZN CA 14) • LIVE 20:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png" group-title="🔴 Live Event",[S4] [Bundesliga] Union Berlin vs Borussia Dortmund - Server 4 (Beesport - DAZN CA 14) • LIVE 20:25
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/DAZN-CA-14/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/Sky-Bundesliga-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_b46637e1-fc4c-4381-b954-966dff035d7a" tvg-name="[S1] [Bundesliga] Schalke 04 vs Mainz 05 - Server 1 (Beesport - Sky Bundesliga 3) • LIVE 20:25" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/3CjFxnIvrHJ1-pJq6B5ZQw_96x96.png" group-title="🔴 Live Event",[S1] [Bundesliga] Schalke 04 vs Mainz 05 - Server 1 (Beesport - Sky Bundesliga 3) • LIVE 20:25
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Bundesliga-3/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+https://enewl.greenvora.net/Sky-Bundesliga-3/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="kltra_b5a8204b-6c14-491e-8b55-c79c53260369" tvg-name="[S1] [Denmark Open Badminton Championships] - Server 1 (Kltra - COURT 1) • LIVE 14:00" tvg-logo="https://kltraid.pages.dev/images/sportsicon/Main_Badminton.png" group-title="🔴 Live Event",[S1] [Denmark Open Badminton Championships] - Server 1 (Kltra - COURT 1) • LIVE 14:00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4344748158861061_AiSD.m3u8?txSecret=74c22684a84b85fe472610b51af726c5&txTime=6AD44440
-
-#EXTINF:-1 tvg-id="kltra_4de80ee3-9683-46cc-afb2-e8c3037d0753" tvg-name="[S1] [UPCOMING] [SuperLega] Verona vs Lube Civitanova - Server 1 (Kltra - SD [IOS]) • 23:00 WIB" tvg-logo="https://www.gstatic.com/onebox/sports/logos/crest_48dp.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [SuperLega] Verona vs Lube Civitanova - Server 1 (Kltra - SD [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live2.jorvakstreamcache.com/live/channel33.m3u8
-
-#EXTINF:-1 tvg-id="kltra_2cc846cd-e0bb-4388-b911-1d5cf6adb767" tvg-name="[S1] [UPCOMING] [TAURON Liga] Belchatow vs Gdansk - Server 1 (Kltra - SD [IOS]) • 23:00 WIB" tvg-logo="https://www.gstatic.com/onebox/sports/logos/crest_48dp.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [TAURON Liga] Belchatow vs Gdansk - Server 1 (Kltra - SD [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://kltratvplay.elutuna.workers.dev/player/hybrid-2247259-13?src=https%3A%2F%2Fgreen-bush-d67f.elutuna.workers.dev%2Fstream%2Fhybrid-2247259-13%2F0e0ca6daf1566517fccc%2Findex.m3u8%3FmatchId%3D2247259%26sportType%3D13&ttl=300
-
-#EXTINF:-1 tvg-id="kltra_dc92e5e1-4c29-4f7c-ac1f-497cc480e129" tvg-name="[S1] [UPCOMING] [Efeler Ligi] Fenerbahce vs Ziraat Bankasi - Server 1 (Kltra - SD [IOS]) • 23:00 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/HOQreZgFrmtQiLi8HKb9zA_96x96.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Efeler Ligi] Fenerbahce vs Ziraat Bankasi - Server 1 (Kltra - SD [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://kltratvplay.elutuna.workers.dev/player/hybrid-2247270-13?src=https%3A%2F%2Fgreen-bush-d67f.elutuna.workers.dev%2Fstream%2Fhybrid-2247270-13%2F14dbe86fcb3d97bd86de%2Findex.m3u8%3FmatchId%3D2247270%26sportType%3D13&ttl=300
-
-#EXTINF:-1 tvg-id="kltra_bdbdad05-c9f9-4c30-84ff-5726659" tvg-name="[S1] [UPCOMING] [Norwegian National Championship] Viking FK vs Fredrikstad FK - Server 1 (Kltra - SD W [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/f1430597784fef1d44fa65376e5e5400.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Norwegian National Championship] Viking FK vs Fredrikstad FK - Server 1 (Kltra - SD W [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6MvZ6ESUamDpaPFb3Q_autosp.m3u8?txSecret=69273ef07386fc34cc5e0b2301cdcf7b&txTime=6AD4ED00
-
-#EXTINF:-1 tvg-id="kltra_89bfb2f2-9f91-4935-82ef-5724537" tvg-name="[S1] [UPCOMING] [Turkey Super Lig] Fenerbahce vs Alanyaspor - Server 1 (Kltra - SD W [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/ae7475651d166c4ad071a4744beeb42.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Turkey Super Lig] Fenerbahce vs Alanyaspor - Server 1 (Kltra - SD W [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6Mwb6hHS9Yim1A2oGn_autosp.m3u8?txSecret=2130705661940ba72cddd151cc1269df&txTime=6AD4ED00
-
-#EXTINF:-1 tvg-id="kltra_8870aa75-2af1-46d4-8e3a-5726685" tvg-name="[S1] [UPCOMING] [Czech National First Division] SK Sigma Olomouc vs FC Slovan Liberec - Server 1 (Kltra - SD W [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/d98479c1c387a303a4183792d186f695.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Czech National First Division] SK Sigma Olomouc vs FC Slovan Liberec - Server 1 (Kltra - SD W [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6MweaZJPiAr2PbfeeW_autosp.m3u8?txSecret=3fe94e0ee8fcfe366988392b60440ee2&txTime=6AD4ED00
-
-#EXTINF:-1 tvg-id="kltra_8870aa75-2af1-46d4-8e3a-5726685" tvg-name="[S2] [UPCOMING] [Czech National First Division] SK Sigma Olomouc vs FC Slovan Liberec - Server 2 (Kltra - HD B [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/d98479c1c387a303a4183792d186f695.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Czech National First Division] SK Sigma Olomouc vs FC Slovan Liberec - Server 2 (Kltra - HD B [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pul-tenm.gkykp.com/live/sd-1-4568887.m3u8?txSecret=ab5ed09a265843646fe791aa9c8dcee1&txTime=6AD4E940
-
-#EXTINF:-1 tvg-id="kltra_3ee58584-361e-454a-93ef-5726699" tvg-name="[S1] [UPCOMING] [Turkish First Division] Bodrum Belediyesi Bodrumspor vs Bandirmaspor - Server 1 (Kltra - SD V [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/91028b196d9a84e7cce5933fa2e444f7.jpeg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Turkish First Division] Bodrum Belediyesi Bodrumspor vs Bandirmaspor - Server 1 (Kltra - SD V [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live.vivo155.com/live/sd-1-4583586.m3u8?txSecret=b3229dd1b3eca6a22dcd0b8d5e0182e7&txTime=6AD3AD86
-
-#EXTINF:-1 tvg-id="kltra_e03ecef6-d790-4dcf-b3bb-5726660" tvg-name="[S1] [UPCOMING] [Croatian National First Division] NK Osijek vs HNK Gorica - Server 1 (Kltra - SD W [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/d4978915820b0cb5d1aba9a473dc9086.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Croatian National First Division] NK Osijek vs HNK Gorica - Server 1 (Kltra - SD W [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6MwdprAYJGqCcndVw8_autosp.m3u8?txSecret=53dd8a7a132638108adbb956ffc8144d&txTime=6AD4ED00
-
-#EXTINF:-1 tvg-id="kltra_50803d42-3937-45b2-8e4a-5726751" tvg-name="[S1] [UPCOMING] [Armenian National Championship] Ararat Yerevan FC vs FC Shirak Gyumri - Server 1 (Kltra - SD W [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/f9a016f65d524577af4cab80ca5f6104.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Armenian National Championship] Ararat Yerevan FC vs FC Shirak Gyumri - Server 1 (Kltra - SD W [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6MweLB8Gwf1zn1GCJe_autosp.m3u8?txSecret=c3743f3e8ff85a6ff41eb6b8ab5d4bbc&txTime=6AD4ED00
-
-#EXTINF:-1 tvg-id="kltra_50803d42-3937-45b2-8e4a-5726751" tvg-name="[S2] [UPCOMING] [Armenian National Championship] Ararat Yerevan FC vs FC Shirak Gyumri - Server 2 (Kltra - SD V [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/f9a016f65d524577af4cab80ca5f6104.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Armenian National Championship] Ararat Yerevan FC vs FC Shirak Gyumri - Server 2 (Kltra - SD V [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live.vivo155.com/live/sd-1-4578933.m3u8?txSecret=b32048ed772cecc8ab865544151c1b66&txTime=6AD3AD88
-
-#EXTINF:-1 tvg-id="kltra_91c603af-3e1b-4a2a-8a7c-5726755" tvg-name="[S1] [UPCOMING] [Bahrain Premier League] Al Najma Manama vs Al Hidd - Server 1 (Kltra - SD V [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/b11b7314557757aaa684885cb3be7a28.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Bahrain Premier League] Al Najma Manama vs Al Hidd - Server 1 (Kltra - SD V [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live.vivo155.com/live/sd-1-4654736.m3u8?txSecret=cb4bb9a084ca083ea90e723c5f3416e3&txTime=6AD3AD8B
-
-#EXTINF:-1 tvg-id="kltra_816a3cc4-71a7-47e7-af30-5726756" tvg-name="[S1] [UPCOMING] [Bahrain Premier League] Al Riffa SC vs East Riffa - Server 1 (Kltra - SD V [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/23cb00b7084a50619e08a8fedf446dcf.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Bahrain Premier League] Al Riffa SC vs East Riffa - Server 1 (Kltra - SD V [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live.vivo155.com/live/sd-1-4654737.m3u8?txSecret=0a610d0e4620986e94daa6f576065b46&txTime=6AD3AD8F
-
-#EXTINF:-1 tvg-id="kltra_874b32fa-b172-44da-89e0-5726663" tvg-name="[S1] [UPCOMING] [Slovak National Championship] FC Spartak Trnava vs SK Slovan Bratislava - Server 1 (Kltra - SD V [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/dfb9b6b5818341fd32e8216ac3499ed6.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Slovak National Championship] FC Spartak Trnava vs SK Slovan Bratislava - Server 1 (Kltra - SD V [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live.vivo155.com/live/sd-1-4559170.m3u8?txSecret=0b1291e992f84671b4ccc5b58b76486d&txTime=6AD3AD91
-
-#EXTINF:-1 tvg-id="kltra_83dcbeb9-f956-4d77-9829-5315839" tvg-name="[S1] [UPCOMING] [Spanish Basketball Championship] Basquet Manresa vs Unicaja Malaga - Server 1 (Kltra - SD V [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/807f25b72b4835a77a13a52f41c4f4d0.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Spanish Basketball Championship] Basquet Manresa vs Unicaja Malaga - Server 1 (Kltra - SD V [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live.vivo155.com/live/sd-2-3932764.m3u8?txSecret=330f3d337839a0150ea3fae7b8bec831&txTime=6AD3AD93
-
-#EXTINF:-1 tvg-id="kltra_445e4f67-e499-4a53-a8c2-5660578" tvg-name="[S1] [UPCOMING] [France LNB Elite Basketball League] SLUC Nancy Basket vs Nanterre 92 - Server 1 (Kltra - SD W [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/52de530aaf0346fb161ca17a970f5197.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [France LNB Elite Basketball League] SLUC Nancy Basket vs Nanterre 92 - Server 1 (Kltra - SD W [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6wXsHKa1X9UAVFV3ir_autosp.m3u8?txSecret=5019d935abeff3e89dc31bad7e352bec&txTime=6AD4ED00
-
-#EXTINF:-1 tvg-id="kltra_51f60880-65a7-4687-ae49-5660583" tvg-name="[S1] [UPCOMING] [France LNB Elite Basketball League] Elan Bearnais Pau Lacq Orthez vs Saint Quentin - Server 1 (Kltra - SD V [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/d479bc4520b87a0e2eb5d4f25da52aa1.jpg" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [France LNB Elite Basketball League] Elan Bearnais Pau Lacq Orthez vs Saint Quentin - Server 1 (Kltra - SD V [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://live.vivo155.com/live/sd-2-3941609.m3u8?txSecret=49ab2d50695573a0531f1e9362cc42e7&txTime=6AD3ADEF
-
-#EXTINF:-1 tvg-id="kltra_94c0e707-7d37-481d-bf81-5472640" tvg-name="[S1] [UPCOMING] [Austrian Superliga Basketball League] Traiskirchen Lions vs Pirlo Kufstein Towers - Server 1 (Kltra - SD W [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/db885d598a6af47f68b6ccfb1932553c.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Austrian Superliga Basketball League] Traiskirchen Lions vs Pirlo Kufstein Towers - Server 1 (Kltra - SD W [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pull.streamviewk7x.click/livesp/sd-6wXro1Dz2ZzPANF67L_autosp.m3u8?txSecret=90b60af988ab21243bf9bc5a18faf451&txTime=6AD4ED00
-
-#EXTINF:-1 tvg-id="kltra_dcb6101f-7041-4b27-88ff-5726759" tvg-name="[S1] [UPCOMING] [Uruguay National Championship] Racing Club Montevideo vs Montevideo Wanderers - Server 1 (Kltra - HD B [IOS]) • 23:00 WIB" tvg-logo="https://s.q5qo.com/data/26a8831dcb889521b31ff48e3161d37d.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Uruguay National Championship] Racing Club Montevideo vs Montevideo Wanderers - Server 1 (Kltra - HD B [IOS]) • 23:00 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-https://pul-tenm.gkykp.com/live/sd-1-4657422.m3u8?txSecret=0403c7b6500d284801511d8f9f014477&txTime=6AD4E940
-
-#EXTINF:-1 tvg-id="bs_newcastle-vs-aston-villa-202610171330" tvg-name="[S1] [UPCOMING] [Premier League] Newcastle vs Aston Villa - Server 1 (Beesport - Sky Sports Premier League) • 23:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/34.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Premier League] Newcastle vs Aston Villa - Server 1 (Beesport - Sky Sports Premier League) • 23:00 WIB
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Sports-Premier-League/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
-
-#EXTINF:-1 tvg-id="bs_newcastle-vs-aston-villa-202610171330" tvg-name="[S2] [UPCOMING] [Premier League] Newcastle vs Aston Villa - Server 2 (Beesport - Sky Sports Premier League BU) • 23:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/34.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Premier League] Newcastle vs Aston Villa - Server 2 (Beesport - Sky Sports Premier League BU) • 23:00 WIB
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Sports-Premier-League-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
-
-#EXTINF:-1 tvg-id="bs_sporting-gijon-vs-albacete-202610181430" tvg-name="[S1] [UPCOMING] [Segunda División] Sporting Gijon vs Albacete - Server 1 (Beesport - LaLiga Hypermotion) • 23:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/731.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Segunda División] Sporting Gijon vs Albacete - Server 1 (Beesport - LaLiga Hypermotion) • 23:00 WIB
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/LaLiga-Hypermotion/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
-
-#EXTINF:-1 tvg-id="bs_washington-spirit-w-vs-njny-gotham-fc-w-202610171600" tvg-name="[S1] [UPCOMING] [NWSL Women] Washington Spirit W vs NJ/NY Gotham FC W - Server 1 (Beesport - TNT Sports 4 BU) • 23:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/3005.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [NWSL Women] Washington Spirit W vs NJ/NY Gotham FC W - Server 1 (Beesport - TNT Sports 4 BU) • 23:00 WIB
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/TNT-Sports-4-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
-
-#EXTINF:-1 tvg-id="bs_washington-spirit-w-vs-njny-gotham-fc-w-202610171600" tvg-name="[S2] [UPCOMING] [NWSL Women] Washington Spirit W vs NJ/NY Gotham FC W - Server 2 (Beesport - TNT Sports 4) • 23:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/3005.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [NWSL Women] Washington Spirit W vs NJ/NY Gotham FC W - Server 2 (Beesport - TNT Sports 4) • 23:00 WIB
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/TNT-Sports-4/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
-
-#EXTINF:-1 tvg-id="kltra_d55f0339-660e-42f6-aa97-7fba8b21063c" tvg-name="[S1] [UPCOMING] [La Liga] Real Betis vs Barcelona - Server 1 (Kltra - HD AUTO) • 23:25 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [La Liga] Real Betis vs Barcelona - Server 1 (Kltra - HD AUTO) • 23:25 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-id="kltra_d55f0339-660e-42f6-aa97-7fba8b21063c" tvg-name="[S2] [UPCOMING] [La Liga] Real Betis vs Barcelona - Server 2 (Kltra - HD AUTO) • 23:25 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [La Liga] Real Betis vs Barcelona - Server 2 (Kltra - HD AUTO) • 23:25 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="kltra_d55f0339-660e-42f6-aa97-7fba8b21063c" tvg-name="[S3] [UPCOMING] [La Liga] Real Betis vs Barcelona - Server 3 (Beesport - Premier Sports 2 sd) • 23:25 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png" group-title="⏳ Upcoming Event",[S3] [UPCOMING] [La Liga] Real Betis vs Barcelona - Server 3 (Beesport - Premier Sports 2 sd) • 23:25 WIB
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Premier-Sports-2-sd/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
-
-#EXTINF:-1 tvg-id="kltra_d55f0339-660e-42f6-aa97-7fba8b21063c" tvg-name="[S4] [UPCOMING] [La Liga] Real Betis vs Barcelona - Server 4 (Beesport - ESPN Deportes BU) • 23:25 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png" group-title="⏳ Upcoming Event",[S4] [UPCOMING] [La Liga] Real Betis vs Barcelona - Server 4 (Beesport - ESPN Deportes BU) • 23:25 WIB
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/ESPN-Deportes-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
-
-#EXTINF:-1 tvg-id="kltra_c5256b22-d193-4ea2-83ea-6cdb39e77b87" tvg-name="[S1] [UPCOMING] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 1 (Kltra - HD AUTO) • 23:25 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 1 (Kltra - HD AUTO) • 23:25 WIB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-#EXTINF:-1 tvg-id="kltra_c5256b22-d193-4ea2-83ea-6cdb39e77b87" tvg-name="[S2] [UPCOMING] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 2 (Beesport - Sky Bundesliga 1) • 23:25 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 2 (Beesport - Sky Bundesliga 1) • 23:25 WIB
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Bundesliga-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
-
-#EXTINF:-1 tvg-id="kltra_c5256b22-d193-4ea2-83ea-6cdb39e77b87" tvg-name="[S3] [UPCOMING] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 3 (Beesport - Sky Sports Football) • 23:25 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png" group-title="⏳ Upcoming Event",[S3] [UPCOMING] [Bundesliga] Bayern Munchen vs RB Leipzig - Server 3 (Beesport - Sky Sports Football) • 23:25 WIB
-#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Sports-Football/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
 
 #EXTINF:-1 tvg-id="bs_red-star-fc-93-vs-saint-etienne-202610161730" tvg-name="[S1] [UPCOMING] [Ligue 2] RED Star FC 93 vs Saint Etienne - Server 1 (Beesport - BEIN SPORTS 1) • 00:30 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/104.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Ligue 2] RED Star FC 93 vs Saint Etienne - Server 1 (Beesport - BEIN SPORTS 1) • 00:30 WIB
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
@@ -1180,10 +1151,283 @@ https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/NL-ESPN-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/NL-ESPN-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
 
 #EXTINF:-1 tvg-id="bs_hannover-96-vs-fc-st-pauli-202610171100" tvg-name="[S1] [UPCOMING] [2. Bundesliga] Hannover 96 vs FC St. Pauli - Server 1 (Beesport - Sky Bundesliga 2) • 01:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/166.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [2. Bundesliga] Hannover 96 vs FC St. Pauli - Server 1 (Beesport - Sky Bundesliga 2) • 01:00 WIB
 #EXTVLCOPT:http-referrer=https://new-player.greenvora.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
-https://enewl.greenvora.net/Sky-Bundesliga-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+https://enewl.greenvora.net/Sky-Bundesliga-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="bs_philadelphia-union-vs-charlotte-202610171800" tvg-name="[S1] [UPCOMING] [Major League Soccer] Philadelphia Union vs Charlotte - Server 1 (Beesport - MLS Live 1) • 01:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1599.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Major League Soccer] Philadelphia Union vs Charlotte - Server 1 (Beesport - MLS Live 1) • 01:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-1/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_philadelphia-union-vs-charlotte-202610171800" tvg-name="[S2] [UPCOMING] [Major League Soccer] Philadelphia Union vs Charlotte - Server 2 (Beesport - MLS Live 1 BU) • 01:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1599.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Major League Soccer] Philadelphia Union vs Charlotte - Server 2 (Beesport - MLS Live 1 BU) • 01:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-1-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="bs_lille-vs-stade-brestois-29-202610171430" tvg-name="[S1] [UPCOMING] [Ligue 1] Lille vs Stade Brestois 29 - Server 1 (Beesport - Bein Sports USA) • 01:15 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/79.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Ligue 1] Lille vs Stade Brestois 29 - Server 1 (Beesport - Bein Sports USA) • 01:15 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Bein-Sports-USA/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_lille-vs-stade-brestois-29-202610171430" tvg-name="[S2] [UPCOMING] [Ligue 1] Lille vs Stade Brestois 29 - Server 2 (Beesport - BEIN SPORT USA BU) • 01:15 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/79.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Ligue 1] Lille vs Stade Brestois 29 - Server 2 (Beesport - BEIN SPORT USA BU) • 01:15 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/BEIN-SPORT-USA-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_estac-troyes-vs-lens-202610171430" tvg-name="[S1] [UPCOMING] [Ligue 1] Estac Troyes vs Lens - Server 1 (Beesport - Portugal Sport TV 2 BU) • 01:15 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/110.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Ligue 1] Estac Troyes vs Lens - Server 1 (Beesport - Portugal Sport TV 2 BU) • 01:15 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Portugal-Sport-TV-2-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_dundee-vs-rangers-202610171330" tvg-name="[S1] [UPCOMING] [Premiership] Dundee vs Rangers - Server 1 (Beesport - Sky Sports Football) • 01:30 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/253.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Premiership] Dundee vs Rangers - Server 1 (Beesport - Sky Sports Football) • 01:30 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Sky-Sports-Football/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_dundee-vs-rangers-202610171330" tvg-name="[S2] [UPCOMING] [Premiership] Dundee vs Rangers - Server 2 (Beesport - Sky Sports Main Event) • 01:30 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/253.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Premiership] Dundee vs Rangers - Server 2 (Beesport - Sky Sports Main Event) • 01:30 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Sky-Sports-Main-Event/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_las-palmas-vs-castellon-202610181430" tvg-name="[S1] [UPCOMING] [Segunda División] Las Palmas vs Castellón - Server 1 (Beesport - LaLiga Hypermotion) • 01:30 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/534.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Segunda División] Las Palmas vs Castellón - Server 1 (Beesport - LaLiga Hypermotion) • 01:30 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/LaLiga-Hypermotion/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="kltra_f430d06e-18ac-4b88-b5a2-667078758416" tvg-name="[S1] [UPCOMING] [Serie A] Roma vs Genoa - Server 1 (Kltra - HD AUTO) • 01:40 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Serie A] Roma vs Genoa - Server 1 (Kltra - HD AUTO) • 01:40 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="kltra_f430d06e-18ac-4b88-b5a2-667078758416" tvg-name="[S2] [UPCOMING] [Serie A] Roma vs Genoa - Server 2 (Kltra - HD AUTO) • 01:40 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Serie A] Roma vs Genoa - Server 2 (Kltra - HD AUTO) • 01:40 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://a151aivottlinear-a.akamaihd.net/OTTB/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="kltra_f430d06e-18ac-4b88-b5a2-667078758416" tvg-name="[S3] [UPCOMING] [Serie A] Roma vs Genoa - Server 3 (Beesport - Portugal Sport TV 1 BU) • 01:40 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png" group-title="⏳ Upcoming Event",[S3] [UPCOMING] [Serie A] Roma vs Genoa - Server 3 (Beesport - Portugal Sport TV 1 BU) • 01:40 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/Portugal-Sport-TV-1-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="kltra_abf526f1-413a-4773-b4ca-37c71ca815ed" tvg-name="[S1] [UPCOMING] [La Liga] Valencia vs Athletic Club - Server 1 (Kltra - HD AUTO) • 01:55 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_96x96.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [La Liga] Valencia vs Athletic Club - Server 1 (Kltra - HD AUTO) • 01:55 WIB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#EXTVLCOPT:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="kltra_abf526f1-413a-4773-b4ca-37c71ca815ed" tvg-name="[S2] [UPCOMING] [La Liga] Valencia vs Athletic Club - Server 2 (Beesport - ESPN Deportes) • 01:55 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_96x96.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [La Liga] Valencia vs Athletic Club - Server 2 (Beesport - ESPN Deportes) • 01:55 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/ESPN-Deportes/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="kltra_abf526f1-413a-4773-b4ca-37c71ca815ed" tvg-name="[S3] [UPCOMING] [La Liga] Valencia vs Athletic Club - Server 3 (Beesport - ESPN Deportes BU) • 01:55 WIB" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_96x96.png" group-title="⏳ Upcoming Event",[S3] [UPCOMING] [La Liga] Valencia vs Athletic Club - Server 3 (Beesport - ESPN Deportes BU) • 01:55 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/ESPN-Deportes-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_minnesota-united-fc-vs-st-louis-city-202610172000" tvg-name="[S1] [UPCOMING] [Major League Soccer] Minnesota United FC vs St. Louis City - Server 1 (Beesport - MLS Live 2) • 03:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1612.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Major League Soccer] Minnesota United FC vs St. Louis City - Server 1 (Beesport - MLS Live 2) • 03:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-2/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="bs_minnesota-united-fc-vs-st-louis-city-202610172000" tvg-name="[S2] [UPCOMING] [Major League Soccer] Minnesota United FC vs St. Louis City - Server 2 (Beesport - MLS Live 2 BU) • 03:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1612.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Major League Soccer] Minnesota United FC vs St. Louis City - Server 2 (Beesport - MLS Live 2 BU) • 03:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-2-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="bs_new-york-city-fc-vs-los-angeles-fc-202605062300" tvg-name="[S1] [UPCOMING] [Major League Soccer] New York City FC vs Los Angeles FC - Server 1 (Beesport - MLS Live 6) • 06:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1604.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Major League Soccer] New York City FC vs Los Angeles FC - Server 1 (Beesport - MLS Live 6) • 06:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-6/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_new-york-city-fc-vs-los-angeles-fc-202605062300" tvg-name="[S2] [UPCOMING] [Major League Soccer] New York City FC vs Los Angeles FC - Server 2 (Beesport - MLS Live 6 BU) • 06:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1604.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Major League Soccer] New York City FC vs Los Angeles FC - Server 2 (Beesport - MLS Live 6 BU) • 06:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-6-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="bs_orlando-city-sc-vs-dc-united-202610172300" tvg-name="[S1] [UPCOMING] [Major League Soccer] Orlando City SC vs DC United - Server 1 (Beesport - MLS Live 7) • 06:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1598.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Major League Soccer] Orlando City SC vs DC United - Server 1 (Beesport - MLS Live 7) • 06:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-7/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_orlando-city-sc-vs-dc-united-202610172300" tvg-name="[S2] [UPCOMING] [Major League Soccer] Orlando City SC vs DC United - Server 2 (Beesport - MLS Live 7 BU) • 06:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1598.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Major League Soccer] Orlando City SC vs DC United - Server 2 (Beesport - MLS Live 7 BU) • 06:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-7-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="bs_atlanta-united-fc-vs-inter-miami-202610172300" tvg-name="[S1] [UPCOMING] [Major League Soccer] Atlanta United FC vs Inter Miami - Server 1 (Beesport - MLS Live 4) • 06:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1608.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Major League Soccer] Atlanta United FC vs Inter Miami - Server 1 (Beesport - MLS Live 4) • 06:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-4/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_atlanta-united-fc-vs-inter-miami-202610172300" tvg-name="[S2] [UPCOMING] [Major League Soccer] Atlanta United FC vs Inter Miami - Server 2 (Beesport - MLS Live 4 BU) • 06:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1608.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Major League Soccer] Atlanta United FC vs Inter Miami - Server 2 (Beesport - MLS Live 4 BU) • 06:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-4-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_new-york-red-bulls-vs-toronto-fc-202610172300" tvg-name="[S1] [UPCOMING] [Major League Soccer] New York Red Bulls vs Toronto FC - Server 1 (Beesport - MLS Live 8) • 06:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1602.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Major League Soccer] New York Red Bulls vs Toronto FC - Server 1 (Beesport - MLS Live 8) • 06:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-8/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="bs_new-york-red-bulls-vs-toronto-fc-202610172300" tvg-name="[S2] [UPCOMING] [Major League Soccer] New York Red Bulls vs Toronto FC - Server 2 (Beesport - MLS Live 8 BU) • 06:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1602.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Major League Soccer] New York Red Bulls vs Toronto FC - Server 2 (Beesport - MLS Live 8 BU) • 06:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-8-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_new-england-revolution-vs-chicago-fire-202610172300" tvg-name="[S1] [UPCOMING] [Major League Soccer] New England Revolution vs Chicago Fire - Server 1 (Beesport - MLS Live 5) • 06:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1609.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Major League Soccer] New England Revolution vs Chicago Fire - Server 1 (Beesport - MLS Live 5) • 06:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-5/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_new-england-revolution-vs-chicago-fire-202610172300" tvg-name="[S2] [UPCOMING] [Major League Soccer] New England Revolution vs Chicago Fire - Server 2 (Beesport - MLS Live 5 BU) • 06:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1609.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Major League Soccer] New England Revolution vs Chicago Fire - Server 2 (Beesport - MLS Live 5 BU) • 06:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-5-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_houston-dynamo-vs-fc-dallas-202610180000" tvg-name="[S1] [UPCOMING] [Major League Soccer] Houston Dynamo vs FC Dallas - Server 1 (Beesport - MLS Live 10) • 07:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1600.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Major League Soccer] Houston Dynamo vs FC Dallas - Server 1 (Beesport - MLS Live 10) • 07:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-10/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_houston-dynamo-vs-fc-dallas-202610180000" tvg-name="[S2] [UPCOMING] [Major League Soccer] Houston Dynamo vs FC Dallas - Server 2 (Beesport - MLS Live 10 BU) • 07:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1600.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Major League Soccer] Houston Dynamo vs FC Dallas - Server 2 (Beesport - MLS Live 10 BU) • 07:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-10-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_sporting-kansas-city-vs-real-salt-lake-202610180000" tvg-name="[S1] [UPCOMING] [Major League Soccer] Sporting Kansas City vs Real Salt Lake - Server 1 (Beesport - MLS Live 12) • 07:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1611.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Major League Soccer] Sporting Kansas City vs Real Salt Lake - Server 1 (Beesport - MLS Live 12) • 07:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-12/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_sporting-kansas-city-vs-real-salt-lake-202610180000" tvg-name="[S2] [UPCOMING] [Major League Soccer] Sporting Kansas City vs Real Salt Lake - Server 2 (Beesport - MLS Live 12 BU) • 07:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1611.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Major League Soccer] Sporting Kansas City vs Real Salt Lake - Server 2 (Beesport - MLS Live 12 BU) • 07:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-12-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_austin-vs-vancouver-whitecaps-202610180000" tvg-name="[S1] [UPCOMING] [Major League Soccer] Austin vs Vancouver Whitecaps - Server 1 (Beesport - MLS Live 11) • 07:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/16489.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Major League Soccer] Austin vs Vancouver Whitecaps - Server 1 (Beesport - MLS Live 11) • 07:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-11/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="bs_austin-vs-vancouver-whitecaps-202610180000" tvg-name="[S2] [UPCOMING] [Major League Soccer] Austin vs Vancouver Whitecaps - Server 2 (Beesport - MLS Live 11 BU) • 07:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/16489.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Major League Soccer] Austin vs Vancouver Whitecaps - Server 2 (Beesport - MLS Live 11 BU) • 07:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-11-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_wellington-phoenix-vs-melbourne-victory-202610180130" tvg-name="[S1] [UPCOMING] [A-League] Wellington Phoenix vs Melbourne Victory - Server 1 (Beesport - TNT Sports 3) • 08:30 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/942.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [A-League] Wellington Phoenix vs Melbourne Victory - Server 1 (Beesport - TNT Sports 3) • 08:30 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/TNT-Sports-3/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_wellington-phoenix-vs-melbourne-victory-202610180130" tvg-name="[S2] [UPCOMING] [A-League] Wellington Phoenix vs Melbourne Victory - Server 2 (Beesport - TNT Sports 3 BU) • 08:30 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/942.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [A-League] Wellington Phoenix vs Melbourne Victory - Server 2 (Beesport - TNT Sports 3 BU) • 08:30 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/TNT-Sports-3-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_san-jose-earthquakes-vs-nashville-sc-202610180200" tvg-name="[S1] [UPCOMING] [Major League Soccer] San Jose Earthquakes vs Nashville SC - Server 1 (Beesport - MLS Live 13) • 09:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1596.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Major League Soccer] San Jose Earthquakes vs Nashville SC - Server 1 (Beesport - MLS Live 13) • 09:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-13/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_san-jose-earthquakes-vs-nashville-sc-202610180200" tvg-name="[S2] [UPCOMING] [Major League Soccer] San Jose Earthquakes vs Nashville SC - Server 2 (Beesport - MLS Live 13 BU) • 09:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1596.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Major League Soccer] San Jose Earthquakes vs Nashville SC - Server 2 (Beesport - MLS Live 13 BU) • 09:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-13-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_seattle-sounders-vs-montreal-impact-202610180200" tvg-name="[S1] [UPCOMING] [Major League Soccer] Seattle Sounders vs Montreal Impact - Server 1 (Beesport - MLS Live 16) • 09:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1595.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Major League Soccer] Seattle Sounders vs Montreal Impact - Server 1 (Beesport - MLS Live 16) • 09:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-16/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_seattle-sounders-vs-montreal-impact-202610180200" tvg-name="[S2] [UPCOMING] [Major League Soccer] Seattle Sounders vs Montreal Impact - Server 2 (Beesport - MLS Live 16 BU) • 09:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1595.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Major League Soccer] Seattle Sounders vs Montreal Impact - Server 2 (Beesport - MLS Live 16 BU) • 09:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-16-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_los-angeles-galaxy-vs-san-diego-202610180200" tvg-name="[S1] [UPCOMING] [Major League Soccer] Los Angeles Galaxy vs San Diego - Server 1 (Beesport - MLS Live 14) • 09:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1605.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Major League Soccer] Los Angeles Galaxy vs San Diego - Server 1 (Beesport - MLS Live 14) • 09:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-14/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea0
+
+#EXTINF:-1 tvg-id="bs_los-angeles-galaxy-vs-san-diego-202610180200" tvg-name="[S2] [UPCOMING] [Major League Soccer] Los Angeles Galaxy vs San Diego - Server 2 (Beesport - MLS Live 14 BU) • 09:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1605.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Major League Soccer] Los Angeles Galaxy vs San Diego - Server 2 (Beesport - MLS Live 14 BU) • 09:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-14-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_portland-timbers-vs-colorado-rapids-202610180200" tvg-name="[S1] [UPCOMING] [Major League Soccer] Portland Timbers vs Colorado Rapids - Server 1 (Beesport - MLS Live 15) • 09:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1617.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Major League Soccer] Portland Timbers vs Colorado Rapids - Server 1 (Beesport - MLS Live 15) • 09:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-15/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea1
+
+#EXTINF:-1 tvg-id="bs_portland-timbers-vs-colorado-rapids-202610180200" tvg-name="[S2] [UPCOMING] [Major League Soccer] Portland Timbers vs Colorado Rapids - Server 2 (Beesport - MLS Live 15 BU) • 09:00 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/1617.png" group-title="⏳ Upcoming Event",[S2] [UPCOMING] [Major League Soccer] Portland Timbers vs Colorado Rapids - Server 2 (Beesport - MLS Live 15 BU) • 09:00 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/MLS-Live-15-BU/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
+
+#EXTINF:-1 tvg-id="bs_waalwijk-vs-fc-volendam-202610180945" tvg-name="[S1] [UPCOMING] [Eerste Divisie] Waalwijk vs FC Volendam - Server 1 (Beesport - NL ESPN 3) • 16:45 WIB" tvg-logo="https://i0.wp.com/static.cdnpro.sbs//football/teams/417.png" group-title="⏳ Upcoming Event",[S1] [UPCOMING] [Eerste Divisie] Waalwijk vs FC Volendam - Server 1 (Beesport - NL ESPN 3) • 16:45 WIB
+#EXTVLCOPT:http-referrer=https://new-player.greenvora.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36", "Referer": "https://new-player.greenvora.net"}
+https://enewl.greenvora.net/NL-ESPN-3/index.jpg?fastoken=784fd036-0599-4081-b39a-4d562abadea2
