@@ -791,7 +791,16 @@ def main():
         sport_score = 0 if item['sport'] == 1 else 1
         return (time_score, sport_score)
 
-    indo_matches.sort(key=live_sort_key)
+    def indo_sort_key(item):
+        if item['is_live']:
+            sport_score = 0 if item['sport'] == 1 else 1
+            return (0, sport_score, -item['time'])
+        else:
+            t = item['time'] if item['time'] > 0 else 99_999_999_999_999
+            sport_score = 0 if item['sport'] == 1 else 1
+            return (1, t, sport_score)
+
+    indo_matches.sort(key=indo_sort_key)
     live_matches.sort(key=live_sort_key)
     upcoming_matches.sort(key=upcoming_sort_key)
 

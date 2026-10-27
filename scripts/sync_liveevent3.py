@@ -510,6 +510,8 @@ def generate_m3u(matches: list) -> str:
         else:
             upcoming_matches.append(m)
 
+    # Sort indo: live first, then upcoming by timestamp ASC
+    indo_matches.sort(key=lambda x: (0 if x['is_live'] else 1, x['timestamp'] if x['timestamp'] > 0 else 9999999999))
     # Sort upcoming by timestamp
     upcoming_matches.sort(key=lambda x: x['timestamp'] if x['timestamp'] > 0 else 9999999999)
 
