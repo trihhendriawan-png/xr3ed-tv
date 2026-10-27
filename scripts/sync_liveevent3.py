@@ -354,9 +354,7 @@ def parse_all_matches():
                     for s_idx, s_url in enumerate(detail_cache[match_id]):
                         if s_url and isinstance(s_url, str) and s_url.startswith('http'):
                             valid_streams.append({'name': f'Stream {s_idx+1}', 'url': s_url})
-                elif is_live and norm_key in existing_cached_streams:
-                    for s_idx, s_url in enumerate(existing_cached_streams[norm_key]):
-                        valid_streams.append({'name': f'Stream {s_idx+1}', 'url': s_url})
+                # Do NOT reuse unverified stale cached streams (causes 404 buffering)
 
                 raw_streams = item.get(streams_k, [])
                 if isinstance(raw_streams, list):
