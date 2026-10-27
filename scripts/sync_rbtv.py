@@ -824,13 +824,28 @@ def main():
         ""
     ]
 
+    now_dt = datetime.now(WIB)
+
     def render_match(m, group_name):
-        time_wib = datetime.fromtimestamp(m['time'] / 1000, WIB).strftime("%H:%M") if m['time'] > 0 else "?"
+        if m['time'] > 0:
+            match_dt = datetime.fromtimestamp(m['time'] / 1000, tz=WIB)
+            if match_dt.date() == now_dt.date():
+                time_label = match_dt.strftime("%H:%M WIB")
+            else:
+                time_label = match_dt.strftime("%d/%m %H:%M WIB")
+        else:
+            time_label = "Upcoming"
+
         poster_url = select_match_poster(m, api_host, main_url)
 
         league_prefix = f"[{m['league']}] " if m['league'] and not m['title'].lower().startswith(m['league'].lower()) else ""
-        time_suffix = f" • 🔴 LIVE" if m['is_live'] else f" • {time_wib} WIB"
-        base_title = f"{league_prefix}{m['title']}{time_suffix}"
+
+        if m['is_live']:
+            status_prefix = "🔴 LIVE "
+        else:
+            status_prefix = f"⏳ {time_label} "
+
+        base_title = f"{status_prefix}{league_prefix}{m['title']}"
 
         server_count = stream_counts.get(m['id'], 1)
         for s_idx in range(server_count):
