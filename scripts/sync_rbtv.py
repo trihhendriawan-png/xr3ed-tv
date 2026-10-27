@@ -90,8 +90,12 @@ STATUS_NAMES = {
 }
 
 ONGOING_STATUSES = {
-    1, 100, 101, 102, 103, 104, 105, 200, 201, 202, 203, 204, 211, 212, 213, 214,
-    300, 400, 600, 700, 800, 900, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 9000
+    1, 2, 3, 4, 5, 7, 8, 9, 10,
+    100, 101, 102, 103, 104, 105,
+    200, 201, 202, 203, 204, 205, 211, 212, 213, 214,
+    300, 301, 302, 303, 304,
+    400, 600, 601, 602, 603, 604,
+    700, 800, 900, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 9000
 }
 
 INDONESIA_KEYWORDS = [
@@ -745,16 +749,12 @@ def main():
 
         is_indo = is_indonesia_match(title, league, home, away)
 
-        # Match yang waktu mulainya masih di masa depan (> 15 menit lagi) tidak boleh dianggap Live
-        is_future = (m_time > 0 and m_time > (now_ms + 15 * 60 * 1000))
-        if is_future:
+        # Status >= 10000 = Selesai. Hanya status yang ada di ONGOING_STATUSES yang dianggap Live.
+        is_finished = status >= 10000
+        if is_finished:
             is_live = False
         else:
-            is_live = (
-                m.get('is_live_hint', False) or
-                (status in ONGOING_STATUSES) or
-                (m['id'] in gist_live_ids and status < 10000)
-            )
+            is_live = (status in ONGOING_STATUSES) or (m['id'] in gist_live_ids and status in ONGOING_STATUSES)
 
         m_item = {
             **m,
@@ -849,7 +849,7 @@ def main():
             token_payload = f"{m['id']}:{m['sport']}"
             enc_token = encrypt_match_id(token_payload, WORKER_AUTH_KEY)
             resolver_base = RBTV_RESOLVER_URL
-            stream_url = f"{resolver_base}/live/{enc_token}.m3u8?s={s_idx}"
+            stream_url = f"{resolver_base}/live/{enc_token}.m3u8?s={s_idx}&proxy_seg=1"
             m3u_lines.append(stream_url)
             m3u_lines.append("")
 

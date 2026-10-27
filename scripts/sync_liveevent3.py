@@ -445,7 +445,7 @@ def parse_all_matches():
                 if 'progress' in time_lower or 'live' in time_lower or "'" in time_lower or 'ht' in time_lower or 'quarter' in time_lower:
                     is_live = True
                 elif ts > 0:
-                    if (now_ts - 2.5 * 3600) <= ts <= (now_ts + 15 * 60):
+                    if (now_ts >= ts) and (now_ts <= ts + 3 * 3600) and valid_streams:
                         is_live = True
                     elif ts < (now_ts - 3 * 3600):
                         continue
@@ -548,6 +548,8 @@ def generate_m3u(matches: list) -> str:
             sorted_streams = []
             for s in sorted(m['streams'], key=lambda x: stream_quality_score(x.get('url', '')), reverse=True):
                 u_str = s.get('url', '').strip()
+                if stream_quality_score(u_str) < 0:
+                    continue
                 if u_str and u_str not in seen_urls:
                     seen_urls.add(u_str)
                     sorted_streams.append(s)
